@@ -6,7 +6,6 @@
 3.  Iniciar os servidores:  na diretoria app-server executar **npm run all*
 
 Aplicação a correr em: http://localhost:7002
-Para instalar as dependências:
 
 ### Upload de múltiplos ficheiros via API
 
