@@ -3,7 +3,7 @@
 ### Para correr a aplicação:
 1.  Instalar os módulos necessarios: nas directorias api-server, app-server, auth-server executar **npm i**
 2.  Povoar as bases de dados:  na directoria principal, DAW2020_eduShare, executar **node populate.js**
-3.  Iniciar os servidores:  na diretoria app-server executar **npm run all*
+3.  Iniciar os servidores:  na diretoria app-server executar **npm run all**
 
 Aplicação a correr em: http://localhost:7002
 
