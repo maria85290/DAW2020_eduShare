@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="pr.css"?>
+<pr>
+ <meta>
+     <key>DAW2020::Project</key>
+     <title>eduShare</title>
+     <bdate> 4.12.2020 </bdate>
+     <edate> 7.02.2021 </edate>
+     <supervisor url= "http://www4.di.uminho.pt/~jcr/"> José Carlos Ramalho </supervisor>
+ </meta>  
+ <team>
+     <member id ="pg42844">
+         <name>Maria Laura de Araújo Barbosa</name>
+         <email>pg42844@alunos.uminho.pt</email>
+         <url> "https://github.com/maria85290" </url>
+     </member>
+     <member id ="pg42820">
+         <name>Cosntança Elias</name>
+         <email>pg42820@alunos.uminho.pt</email>
+         <url> "https://github.com/ConstancaElias" </url>
+     </member>
+ </team>
+ <abstract>
+     <p>
+     A  solução desenvolvida para o problema previamente identificado foi distribuída por três servidores que comunicam entre si, como foi explicado anteriormente. São eles:
+     </p>
+
+     <p> app-server - Um servidor Web que funciona como ponto principal da nossa solução, permitindo ao utilizador interagir com a ferramenta (registar-se, iniciar sessão, consultar o feed de notícias, carregar ficheiros para a ferramentas, consultar recursos e interagir com outros utilizadores). Foi desenvolvido em <i>NodeJS</i> e em <i>Express</i> e encontra-se à escuta de pedidos no endereço http://localhost:7002/.
+      </p>
+    <p>>api-server - Servidor responsável por gerir as bases de dados dos Posts e Recursos. Por defeito, quando inicializado, o módulo <i>moongose</i> conecta à base de dados <i>default</i>, estabelecendo depois conexão com a base de dados dos Posts ou Recursos de acordo com o modelo que se encontra a verificar. Este servidor encontra-se `à escuta de pedidos na porta 7001.
+     </p>
+    
+    <p>auth-server - Servidor responsável por gerir a base de dados com os dados dos utilizadores. Ao iniciar, estabelece conexão com a base de dados <i>users</i>. É o responsável pela autenticação e criação dos tokens de acesso à API de dados. Encontra-se à escuta de pedidos na porta 7003. 
+     </p>
+     
+ </abstract>
+    <deliverables>
+        <link url= "https://github.com/maria85290/DAW2020_eduShare"> eduShare </link>
+        <link url= "https://github.com/maria85290/DAW2020_eduShare/blob/main/relatorio.pdf" > Relatório </link>
+        
+ </deliverables>
+</pr>
