@@ -1,0 +1,21 @@
+id: e7affc24-9bb8-4785-b2e7-2863aea6571b
+name: pi2011-lei-exame-especial.pdf
+title: pi2011-lei-exame-especial
+subtitle:  
+id_produces: mcintoshwiley@playce.com
+authors: Maryann Johnson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_e7affc24-9bb8-4785-b2e7-2863aea6571b
+Bagging-Date: 2021-02-07
+Bag-Size: 99 KB

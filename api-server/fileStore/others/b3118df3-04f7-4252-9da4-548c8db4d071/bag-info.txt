@@ -1,0 +1,21 @@
+id: b3118df3-04f7-4252-9da4-548c8db4d071
+name: Polinómios.zip
+title: Polinómios
+subtitle:  
+id_produces: reillytravis@playce.com
+authors: Mccarthy Williamson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/zip
+visibility: public
+hashtags: 
+id_post: post_b3118df3-04f7-4252-9da4-548c8db4d071
+Bagging-Date: 2021-02-07
+Bag-Size: 1.7 KB

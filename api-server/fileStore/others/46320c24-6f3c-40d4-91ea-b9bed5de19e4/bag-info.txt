@@ -1,0 +1,20 @@
+id: 46320c24-6f3c-40d4-91ea-b9bed5de19e4
+name: progC-salasCinema.zip
+title: progC-salasCinema
+subtitle:  
+id_produces: middletonmays@playce.com
+authors: Sybil Gill
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/zip
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 1.7 KB

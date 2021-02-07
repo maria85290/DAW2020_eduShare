@@ -1,0 +1,146 @@
+<PRE>
+
+SUF=dummy
+
+$(SUF): lex.yy.o y.tab.o listas.o
+	cc -o $(SUF) lex.yy.o y.tab.o listas.o -lfl
+
+lex.yy.o: lex.yy.c y.tab.h
+	cc -c lex.yy.c
+
+lex.yy.c: $(SUF).l
+	flex $(SUF).l
+
+y.tab.o: y.tab.c
+	cc -c y.tab.c
+
+y.tab.c y.tab.h : $(SUF).y listas.h
+	yacc -d $(SUF).y
+
+listas.o: listas.c listas.h
+	cc -c listas.c
+
+clean: 
+	rm *.o
+
+**************************************************************************
+
+#ifndef _LISTAS
+#define _LISTAS
+#define P0 1000
+#define P1 1001
+
+// Para cada simbolo nao terminal (X pertencente a N)
+
+typedef struct sList
+{
+  int tag;
+  union
+  {
+    struct{
+    }p0;
+    struct{
+      int i; 
+      struct sList *l;
+    }p1;
+  }u;
+}*List;
+
+//Assinatura das funcoes
+
+List consP0();
+List consP1(int,List);
+void showList(List);
+int somaList(List);
+
+#endif
+**************************************************************************
+
+#include<stdio.h>
+#include "listas.h"
+
+List consP0()
+{
+  List aux;
+
+  aux = (List)malloc(sizeof(struct sList));
+  aux->tag = P0;
+  return aux;
+}
+
+List consP1(int i,List l)
+{
+  List aux;
+
+  aux = (List)malloc(sizeof(struct sList));
+  aux->tag = P1;
+  aux->u.p1.i = i;
+  aux->u.p1.l = l;
+  return aux;
+}
+ 
+void showList(List l){
+  switch(l->tag)
+    {
+    case P0: fprintf(stdout,"[]");
+             break;
+
+    case P1: fprintf(stdout,"%d",l->u.p1.i);
+             fprintf(stdout,":");
+             showList(l->u.p1.l);
+             break;
+    }
+}
+
+int somaList(List l)
+{
+  switch(l->tag)
+    {
+    case P0: return 0;
+
+    case P1 : return(l->u.p1.i +somaList(l->u.p1.l));
+    }
+}
+
+ 
+
+**************************************************************************
+
+%{
+#include "y.tab.h"
+  extern int yylval;
+%}
+%%
+\(   return (*yytext);
+
+\)   return (*yytext);
+
+;    return (*yytext);
+
+[0-9]+ {yylval = atoi(yytext);
+        return INTEIRO;}
+
+[ \t\n] ;
+
+.    return ERRO;
+**************************************************************************
+
+%token INTEIRO
+%token ERRO
+%%
+
+Lsimples : '(' Conteudo ')' {showList($2); printf("\nSoma: %d\n",somaList($2));};
+
+Conteudo: INTEIRO ';' Conteudo {$$ = consP1($1,$3);}
+        | {$$ = consP0();} ;
+
+%%
+int yyerror(){
+   printf("Erro\n");
+   return  0;
+}
+int main(){
+  yyparse();
+}
+
+</PRE>

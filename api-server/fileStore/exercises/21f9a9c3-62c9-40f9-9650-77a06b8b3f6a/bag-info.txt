@@ -1,0 +1,21 @@
+id: 21f9a9c3-62c9-40f9-9650-77a06b8b3f6a
+name: pi2010-miniteste2C.pdf
+title: pi2010-miniteste2C
+subtitle:  
+id_produces: fryeware@playce.com
+authors: Spencer Ramos
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_21f9a9c3-62c9-40f9-9650-77a06b8b3f6a
+Bagging-Date: 2021-02-07
+Bag-Size: 46 KB

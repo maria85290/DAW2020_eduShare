@@ -1,0 +1,20 @@
+id: 1dc50f75-0fc8-46cb-9314-4b734d976e97
+name: INTERFACES_E_COMPARATOR.pdf
+title: INTERFACES_E_COMPARATOR
+subtitle:  
+id_produces: helenaspence@playce.com
+authors: Henry Collier
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

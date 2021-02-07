@@ -1,0 +1,21 @@
+id: 641cc3ee-e981-4813-af80-d242feba8a9d
+name: pi2008-e1.pdf
+title: pi2008-e1
+subtitle:  
+id_produces: carolmack@playce.com
+authors: Lela Cooke
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_641cc3ee-e981-4813-af80-d242feba8a9d
+Bagging-Date: 2021-02-07
+Bag-Size: 89 KB

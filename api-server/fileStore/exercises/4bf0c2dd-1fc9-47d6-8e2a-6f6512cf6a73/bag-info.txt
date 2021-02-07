@@ -1,0 +1,21 @@
+id: 4bf0c2dd-1fc9-47d6-8e2a-6f6512cf6a73
+name: STREAMS_JAVA_ESSENCIAL.pdf
+title: STREAMS_JAVA_ESSENCIAL
+subtitle:  
+id_produces: rollinsweaver@playce.com
+authors: Marianne Anderson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_4bf0c2dd-1fc9-47d6-8e2a-6f6512cf6a73
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

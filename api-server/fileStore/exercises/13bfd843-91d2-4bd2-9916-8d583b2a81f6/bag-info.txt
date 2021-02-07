@@ -1,0 +1,20 @@
+id: 13bfd843-91d2-4bd2-9916-8d583b2a81f6
+name: AI___trabalho_Individual (2).pdf
+title: AI___trabalho_Individual (2)
+subtitle:  
+id_produces: lindseysantiago@playce.com
+authors: Acevedo Cunningham
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

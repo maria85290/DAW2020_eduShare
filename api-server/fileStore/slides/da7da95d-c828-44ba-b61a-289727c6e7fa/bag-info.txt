@@ -1,0 +1,21 @@
+id: da7da95d-c828-44ba-b61a-289727c6e7fa
+name: rtx110300444p.pdf
+title: rtx110300444p
+subtitle:  
+id_produces: colonshields@playce.com
+authors: Cox Cline
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_da7da95d-c828-44ba-b61a-289727c6e7fa
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,21 @@
+id: f1e35043-f450-4ce7-9396-0d640e4c1f2d
+name: pri2020-e1.html
+title: pri2020-e1
+subtitle:  
+id_produces: lulafrank@playce.com
+authors: Christy Finch
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_f1e35043-f450-4ce7-9396-0d640e4c1f2d
+Bagging-Date: 2021-02-07
+Bag-Size: 13 KB

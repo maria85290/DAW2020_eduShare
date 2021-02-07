@@ -1,0 +1,21 @@
+id: 707c0b58-d8ea-4955-846c-bf7c1a5a685a
+name: tx080600704p.pdf
+title: tx080600704p
+subtitle:  
+id_produces: maciashayden@playce.com
+authors: Lela Cooke
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_707c0b58-d8ea-4955-846c-bf7c1a5a685a
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

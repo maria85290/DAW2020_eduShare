@@ -1,0 +1,21 @@
+id: 48dbad79-028e-45eb-bfeb-46deea6b9cca
+name: rnoti-p135.pdf
+title: rnoti-p135
+subtitle:  
+id_produces: brownmcclain@playce.com
+authors: Barker Delgado
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_48dbad79-028e-45eb-bfeb-46deea6b9cca
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

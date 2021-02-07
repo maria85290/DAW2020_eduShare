@@ -1,0 +1,21 @@
+id: e344c7b0-5b85-4deb-b4fb-4ed8dc5f1c67
+name: Java_7_for_Absolute_Beginners.pdf
+title: Java_7_for_Absolute_Beginners
+subtitle:  
+id_produces: franklinlynch@playce.com
+authors: Lucia Rice
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 3.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_e344c7b0-5b85-4deb-b4fb-4ed8dc5f1c67
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

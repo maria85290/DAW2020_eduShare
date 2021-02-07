@@ -1,0 +1,21 @@
+id: 3c945576-ec4c-4d77-aba2-7448fcb676b7
+name: pi2010-miniteste3A.pdf
+title: pi2010-miniteste3A
+subtitle:  
+id_produces: laneray@playce.com
+authors: Ester Mcmillan
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_3c945576-ec4c-4d77-aba2-7448fcb676b7
+Bagging-Date: 2021-02-07
+Bag-Size: 53 KB

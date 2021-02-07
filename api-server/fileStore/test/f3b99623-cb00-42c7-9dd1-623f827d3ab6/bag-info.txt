@@ -1,0 +1,21 @@
+id: f3b99623-cb00-42c7-9dd1-623f827d3ab6
+name: BibleFamilyTree.ged.txt
+title: BibleFamilyTree
+subtitle:  
+id_produces: velezchristian@playce.com
+authors: Admin
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: text/plain
+visibility: public
+hashtags: 
+id_post: post_f3b99623-cb00-42c7-9dd1-623f827d3ab6
+Bagging-Date: 2021-02-07
+Bag-Size: 118 KB

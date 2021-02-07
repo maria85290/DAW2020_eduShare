@@ -1,0 +1,21 @@
+id: db1dc4aa-c9b5-420b-9e82-8e15c589eefa
+name: ficha4_Hore.pdf
+title: ficha4_Hore
+subtitle:  
+id_produces: roseannolson@playce.com
+authors: Maldonado Thomas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_db1dc4aa-c9b5-420b-9e82-8e15c589eefa
+Bagging-Date: 2021-02-07
+Bag-Size: 102 KB

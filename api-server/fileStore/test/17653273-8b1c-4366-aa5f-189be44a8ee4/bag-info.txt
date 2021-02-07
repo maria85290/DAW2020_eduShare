@@ -1,0 +1,21 @@
+id: 17653273-8b1c-4366-aa5f-189be44a8ee4
+name: rtx090500616p.pdf
+title: rtx090500616p
+subtitle:  
+id_produces: whitfieldwiggins@playce.com
+authors: Herrera Oneil
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_17653273-8b1c-4366-aa5f-189be44a8ee4
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

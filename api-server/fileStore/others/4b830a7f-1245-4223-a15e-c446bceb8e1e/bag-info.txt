@@ -1,0 +1,21 @@
+id: 4b830a7f-1245-4223-a15e-c446bceb8e1e
+name: Culling_e_Particao_de_Geometria.pdf
+title: Culling_e_Particao_de_Geometria
+subtitle:  
+id_produces: burtongarrett@playce.com
+authors: Wilda Gordon
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_4b830a7f-1245-4223-a15e-c446bceb8e1e
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

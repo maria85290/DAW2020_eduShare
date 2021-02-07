@@ -1,0 +1,20 @@
+id: d1ab6f04-9479-431c-9290-92c1152c9e72
+name: POLIMORFISMO_FRUTA.pdf
+title: POLIMORFISMO_FRUTA
+subtitle:  
+id_produces: jennieduran@playce.com
+authors: Craft Martin
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

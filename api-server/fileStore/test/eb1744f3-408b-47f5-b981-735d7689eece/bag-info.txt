@@ -1,0 +1,20 @@
+id: eb1744f3-408b-47f5-b981-735d7689eece
+name: Exame_Julho_2015_CSSI_MEI.pdf
+title: Exame_Julho_2015_CSSI_MEI
+subtitle:  
+id_produces: juanitaguzman@playce.com
+authors: Mindy Kelly
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 73 KB

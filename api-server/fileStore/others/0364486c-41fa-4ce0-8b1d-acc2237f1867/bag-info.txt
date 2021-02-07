@@ -1,0 +1,20 @@
+id: 0364486c-41fa-4ce0-8b1d-acc2237f1867
+name: Ficha1 - Transformações Geométricas.pdf
+title: Ficha1 - Transformações Geométricas
+subtitle:  
+id_produces: meadowsgoff@playce.com
+authors: Caroline Bass
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.6
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

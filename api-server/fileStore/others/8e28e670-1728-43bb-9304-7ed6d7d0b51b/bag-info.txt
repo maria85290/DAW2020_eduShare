@@ -1,0 +1,20 @@
+id: 8e28e670-1728-43bb-9304-7ed6d7d0b51b
+name: dweb2019-e1.html
+title: dweb2019-e1
+subtitle:  
+id_produces: gibbsclark@playce.com
+authors: Burch Norris
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 12 KB

@@ -1,0 +1,19 @@
+id: ac0738f1bccb98899b5f469c3a5e05a0
+name: alunos.zip
+title: listagem de alunos a frequentar a universidade do minho
+subtitle: uminho
+id_produces: karencervantes@playce.com
+authors: reitoria
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:38:19
+subject: UM
+description: lista de alunos inscritos
+ranking: 0
+rankingList: 
+size: 0
+mimeType: application/x-zip-compressed
+type: others
+visibility: public
+hashtags: uminho
+Bagging-Date: 2021-02-07
+Bag-Size: 3.2 KB

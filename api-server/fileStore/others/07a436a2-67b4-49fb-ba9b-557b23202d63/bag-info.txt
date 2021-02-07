@@ -1,0 +1,21 @@
+id: 07a436a2-67b4-49fb-ba9b-557b23202d63
+name: pokemon.rdf
+title: pokemon
+subtitle:  
+id_produces: fultonhouston@playce.com
+authors: Lindsey Santiago
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 3.4
+mimeType: application/rdf+xml
+visibility: public
+hashtags: 
+id_post: post_07a436a2-67b4-49fb-ba9b-557b23202d63
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

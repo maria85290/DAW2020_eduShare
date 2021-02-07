@@ -1,0 +1,21 @@
+id: 96c74daa-3c6b-4cdc-83ba-78bae80c3bff
+name: rtx120400482p.pdf
+title: rtx120400482p
+subtitle:  
+id_produces: calderonkim@playce.com
+authors: Leonor Kirk
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_96c74daa-3c6b-4cdc-83ba-78bae80c3bff
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

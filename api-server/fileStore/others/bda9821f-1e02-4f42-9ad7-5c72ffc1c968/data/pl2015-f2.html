@@ -1,0 +1,575 @@
+<html>
+   <head>
+      <meta charset="utf-8"/>
+      <title>Arquivo de Fichas Práticas do JCR</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+            crossorigin="anonymous"/>
+   </head>
+   <body style="padding-top:50px;">
+      <div class="navbar navbar-default navbar-fixed-top navbar-inverse">
+         <div class="container">
+            <div class="navbar-header">
+               <a href="../index.php" class="navbar-brand">Arquivo Fichas Práticas</a>
+               <button class="navbar-toggle"
+                       type="button"
+                       data-toggle="collapse"
+                       data-target="#navbar-main">
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+               </button>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar-main">
+               <ul class="nav navbar-nav">
+                  <li>
+                     <a href="../index-fichas.html">Fichas</a>
+                  </li>
+                  <li>
+                     <a href="../index-fichas-categ.html">Fichas/Tema</a>
+                  </li>
+               </ul>
+               <ul class="nav navbar-nav navbar-right">
+                  <li>
+                     <a href="../logs.html">Registo de Alterações</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="container">
+         <div class="row">
+            <div class="col-sm-5 col-md-5">
+               <img class="img-responsive" src="../imagens/fichas.jpeg"/>
+            </div>
+            <div class="col-sm-7 col-md-7">
+               <h2>Ficha pl2015-f2</h2>
+               <h3>Expressões Regulares</h3>
+            </div>
+         </div>
+         <div class="panel panel-default">
+            <div class="panel-body">
+               <a name="ind-ex"/>
+               <p class="lead">Processamento de Linguagens (LEI - 3ºano)</p>
+               <p>
+                  <p>Este ficha prática contem exercícios para serem resolvidos nas aulas teórico-práticas com vista a sedimentar os conhecimentos
+                relativos a: <ul>
+                        <li>Motivação para o uso de Expresses Regulares (ERs) como forma de especificar padrões a pesquisar em textos - recurso a
+                        utilitários de <b>Linux</b> que seguem essa abordagem;</li>
+                        <li>Uso de Expressões Regulares para definir (gerar) Linguagens Regulares;</li>
+                        <li>Uso de Expressões Regulares para desenvolver programas eficientes, baseados em algoritmos standard guiados por Autómatos
+                        Finitos Deterministas, para reconhecer Linguagens Regulares;</li>
+                        <li>Uso de Autómatos Deterministas Reactivos, para processar Linguagens Regulares, isto é, para desencadear ações específicas ao
+                        reconhecer frases que derivam de padrões (definidos com base em ERs) - princípio da Programação baseada em regras <i>Condição-Reação</i>, <b>Sistemas de Produção</b>;</li>
+                        <li>Geração automática de programas a partir de especificações formais;</li>
+                        <li>Uso da ferramenta <b>flex</b>, disponível em ambiente <b>Linux</b>, para processamento de linguagens regulares,
+                        nomeadamente para criação de <b>Filtros de Texto</b> em geral.</li>
+                     </ul>
+                  </p>
+                  <p>Para introduzir a ferramenta de geração de programas <i>FLex</i> baseada em especificações com Expressões
+                Regulares, e para ilustrar a importância do uso de autómatos deterministas reactivos como suporte à construção de programas
+                eficientes, propõem-se alguns exercícios, para resolver dentro ou fora da aula, que visam a criação de programas autónomos para
+                    <i>filtrar textos (FT)</i>.</p>
+               </p>
+               <div class="container">
+                  <table>
+                     <tbody>
+                        <tr>
+                           <td>
+                              <h3>
+                Exercícios:
+              </h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <ol>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e1">Processador de Questionários</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e2">Expansor de Abreviaturas</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e3">Somador de Números</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e4">Documento anotado em XML</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e5">Normalizador de Emails</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e6">Palavras, números e número de linha</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e7">Números mistos</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e8">Tokenizer</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e9">A Cabine Telefónica</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e10">O programador da iluminação</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e11">O Jogo dos Dardos</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e12">Username Alien</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e13">Endereços IP</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e14">Latitude e Longitude</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e15">Matrículas de outro mundo</a>
+                                 </li>
+                              </ol>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <hr/>
+               <div class="panel panel-default">
+                  <div class="panel-footer">
+                     <p>Generated by xfichas app by jcr::2015-02-24</p>
+                     <p>[<a href="..">Voltar ao índice de fichas</a>]</p>
+                  </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e1"/>
+                     <h3 class="panel-title">Exercício Nº 1:
+            Processador de Questionários</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Suponha que ao fim de cada entrevista um Repórter produz um texto com as perguntas e respostas, distinguindo umas das outras
+                    porque as perguntas começam com 'EU:', no início da linha, e as respostas começam com 'ELE:', também no início da linha.</p>
+                     <p>Nesse contexto, pretende-se desenvolver um <i>FT</i> para processar os questionários que:</p>
+                     <ol class="a">
+                        <li>simplesmente retire do texto original as tais marcas 'EU:' e 'ELE:', devolvendo todo o resto da entrevista sem qualquer
+                        alteração. Melhore o filtro, de modo a tratar as marcas, quer estejam escritas em maiúsculas, quer em minúsculas;</li>
+                        <li>substituia a marca 'EU' pela palavra 'Entrevistador' e a marca 'ELE' por 'Entrevistado';</li>
+                        <li>substituia a marca 'EU' pelo nome do entrevistador e a marca 'ELE' pelo nome do entrevistado, supondo que no início
+                        encontrará as respectivas definições (ordem irrelevante) na forma 'EU=nome.' ou 'ELE=nome.'</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e2"/>
+                     <h3 class="panel-title">Exercício Nº 2:
+            Expansor de Abreviaturas</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Quando se retiram apontamentos, ou de uma forma geral, se tem de escrever muito depressa, é hábito usar abreviaturas que
+                    correspondam a uma ou mais palavras vulgares e longas.</p>
+                     <p>Suponha que criou esse costume e resolveu inserir nos seus textos as ditas abreviaturas (2 ou mais letras) precedidas pelo
+                    carácter '\'. Por exemplo: '\qq' (qualquer), ou '\mb' (muito bom), ou ainda '\sse' (se e só se).\</p>
+                     <p>Desenvolva então as seguintes alíneas:</p>
+                     <ol class="a">
+                        <li>um <i>FT</i> que lhe devolva o texto original mas com todas as abreviaturas (que definiu à partida)
+                        devidamente expandidas;</li>
+                        <li>melhore o seu filtro de modo a contemplar ainda o tratamento do carácter '/' no fim de uma palavra, representando o sufixo
+                        'mente', e o carácter '~' no início de uma palavra, representando o prefixo 'in'. Uma palavra pode conter ambos os caracteres,
+                        um no início e outro no fim (pense na abreviatura da palavra 'infelizmente');</li>
+                        <li>outra melhoria que poderia introduzir no seu filtro era contemplar a possibilidade de definir abreviaturas dentro do
+                        próprio texto, na forma '\def:abrev=termo-expandido;'. Pense como o fazer e nas implicações que tal requisito teria no seu
+                        filtro original (alínea proposta para pensar fora da aula).</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e3"/>
+                     <h3 class="panel-title">Exercício Nº 3:
+            Somador de Números</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Construa um Filtro de Texto que adicione todos os números dum texto e que, no final, imprima a sua soma (no ficheiro de saída
+                    não deve aparecer nenhum caracter do texto de entrada).</p>
+                     <p>Evolua o seu processador no sentido de:</p>
+                     <ol class="a">
+                        <li>Escrever a soma sempre que encontre o carácter '=';</li>
+                        <li>Só comece a somar quando detectar o carácter '+' e deixe de somar quando este carácter voltar a aparecer.</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e4"/>
+                     <h3 class="panel-title">Exercício Nº 4:
+            Documento anotado em XML</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Como sabe um Documento <i>XML</i> é um texto vulgar semeado de anotações, ou marcas, que são
+                    identificadores especiais (designados por <i>elementos XML</i>) intercalados entre os caracteres '&lt;' e
+                    '&gt;'. Num documento <i>XML</i> bem formado, a cada <i>marca de abertura</i>
+                    corresponderá uma <i>marca de fecho</i>, que tem o mesmo identificador, mas que começa por '&lt;/'
+                    terminando na mesma em '&gt;'.</p>
+                     <p>Desenvolva um filtro de texto (FT) que receba um documento XML e:</p>
+                     <ol class="a">
+                        <li>devolva o texto original, após ter retirado todas as marcas;</li>
+                        <li>conte o número de <i>marcas de abertura</i> e o número de <i>marcas de
+                            fecho</i>, indicando <i>erro</i> sempre que se verifique um desequilíbrio entre ambas (aqui
+                        apenas se pede que detecte o erro por contagem e não atendendo ao <i>identificador do elemento</i> em
+                        causa em cada marca);</li>
+                        <li>verifique a concordância entre as <i>marcas de abertura</i> e as <i>marcas de
+                            fecho</i>}, isto é, garanta que as marcas se fecham por ordem inversa da que abrem, mas agora tomando em atenção o
+                            <i>identificador do elemento</i> em causa em cada marca. No fim produza uma listagem, ordenada
+                        alfabeticamente, de todos os elementos distintos encontrados.</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e5"/>
+                     <h3 class="panel-title">Exercício Nº 5:
+            Normalizador de Emails</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Os Emails escritos à moda <b>PRH</b> caracterizam-se por terem todas as palavras começadas por letras minúsculas, à
+                    exceção dos nomes próprios e siglas.</p>
+                     <p>Desenvolva, então:</p>
+                     <ol class="a">
+                        <li>um FT que normalize o texto, <i>capitalizando</i> (escrevendo a letra inicial em maiúsculas) todas
+                        as palavras no início de cada frase. Além da primeira palavra do texto, uma frase começa depois de um '.', '?' ou '!', seguido
+                        de zero ou mais espaços, eventualmente um ou mais fim-de-linha;</li>
+                        <li>complete a especificação anterior de modo a que o seu <i>normalizador de emails prh</i> conte também
+                        todos os nomes próprios (palavras começadas por maiúsculas) e siglas (palavras formadas só por maiúsculas, uma ou mais)
+                        encontradas no texto original.</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e6"/>
+                     <h3 class="panel-title">Exercício Nº 6:
+            Palavras, números e número de linha</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Construa um programa em Lex que apresente todas as palavras e números do texto fonte, indicando o número da linha onde se
+                    encontram (numa segunda versão indique também em que coluna da linha é iniciada a palavra ou o número).</p>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e7"/>
+                     <h3 class="panel-title">Exercício Nº 7:
+            Números mistos</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Um número misto é constituído por uma parte inteira e uma fração própria (numerador é inferior ao denominador). Exemplos: 5 3/4,
+                    1 2/3, 100 27/35.</p>
+                     <p>Especifique um processador em lex que responda às seguintes alíneas:</p>
+                     <ol class="a">
+                        <li>Sempre que apanhar um número constituído por parte inteira e parte decimal converte-o num número misto. Exemplos dos
+                        números a converter: +356.32, -47.989, 3.731;</li>
+                        <li>Sempre que apanhar uma fração, verifica se esta é imprópria e, em caso afirmativo, converte-a para um número misto.
+                        Exemplos de frações impróprias: 10/3, -15/2, +35/25;</li>
+                        <li>Sempre que apanhar um número misto em que a fração é imprópria assinala o erro e apesenta a forma correta do número em
+                        causa;</li>
+                        <li>Em todas as situações a fração do número misto a ser apresentado deverá estar sempre na sua forma mais reduzida.</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e8"/>
+                     <h3 class="panel-title">Exercício Nº 8:
+            Tokenizer</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Normalmente, um programa/processador que converte uma sequência de carateres numa sequência de símbolos/tokens é designado por
+                    tokenizer.</p>
+                     <p>Neste exercício deverás especificar um programa em C que usará um processador gerado pelo flex para reconhecer os vários
+                    símbolos da linguagem e indicar na saída a respetiva sequência de símbolos.</p>
+                     <p>Os símbolos a reconhecer pertencem à linguagem duma calculadora aritmética simples e são:<dl>
+                        
+                            <dt>Operadores</dt>
+                            <dd>'+', '-', '/', '*';</dd>
+                        
+                        
+                            <dt>Operandos</dt>
+                            <dd>Números inteiros sem sinal;</dd>
+                        
+                        
+                            <dt>Outros</dt>
+                            <dd>Para agrupamento: '(', ')'.</dd>
+                        
+                        </dl>
+                     </p>
+                     <p>O teu programa deverá aceitar frases do tipo:</p>
+                     <pre class="codigo">23+(4*76)</pre>
+                     <p>e gerar:</p>
+                     <pre class="codigo">INT OP AP INT OP INT FP</pre>
+                     <p>O objetivo deste exercício é aprenderes a integrar o código gerado pelo flex numa aplicação em C.</p>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e9"/>
+                     <h3 class="panel-title">Exercício Nº 9:
+            A Cabine Telefónica</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Pretende-se que utilize a ferramenta flex para implementar uma máquina de es- tados que modele a interacção dum utilizador com
+                    um telefone numa cabine pública.</p>
+                     <p>O telefone reage aos seguintes comandos:<dl>
+                        
+                            <dt>LEVANTAR</dt>
+                            <dd>levantar o auscultador; marca o início duma interacção;</dd>
+                        
+                        
+                            <dt>POUSAR</dt>
+                            <dd>pousar o auscultador; fim da interacção; deverá ser indicado o montante a ser devolvido;</dd>
+                        
+                        
+                            <dt>MOEDA &lt;lista de valores&gt;</dt>
+                            <dd>inserção de moedas (só deverá aceitar moedas válidas, para valores inválidos deverá ser gerada uma mensagem de
+                                erro): lista de valores = num, num, ..., num;</dd>
+                        
+                        
+                            <dt>T=numero</dt>
+                            <dd>disca o número ( o número deve ter 9 dígitos excepto se for iniciado por "00"); as diferentes chamadas deverão
+                                ser tratadas da seguinte maneira:<ul>
+                                    <li>para números iniciados por "601" ou "641" a chamada é "barrada";</li>
+                                    <li>para chamadas internacionais (iniciadas por "00") o utilizador tem que ter um saldo igual ou superior a 1,5
+                                        euros, caso contrário deverá ser avisado que o saldo é insuficiente e a máquina volta ao estado anterior; a
+                                        chamada se for realizada tem um custo de 1,5 euros;</li>
+                                    <li>para chamadas nacionais (iniciadas por "2") o saldo mínimo e custo de chamada é de 25 cêntimos;</li>
+                                    <li>para chamadas verdes (iniciadas por "800") o custo é 0;</li>
+                                    <li>para chamadas azuis (iniciadas por "808") o custo é de 10 cêntimos.</li>
+                                </ul>
+                           </dd>
+                        
+                        
+                            <dt>ABORTAR</dt>
+                            <dd>interromper a interacção; a máquina devolve as moedas.</dd>
+                        
+                        </dl>
+                     </p>
+                     <p>Como extra pode ainda detalhar como é que é devolvido o troco: quantas moedas e de que espécie compõem o troco.</p>
+                     <p>A seguir apresenta-se uma possível interacção exemplo.</p>
+                     <pre class="codigo">LEVANTAR
+maq: "Introduza moedas."
+MOEDA 10c, 30c, 50c, 2e.
+maq: "30c - moeda inválida; saldo = 2e60c"
+T=601181818
+maq: "Os números vermelhos estão proibidos!"
+T=253604470
+maq: "saldo = 2e35c"
+POUSAR
+maq: "troco=2e35c; Volte sempre!" ou maq: "troco= 1x2e, 1x20c, 1x10c, 1x5c; Volte sempre!"</pre>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e10"/>
+                     <h3 class="panel-title">Exercício Nº 10:
+            O programador da iluminação</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Um programador para controlo dum sistema de iluminação de jardim, depois de ligado à corrente, pode ser de novo desligado, ou
+                    então aceita dois comandos: <b>manual</b> ou <b>automatico</b>.</p>
+                     <p>Em modo <b>manual</b> pode ser colocado em <b>on</b> (as luzes ficam a partir daí e até novo comando
+                    ligadas), ou em <b>off</b> (as luzes são desligadas e assim permanecem).</p>
+                     <p>Em modo <b>automático</b> requer, ainda, mais duas indicações, a hora (0 a 24) a que deve ser ligado e o número de
+                    horas que deve permanecer ligado; fica, então, em <b>stand-by</b> até que receba um sinal para acender as luzes,
+                    mantendo as luzes acesas até ter recebido um número de impulsos de relógio igual ao número de horas para que foi
+                    programado.</p>
+                     <p>Considerando que o sistema a modelar pode ser encarado como uma máquina de Transição de Estados, desenhe o <b>autómato
+                        determinista reativo</b> que modela o sistema e utilize a sua imaginação para o implementar em C com a ajuda do
+                    Lex.</p>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e11"/>
+                     <h3 class="panel-title">Exercício Nº 11:
+            O Jogo dos Dardos</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Uma das variantes do conhecido jogo das setas (em que se lançam pequenas flechas contra um alvo circular dividido em sectores
+                    iguais marcados com pontos de 1 a 20) é designada por jogo dos 36: um jogador ganha quando, ao fim de lançar várias setas,
+                    conseguir acumular exactamente 36 pontos; perderá logo que a soma ultrapasse esse valor. Contudo só contam os pontos quando uma
+                    seta atingir um dos seguintes sectores: 19, 17, 20, 16, 10, 6, 12; cada vez que uma seta caia noutro sector, com pontos diferentes
+                    destes, a jogada não conta, é ignorada.</p>
+                     <p>Pretende-se, então, desenvolver um programa eficiente que vá recebendo os pontos obtidos por um jogador e determine se este deve
+                    continuar a jogar, ou se deve parar por já ter ganho, ou por ter perdido. Considerando que o sistema a modelar pode ser encarado
+                    como uma Máquina de Transição de Estados, desenhe o autómato determinista reactivo que modela o sistema e implemente-o com a
+                    ferramenta flex do Unix.</p>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e12"/>
+                     <h3 class="panel-title">Exercício Nº 12:
+            Username Alien</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Numa galáxia distante, num planeta muito diferente do nosso, cada utilizador dum computador tem um identificador que segue o 
+                    seguinte formato:<ul>
+                           <li>Começa com um "underscore", ’_’, ou um ponto, ’.’;</li>
+                           <li>Após o primeiro caráter devem seguir-se um ou mais dígitos;</li>
+                           <li>Após um certo número de dígitos devem seguir-se três ou mais letras, maiúsculas e/ou minúsculas;</li>
+                           <li>O nome do utilizador pode ser, opcionalmente terminado por um "underscore", ’_’. Caso isso não aconteça, o último caráter deve ser uma letra.</li>
+                        </ul>
+                     </p>
+                     <p>Dada uma lista de nomes de utilizadores, um por linha, verifica quais são válidos.</p>
+                     <p>Para esses, imprime "VALIDO" numa linha. Para os outros casos imprime "INVALIDO".</p>
+                     <p>Exemplo de input:</p>
+                     <pre class="codigo">_0898989811abced_ 
+_abce 
+_09090909abcD0</pre>
+                     <p>Exemplo de output:</p>
+                     <pre class="codigo">VALIDO
+INVALIDO
+INVALIDO</pre>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e13"/>
+                     <h3 class="panel-title">Exercício Nº 13:
+            Endereços IP</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Dada uma lista de endereços IP, IPv4 ou IPv6, supostamente válidos, especifica um filtro que identifica o tipo de endereço IP 
+                    ou acusa um erro.</p>
+                     <p>Os endereços IPv4 foram os primeiros endereços a serem usados na Internet e eram constituídos por 4 bytes. 
+                    O formato normal é "A.B.C.D" em que A, B, C e D são inteiros compreendidos entre 0 e 255 inclusive.</p>
+                     <p>O IPv4 limitava o número de endereços a um número baixo para as necessidades de hoje em dia e assim surgiu o IPv6. 
+                    Com 128 bits, veio permitir um maior espaço de endereçamento. Os 128 bits dum endereço IPv6 são representados em 8 grupos de 16 
+                    bits cada um. Cada grupo é representado por 4 dígitos hexadecimais e cada grupo é separado do seguinte por ':'. 
+                    Por exemplo: "2001:0db8:0000:0000:0000:ff00:0042:8329". Os zeros à esquerda podem ser omitidos. Um endereço contendo "...:0:..." 
+                    ou "...:5:..." é idêntico a "...:0000:..." ou "...:0005:....".
+                </p>
+                     <p>Exemplo de input:</p>
+                     <pre class="codigo">Esta é uma linha de lixo.  
+121.18.19.20  
+2001:0db8:0000:0000:0000:ff00:0042:8329
+epl.di.uminho.pt 193.136.19.129</pre>
+                     <p>Exemplo de output:</p>
+                     <pre class="codigo">Erro    
+IPv4  
+IPv6  
+Erro</pre>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e14"/>
+                     <h3 class="panel-title">Exercício Nº 14:
+            Latitude e Longitude</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Dada uma lista de pares de coordenadas, 
+                    latitude e longitude, supostamente válidos, especifica um filtro que faz a sua verificação atendendo aos seguintes 
+                    requisitos:<ul>
+                           <li>Cada par de coordenadas deverá seguir a forma: <b>(X, Y)</b> onde <b>X</b> e <b>Y</b> são números decimais 
+                            (parte inteira e uma parte decimal opcional); </li>
+                           <li>O valor de <b>X</b> deverá estar entre -90 e +90;</li>
+                           <li>O valor de <b>Y</b> deverá estar entre -180 e +180;</li>
+                           <li>Quer <b>X</b> quer <b>Y</b> podem ser opcionalmente precedidos por um sinal + ou -;</li>
+                           <li>Tem de haver um espaço entre <b>Y</b> e a vírgula precedente;</li>
+                           <li>Não há espaço entre <b>X</b> e o parentesis precedente nem entre <b>Y</b> e o parentesis que se lhe segue;</li>
+                           <li>Não poderá haver zeros desnecessários à esquerda nas partes inteiras.</li>
+                        </ul>
+                     </p>
+                     <p>Exemplo de input:</p>
+                     <pre class="codigo">(75, 180)
+(+90.0, -147.45)
+(77.11112223331, 149.99999999)
+(+90, +180)
+(90, 180)
+(-90.00000, -180.0000)
+(75, 280)
+(+190.0, -147.45)
+(77.11112223331, 249.99999999)
+(+90, +180.2)
+(90., 180.)
+(-090.00000, -180.0000)</pre>
+                     <p>Exemplo de output:</p>
+                     <pre class="codigo">Válido
+Válido
+Válido
+Válido
+Válido
+Válido
+Inválido
+Inválido
+Inválido
+Inválido
+Inválido
+Inválido</pre>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e15"/>
+                     <h3 class="panel-title">Exercício Nº 15:
+            Matrículas de outro mundo</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Num país algures, as matrículas seguem os seguintes requisitos:<ul>
+                           <li>Uma matrícula tem 8 dígitos;</li>
+                           <li>Os 8 dígitos estão divididos em 4 partes iguais de 2 dígitos por um separador que pode ser '...', '-' ou ':';</li>
+                           <li>Cada matrícula só pode ter uma espécie de separador;</li>
+                           <li>Os separadores têm de ter dígitos antes e depois, não há espaços.</li>
+                        </ul>
+                     </p>
+                     <p>Especifique um programa em flex que apanhe e contabilize as matrículas num texto.</p>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+            </div>
+            <div class="panel-footer"> 
+            Generated by rep-fichas-site app by jcr::
+            2020-02-11Z - 
+            35 fichas / 
+            96 exercícios 
+        </div>
+         </div>
+      </div>
+   </body>
+</html>

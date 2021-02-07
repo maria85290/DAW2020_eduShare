@@ -1,0 +1,20 @@
+id: da9fb1e8-1fad-4210-9012-952ed1e46552
+name: tx070800995p.pdf
+title: tx070800995p
+subtitle:  
+id_produces: suarezconner@playce.com
+authors: Marsh Mercer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

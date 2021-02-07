@@ -1,0 +1,21 @@
+id: 67c62039-9543-4eaa-82bd-d080dac37881
+name: slidesPOO_2013_2014_ParteI.pdf
+title: slidesPOO_2013_2014_ParteI
+subtitle:  
+id_produces: klineharrington@playce.com
+authors: Carroll Hardy
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 3.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_67c62039-9543-4eaa-82bd-d080dac37881
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,20 @@
+id: 90d95a47-f7f8-43d0-8e82-973d791d3593
+name: Exerc6.pdf
+title: Exerc6
+subtitle:  
+id_produces: rosariowilder@playce.com
+authors: Campbell Quinn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 111 KB

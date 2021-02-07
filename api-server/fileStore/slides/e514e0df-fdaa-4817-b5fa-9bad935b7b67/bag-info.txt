@@ -1,0 +1,20 @@
+id: e514e0df-fdaa-4817-b5fa-9bad935b7b67
+name: SLP1617-teste2.pdf
+title: SLP1617-teste2
+subtitle:  
+id_produces: lovedaniels@playce.com
+authors: Elise Powers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 82 KB

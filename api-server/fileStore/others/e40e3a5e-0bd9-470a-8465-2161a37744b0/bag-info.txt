@@ -1,0 +1,21 @@
+id: e40e3a5e-0bd9-470a-8465-2161a37744b0
+name: 4_Semantica_Natural_VS_Estrutural.pdf
+title: 4_Semantica_Natural_VS_Estrutural
+subtitle:  
+id_produces: meadowsgoff@playce.com
+authors: Bridgette Tran
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 12.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_e40e3a5e-0bd9-470a-8465-2161a37744b0
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

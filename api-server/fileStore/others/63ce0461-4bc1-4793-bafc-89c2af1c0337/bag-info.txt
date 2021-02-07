@@ -1,0 +1,20 @@
+id: 63ce0461-4bc1-4793-bafc-89c2af1c0337
+name: arrays.c
+title: arrays
+subtitle:  
+id_produces: chavezjefferson@playce.com
+authors: Frances Richard
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/x-c
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 6.3 KB

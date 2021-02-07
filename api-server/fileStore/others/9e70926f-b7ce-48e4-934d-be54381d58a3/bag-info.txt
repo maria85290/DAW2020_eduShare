@@ -1,0 +1,21 @@
+id: 9e70926f-b7ce-48e4-934d-be54381d58a3
+name: prc-2020-teste.html
+title: prc-2020-teste
+subtitle:  
+id_produces: minnienorman@playce.com
+authors: Stevenson Barber
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_9e70926f-b7ce-48e4-934d-be54381d58a3
+Bagging-Date: 2021-02-07
+Bag-Size: 17 KB

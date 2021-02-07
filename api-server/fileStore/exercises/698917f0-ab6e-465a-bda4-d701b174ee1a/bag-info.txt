@@ -1,0 +1,20 @@
+id: 698917f0-ab6e-465a-bda4-d701b174ee1a
+name: Criptografia-Caderno_Valenca.pdf
+title: Criptografia-Caderno_Valenca
+subtitle:  
+id_produces: webernewman@playce.com
+authors: Roach Larsen
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 8.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

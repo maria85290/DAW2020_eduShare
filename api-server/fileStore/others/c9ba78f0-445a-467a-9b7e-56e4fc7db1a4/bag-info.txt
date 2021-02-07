@@ -1,0 +1,20 @@
+id: c9ba78f0-445a-467a-9b7e-56e4fc7db1a4
+name: tx081001261p.pdf
+title: tx081001261p
+subtitle:  
+id_produces: leejohnston@playce.com
+authors: Stevens Ashley
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

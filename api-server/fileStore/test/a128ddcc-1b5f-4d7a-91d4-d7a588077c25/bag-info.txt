@@ -1,0 +1,21 @@
+id: a128ddcc-1b5f-4d7a-91d4-d7a588077c25
+name: 2019_Bookmatter_PracticalCryptographyInPython.pdf
+title: 2019_Bookmatter_PracticalCryptographyInPython
+subtitle:  
+id_produces: normaroberts@playce.com
+authors: Elisabeth French
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_a128ddcc-1b5f-4d7a-91d4-d7a588077c25
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

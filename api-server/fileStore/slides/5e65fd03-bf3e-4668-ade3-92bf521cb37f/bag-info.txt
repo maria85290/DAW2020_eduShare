@@ -1,0 +1,20 @@
+id: 5e65fd03-bf3e-4668-ade3-92bf521cb37f
+name: ficha7_LambTipos.pdf
+title: ficha7_LambTipos
+subtitle:  
+id_produces: schneiderkidd@playce.com
+authors: Mcmahon Horton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 79 KB

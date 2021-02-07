@@ -1,0 +1,20 @@
+id: 69253b4f-1cc8-4f04-90f3-a7991f05b080
+name: f11.html
+title: f11
+subtitle:  
+id_produces: carolmack@playce.com
+authors: Jerry Douglas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 14 KB

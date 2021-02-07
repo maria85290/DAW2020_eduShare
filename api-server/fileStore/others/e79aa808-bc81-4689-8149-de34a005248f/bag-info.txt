@@ -1,0 +1,20 @@
+id: e79aa808-bc81-4689-8149-de34a005248f
+name: Exame_Janeiro_2015_CSSI_MEI.pdf
+title: Exame_Janeiro_2015_CSSI_MEI
+subtitle:  
+id_produces: fredabuchanan@playce.com
+authors: Foley Rodriguez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 50 KB

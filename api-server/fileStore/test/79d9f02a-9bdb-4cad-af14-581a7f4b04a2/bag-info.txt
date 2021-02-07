@@ -1,0 +1,20 @@
+id: 79d9f02a-9bdb-4cad-af14-581a7f4b04a2
+name: slide4.pdf
+title: slide4
+subtitle:  
+id_produces: lindseysantiago@playce.com
+authors: Chapman Dickerson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

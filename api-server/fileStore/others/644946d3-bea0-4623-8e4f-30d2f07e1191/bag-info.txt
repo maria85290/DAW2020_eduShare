@@ -1,0 +1,21 @@
+id: 644946d3-bea0-4623-8e4f-30d2f07e1191
+name: Texturas-portugues.pdf
+title: Texturas-portugues
+subtitle:  
+id_produces: eddiemorgan@playce.com
+authors: Christy Finch
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_644946d3-bea0-4623-8e4f-30d2f07e1191
+Bagging-Date: 2021-02-07
+Bag-Size: 153 KB

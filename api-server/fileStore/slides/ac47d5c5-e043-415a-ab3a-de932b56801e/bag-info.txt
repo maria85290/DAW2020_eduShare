@@ -1,0 +1,21 @@
+id: ac47d5c5-e043-415a-ab3a-de932b56801e
+name: CLASSE_CIRCULO_POR_IMAGENS.pdf
+title: CLASSE_CIRCULO_POR_IMAGENS
+subtitle:  
+id_produces: moodygood@playce.com
+authors: Carrillo Ayers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_ac47d5c5-e043-415a-ab3a-de932b56801e
+Bagging-Date: 2021-02-07
+Bag-Size: 37 KB

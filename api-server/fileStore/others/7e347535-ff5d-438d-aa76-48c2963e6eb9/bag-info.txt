@@ -1,0 +1,21 @@
+id: 7e347535-ff5d-438d-aa76-48c2963e6eb9
+name: rtx110600804p.pdf
+title: rtx110600804p
+subtitle:  
+id_produces: gordonpark@playce.com
+authors: Barlow Pruitt
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_7e347535-ff5d-438d-aa76-48c2963e6eb9
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

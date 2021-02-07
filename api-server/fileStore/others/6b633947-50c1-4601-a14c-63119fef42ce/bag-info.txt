@@ -1,0 +1,21 @@
+id: 6b633947-50c1-4601-a14c-63119fef42ce
+name: pi2011-lei-teste.pdf
+title: pi2011-lei-teste
+subtitle:  
+id_produces: nevachapman@playce.com
+authors: Beth Moreno
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_6b633947-50c1-4601-a14c-63119fef42ce
+Bagging-Date: 2021-02-07
+Bag-Size: 113 KB

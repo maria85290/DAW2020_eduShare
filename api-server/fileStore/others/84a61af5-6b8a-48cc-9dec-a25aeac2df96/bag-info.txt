@@ -1,0 +1,21 @@
+id: 84a61af5-6b8a-48cc-9dec-a25aeac2df96
+name: 01-TransformacoesGeometricas.pdf
+title: 01-TransformacoesGeometricas
+subtitle:  
+id_produces: bettebaird@playce.com
+authors: Gallagher West
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_84a61af5-6b8a-48cc-9dec-a25aeac2df96
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

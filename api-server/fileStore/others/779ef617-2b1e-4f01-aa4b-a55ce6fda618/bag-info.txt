@@ -1,0 +1,21 @@
+id: 779ef617-2b1e-4f01-aa4b-a55ce6fda618
+name: index-fichas.html
+title: index-fichas
+subtitle:  
+id_produces: cummingsschmidt@playce.com
+authors: Beck Potts
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_779ef617-2b1e-4f01-aa4b-a55ce6fda618
+Bagging-Date: 2021-02-07
+Bag-Size: 35 KB

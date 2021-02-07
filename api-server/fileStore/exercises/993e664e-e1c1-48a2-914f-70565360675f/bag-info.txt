@@ -1,0 +1,20 @@
+id: 993e664e-e1c1-48a2-914f-70565360675f
+name: aula3.pdf
+title: aula3
+subtitle:  
+id_produces: admin@edushare.pt
+authors: Kline Harrington
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,20 @@
+id: 0f45ac8f-6b02-4f97-b18e-c2cb0f9c3621
+name: aulaGuiao6.pdf
+title: aulaGuiao6
+subtitle:  
+id_produces: dellalowery@playce.com
+authors: Howell Jensen
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

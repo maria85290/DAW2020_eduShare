@@ -1,0 +1,20 @@
+id: d29dc43c-83d5-4fb0-96c1-d2b277de06c2
+name: rnoti-p1322.pdf
+title: rnoti-p1322
+subtitle:  
+id_produces: maciashayden@playce.com
+authors: Velez Christian
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 8.9
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 188 KB

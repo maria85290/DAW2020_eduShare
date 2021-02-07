@@ -1,0 +1,209 @@
+<html>
+   <head>
+      <meta charset="utf-8"/>
+      <title>Arquivo de Fichas Práticas do JCR</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+   </head>
+   <body style="padding-top:50px;">
+      <div class="navbar navbar-default navbar-fixed-top navbar-inverse">
+         <div class="container">
+            <div class="navbar-header">
+               <a href="../index.php" class="navbar-brand">Arquivo Fichas Práticas</a>
+               <button class="navbar-toggle"
+                       type="button"
+                       data-toggle="collapse"
+                       data-target="#navbar-main">
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+               </button>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar-main">
+               <ul class="nav navbar-nav">
+                  <li>
+                     <a href="../index-fichas.html">Fichas</a>
+                  </li>
+                  <li>
+                     <a href="../index-fichas-categ.html">Fichas/Tema</a>
+                  </li>
+               </ul>
+               <ul class="nav navbar-nav navbar-right">
+                  <li>
+                     <a href="../logs.html">Registo de Alterações</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="container">
+         <div class="row">
+            <div class="col-sm-5 col-md-5">
+               <img class="img-responsive" src="../imagens/fichas.jpeg"/>
+            </div>
+            <div class="col-sm-7 col-md-7">
+               <h2>Ficha f16</h2>
+               <h3>MongoDB</h3>
+            </div>
+         </div>
+         <div class="panel panel-default">
+            <div class="panel-body">
+               <a name="ind-ex"/>
+               <p class="lead">Processamento e Representação de Conhecimento - PRC (MIEI - 4ºano)</p>
+               <p>
+                  <p>Este ficha prática contem exercícios para serem resolvidos nas aulas teórico-práticas com vista a sedimentar os conhecimentos relativos a:
+                <ul>
+                        <li>Bases de Dados NoSQL orientadas ao documento;</li>
+                        <li>Utilização do MongoDB para suportar a camada de dados de algumas aplicações Web.</li>
+                     </ul>
+                  </p>
+               </p>
+               <div class="container">
+                  <table>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <h3>Recursos:</h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <div class="para"> Recursos disponíveis para a realização da ficha:</div>
+                              <br/>
+                              <ul>
+                                 <li>
+                                    <a href="pri2015-2016.csv">Folha de Cálculo com as avaliações da UC PRI2015.</a>
+                                 </li>
+                                 <li>
+                                    <a href="csv2json.php">Script PHP para converter o ficheiro em CSV num ficheiro JSON.</a>
+                                 </li>
+                                 <li>
+                                    <a href="inscritos.json">Lista dos atletas inscritos na ultra trail da Geira romana.</a>
+                                 </li>
+                                 <li>
+                                    <a href="jcrpubs.json">Base de dados de publicações do JCR.</a>
+                                 </li>
+                              </ul>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <h3>
+                Exercícios:
+              </h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <ol>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e1">Gestão das inscrições numa prova desportiva</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e2">Base de dados de avaliações</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e3">Base de dados de publicações</a>
+                                 </li>
+                              </ol>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <hr/>
+               <div class="panel panel-default">
+                  <div class="panel-footer">
+                     <p>Generated by xfichas app by jcr::2015-02-24</p>
+                     <p>[<a href="..">Voltar ao índice de fichas</a>]</p>
+                  </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e1"/>
+                     <h3 class="panel-title">Exercício Nº 1:
+            Gestão das inscrições numa prova desportiva</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Considera o ficheiro JSON com a lista dos atletas inscritos na ultra trail da Geira romana. Neste exercício, vais explorar a sua informação depois de o carregares num servidor Mongo.</p>
+                     <p>Nesse sentido, tenta resolver as seguintes alíneas:</p>
+                     <ol class="a">
+                        <li>Importa o ficheiro JSON no teu servidor Mongo: mongoimport --db geira --collection atletas --file inscritos.json;</li>
+                        <li>Lista todos os registos;</li>
+                        <li>Lista apenas o nome e a morada de cada atleta (projeção);</li>
+                        <li>Conta quantos atletas estão inscritos na "Corrida da Geira";</li>
+                        <li>Conta quantos atletas femininos estão inscritos na ultra;</li>
+                        <li>Lista o nome e a data de nascimento dos atletas da equipa "TURBULENTOS";</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e2"/>
+                     <h3 class="panel-title">Exercício Nº 2:
+            Base de dados de avaliações</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Considera o ficheiro CSV com o resultado das avaliações de PRI2015. Neste exercício, vais transformá-lo,
+                  importá-lo para um servidor Mongo e explorá-lo realizando algumas queries.</p>
+                     <p>Nesse sentido, tenta resolver as seguintes alíneas:</p>
+                     <ol class="a">
+                        <li>Descarrega o ficheiro CSV e o conversor. Depois de analisares o conversor e perceberes o que faz, 
+                    aplica-o de forma a obteres um ficheiro com uma lista de objetos JSON;</li>
+                        <li>Abre um terminal e coloca a correr uma sheel do MongoDB;</li>
+                        <li>Cria a base de dados "PRC2015": use &lt;database&gt;;</li>
+                        <li>Importa o ficheiro JSON obtido num servidor Mongo utilizando o comando mongoimport, para uma
+                    coleção a ser criada chamada "alunos";</li>
+                        <li>Lista as coleções da base de dados correntes: show collections;</li>
+                        <li>Lista os documentos na coleção alunos: db.alunos.find();</li>
+                        <li>Conta o número de registos na coleção alunos;</li>
+                        <li>Lista os registos na coleção alunos numa forma "mais bonita";</li>
+                        <li>Lista apenas o identificador e o nome de cada aluno (projeção);</li>
+                        <li>Lista os alunos com nota final superior a 14;</li>
+                        <li>Lista os alunos com nota final entre 10 e 14;</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e3"/>
+                     <h3 class="panel-title">Exercício Nº 3:
+            Base de dados de publicações</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Considera o ficheiro CSV com as publicações do JCR. Neste exercício, vais 
+                    importá-lo para um servidor Mongo e explorá-lo realizando algumas queries.</p>
+                     <p>Nesse sentido, tenta resolver as seguintes alíneas:</p>
+                     <ol class="a">
+                        <li>Importa o ficheiro JSON no teu servidor Mongo: mongoimport --db geira --collection atletas --file inscritos.json;</li>
+                        <li>Quantos registos tem esta nova coleção?</li>
+                        <li>Lista os registos (apenas id e título);</li>
+                        <li>Quantos artigos foram publicados em conferências? (inproceedings)</li>
+                        <li>Quantos artigos foram co-autorados com "Pedro Rangel Henriques"?</li>
+                        <li>Lista o título dos artigos co-autorados com "Ricardo Freitas" em 2013?</li>
+                        <li>Quantos artigos foram co-autorados com "Ricardo Freitas"?</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+            </div>
+            <div class="panel-footer"> 
+            Generated by rep-fichas-site app by jcr::
+            2016-02-22Z - 
+            16 fichas / 
+            38 exercícios 
+        </div>
+         </div>
+      </div>
+   </body>
+</html>

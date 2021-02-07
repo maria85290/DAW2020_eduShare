@@ -1,0 +1,20 @@
+id: e9c3eb5f-7ab2-46fb-97d7-1c5c43bbe68c
+name: Multi-threaded chat server.pdf
+title: Multi-threaded chat server
+subtitle:  
+id_produces: hamptonsandoval@playce.com
+authors: Campos Wolfe
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 29 KB

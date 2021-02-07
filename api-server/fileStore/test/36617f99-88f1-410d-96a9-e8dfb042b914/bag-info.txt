@@ -1,0 +1,21 @@
+id: 36617f99-88f1-410d-96a9-e8dfb042b914
+name: Exer1.pdf
+title: Exer1
+subtitle:  
+id_produces: deannhart@playce.com
+authors: Eva Ramirez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_36617f99-88f1-410d-96a9-e8dfb042b914
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

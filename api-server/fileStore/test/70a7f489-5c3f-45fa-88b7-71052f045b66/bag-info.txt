@@ -1,0 +1,20 @@
+id: 70a7f489-5c3f-45fa-88b7-71052f045b66
+name: tx080100050p.pdf
+title: tx080100050p
+subtitle:  
+id_produces: watsonbird@playce.com
+authors: Jennie Duran
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

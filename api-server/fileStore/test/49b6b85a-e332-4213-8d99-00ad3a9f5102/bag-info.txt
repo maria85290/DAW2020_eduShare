@@ -1,0 +1,21 @@
+id: 49b6b85a-e332-4213-8d99-00ad3a9f5102
+name: A_Multi-Agent_Gamification_System_for_Managing_Sma.pdf
+title: A_Multi-Agent_Gamification_System_for_Managing_Sma
+subtitle:  
+id_produces: leslieenglish@playce.com
+authors: Haynes Ratliff
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_49b6b85a-e332-4213-8d99-00ad3a9f5102
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

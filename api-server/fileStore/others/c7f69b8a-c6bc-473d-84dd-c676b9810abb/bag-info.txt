@@ -1,0 +1,21 @@
+id: c7f69b8a-c6bc-473d-84dd-c676b9810abb
+name: pri-2021-normal.html
+title: pri-2021-normal
+subtitle:  
+id_produces: smithmcintyre@playce.com
+authors: Pierce Rosales
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_c7f69b8a-c6bc-473d-84dd-c676b9810abb
+Bagging-Date: 2021-02-07
+Bag-Size: 18 KB

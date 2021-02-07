@@ -1,0 +1,20 @@
+id: 6eaf0c6c-4c81-4dc9-a890-3e2e01b1434e
+name: rtx110200262p.pdf
+title: rtx110200262p
+subtitle:  
+id_produces: lindsaymaynard@playce.com
+authors: Mcgee Pate
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,20 @@
+id: a02f8a6c-1373-4711-b937-6f7413ac5b26
+name: pi2010-miniteste3B.pdf
+title: pi2010-miniteste3B
+subtitle:  
+id_produces: monroemarquez@playce.com
+authors: Banks Vaughn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 52 KB

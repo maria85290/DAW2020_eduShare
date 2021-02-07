@@ -1,0 +1,21 @@
+id: 14b56dd4-4995-41b3-8bb0-efdf78b34d1f
+name: _AD____Trabalho_Pr_tico1 (3).pdf
+title: _AD____Trabalho_Pr_tico1 (3)
+subtitle:  
+id_produces: patelbishop@playce.com
+authors: Alma Roberson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_14b56dd4-4995-41b3-8bb0-efdf78b34d1f
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

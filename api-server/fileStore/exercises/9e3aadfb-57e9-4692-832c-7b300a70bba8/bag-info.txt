@@ -1,0 +1,21 @@
+id: 9e3aadfb-57e9-4692-832c-7b300a70bba8
+name: ficha2.pdf
+title: ficha2
+subtitle:  
+id_produces: cervanteshurley@playce.com
+authors: Jimenez Knapp
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9e3aadfb-57e9-4692-832c-7b300a70bba8
+Bagging-Date: 2021-02-07
+Bag-Size: 79 KB

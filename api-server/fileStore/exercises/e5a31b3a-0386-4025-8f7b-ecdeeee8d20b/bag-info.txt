@@ -1,0 +1,21 @@
+id: e5a31b3a-0386-4025-8f7b-ecdeeee8d20b
+name: ficha8_ex3-b.PNG
+title: ficha8_ex3-b
+subtitle:  
+id_produces: soniasharp@playce.com
+authors: Dorothea Simmons
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.4
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_e5a31b3a-0386-4025-8f7b-ecdeeee8d20b
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

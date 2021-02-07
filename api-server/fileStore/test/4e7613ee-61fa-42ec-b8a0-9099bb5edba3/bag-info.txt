@@ -1,0 +1,21 @@
+id: 4e7613ee-61fa-42ec-b8a0-9099bb5edba3
+name: ficha4.pdf
+title: ficha4
+subtitle:  
+id_produces: helenaspence@playce.com
+authors: Soto Hawkins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_4e7613ee-61fa-42ec-b8a0-9099bb5edba3
+Bagging-Date: 2021-02-07
+Bag-Size: 102 KB

@@ -1,0 +1,21 @@
+id: 37fb0813-ddc4-405b-825a-43337d9968ef
+name: latex-short.pdf
+title: latex-short
+subtitle:  
+id_produces: almaroberson@playce.com
+authors: Louella Hendricks
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_37fb0813-ddc4-405b-825a-43337d9968ef
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,20 @@
+id: ab988b13-c061-4350-a673-80e6e58a913f
+name: rnoti-p24.pdf
+title: rnoti-p24
+subtitle:  
+id_produces: rochelleweeks@playce.com
+authors: Mccarthy Williamson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 9.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

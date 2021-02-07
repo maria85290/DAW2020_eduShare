@@ -1,0 +1,21 @@
+id: d18df3db-01ce-4cfa-b29f-00f61cbf8cbe
+name: tx080300352p.pdf
+title: tx080300352p
+subtitle:  
+id_produces: steelebrown@playce.com
+authors: Solis Acosta
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 17.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d18df3db-01ce-4cfa-b29f-00f61cbf8cbe
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

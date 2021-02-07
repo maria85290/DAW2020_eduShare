@@ -1,0 +1,21 @@
+id: 57c782cf-3981-49d8-9631-5ec2c11849de
+name: aulaGuiao7.pdf
+title: aulaGuiao7
+subtitle:  
+id_produces: whitfieldwiggins@playce.com
+authors: Faulkner Day
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_57c782cf-3981-49d8-9631-5ec2c11849de
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

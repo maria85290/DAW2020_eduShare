@@ -1,0 +1,20 @@
+id: fefb7926-360e-4008-9640-4cd17b99e9fe
+name: report (1).pdf
+title: report (1)
+subtitle:  
+id_produces: newtonprice@playce.com
+authors: Soto Hawkins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 191 KB

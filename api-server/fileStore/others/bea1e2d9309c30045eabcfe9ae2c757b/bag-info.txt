@@ -1,0 +1,19 @@
+id: bea1e2d9309c30045eabcfe9ae2c757b
+name: AD-TP1.pdf
+title: [ad] trabalho 1 ad
+subtitle: trabalho 1
+id_produces: maria.a.b2000@hotmail.com
+authors: maria
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:58:13
+subject: AD
+description: enunciado trabalho
+ranking: 0
+rankingList: 
+size: 1.6
+mimeType: application/pdf
+type: others
+visibility: public
+hashtags: uminho
+Bagging-Date: 2021-02-07
+Bag-Size: 168 KB

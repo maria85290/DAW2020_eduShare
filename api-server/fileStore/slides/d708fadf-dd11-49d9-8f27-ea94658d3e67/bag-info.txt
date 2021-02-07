@@ -1,0 +1,20 @@
+id: d708fadf-dd11-49d9-8f27-ea94658d3e67
+name: rtx100700824p.pdf
+title: rtx100700824p
+subtitle:  
+id_produces: altheahutchinson@playce.com
+authors: Frye Ware
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 3.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,21 @@
+id: 119c5988-c8b1-415c-be25-3f91c1937f77
+name: 01_MSc_ribeiro.pdf
+title: 01_MSc_ribeiro
+subtitle:  
+id_produces: kelleycameron@playce.com
+authors: April Smith
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_119c5988-c8b1-415c-be25-3f91c1937f77
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

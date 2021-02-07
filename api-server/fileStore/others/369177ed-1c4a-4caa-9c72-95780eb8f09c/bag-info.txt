@@ -1,0 +1,21 @@
+id: 369177ed-1c4a-4caa-9c72-95780eb8f09c
+name: AIB_Project.zip
+title: AIB_Project
+subtitle:  
+id_produces: shawnamorrow@playce.com
+authors: Alana Carson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 21.1
+mimeType: application/zip
+visibility: public
+hashtags: 
+id_post: post_369177ed-1c4a-4caa-9c72-95780eb8f09c
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,20 @@
+id: ae1f6be5-4ce2-44ad-8c7a-159a912816c0
+name: pi2010-miniteste2D.pdf
+title: pi2010-miniteste2D
+subtitle:  
+id_produces: hartmandonovan@playce.com
+authors: Phelps Jones
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 44 KB

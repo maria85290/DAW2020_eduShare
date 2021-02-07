@@ -1,0 +1,21 @@
+id: 91a6107e-1e1f-4918-8c63-96830fe77789
+name: Exercícios 2010-2011.zip
+title: Exercícios 2010-2011
+subtitle:  
+id_produces: barkerdelgado@playce.com
+authors: Carter Bradley
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.2
+mimeType: application/zip
+visibility: public
+hashtags: 
+id_post: post_91a6107e-1e1f-4918-8c63-96830fe77789
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

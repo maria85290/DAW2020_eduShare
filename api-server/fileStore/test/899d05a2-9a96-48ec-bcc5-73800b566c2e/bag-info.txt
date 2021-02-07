@@ -1,0 +1,20 @@
+id: 899d05a2-9a96-48ec-bcc5-73800b566c2e
+name: rtx110400568p.pdf
+title: rtx110400568p
+subtitle:  
+id_produces: nolanrowe@playce.com
+authors: Robbins Cox
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

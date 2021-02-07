@@ -1,0 +1,21 @@
+id: e1d86568-3317-4ecd-9d94-ec085c87bb71
+name: myParaV2.zip
+title: myParaV2
+subtitle:  
+id_produces: mariettacalderon@playce.com
+authors: Keri Pratt
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 3.7
+mimeType: application/zip
+visibility: public
+hashtags: 
+id_post: post_e1d86568-3317-4ecd-9d94-ec085c87bb71
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

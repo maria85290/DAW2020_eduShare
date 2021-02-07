@@ -1,0 +1,21 @@
+id: 3dbc45a3-8e5e-4822-a397-bd2663b9af32
+name: resoluçao_exercicio1_ficha5.pdf
+title: resoluçao_exercicio1_ficha5
+subtitle:  
+id_produces: kerrylewis@playce.com
+authors: Michael Harris
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_3dbc45a3-8e5e-4822-a397-bd2663b9af32
+Bagging-Date: 2021-02-07
+Bag-Size: 101 KB

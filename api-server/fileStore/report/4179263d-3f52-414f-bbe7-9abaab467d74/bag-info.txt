@@ -1,0 +1,21 @@
+id: 4179263d-3f52-414f-bbe7-9abaab467d74
+name: SRC-TP4-PL14.pdf
+title: SRC-TP4-PL14
+subtitle:  
+id_produces: holmanlawrence@playce.com
+authors: Pugh Bond
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_4179263d-3f52-414f-bbe7-9abaab467d74
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

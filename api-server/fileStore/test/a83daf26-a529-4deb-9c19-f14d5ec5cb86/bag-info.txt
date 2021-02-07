@@ -1,0 +1,20 @@
+id: a83daf26-a529-4deb-9c19-f14d5ec5cb86
+name: rnoti-p441.pdf
+title: rnoti-p441
+subtitle:  
+id_produces: churchscott@playce.com
+authors: Kristi Phillips
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

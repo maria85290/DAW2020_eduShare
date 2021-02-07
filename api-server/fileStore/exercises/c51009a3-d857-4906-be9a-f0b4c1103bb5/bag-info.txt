@@ -1,0 +1,21 @@
+id: c51009a3-d857-4906-be9a-f0b4c1103bb5
+name: Exerc3.pdf
+title: Exerc3
+subtitle:  
+id_produces: hebertnorton@playce.com
+authors: Haynes Ratliff
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_c51009a3-d857-4906-be9a-f0b4c1103bb5
+Bagging-Date: 2021-02-07
+Bag-Size: 116 KB

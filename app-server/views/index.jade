@@ -1,0 +1,834 @@
+extends layout
+
+block content
+  if view == "login" 
+    div(class="bg")
+      div(class="container")
+        div(class="row")
+          div(class="col-sm-9 col-md-7 col-lg-5 mx-auto")
+            div(class="card card-signin my-5")
+              div(class="card-body")
+                span(class="card-title text-center")
+                  img(src="/images/eduShare-w.png" class="mx-auto d-block" width="45%")
+                form(class="form-signin" action='/login' method='POST')
+                  h6(class="card-title text-center") Please sign in
+
+                  if error
+                    div(class="alert alert-danger alert-dismissible fade show rounded" role="alert")
+                      span= error
+                      button(type="button" class="close" data-dismiss="alert" aria-label="Close")
+                        span(aria-hidden="true") &times;
+
+
+                  div(class="form-label-group")
+                    input(type="email" id="inputEmail" name="mail" class="form-control" placeholder="Email address" required autofocus)
+                    label(for="inputEmail") Mail address
+
+                  div(class="form-label-group")
+                    input(type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required)
+                    label(for="inputPassword") Password
+                
+                  //div(class="custom-control custom-checkbox mb-3")
+                    input(type="checkbox" class="custom-control-input" id="customCheck1")
+                    label(class="custom-control-label" for="customCheck1") Remember password
+
+                  button(class="btn btn-lg btn-primary btn-block text-uppercase" type="submit") Sign in
+                  hr(class="my-4")
+
+                  //button(class="btn btn-lg btn-google btn-block text-uppercase" type="submit")
+                    span
+                      i(class="fab fa-google mr-2")
+                    span Sign in with Google 
+                  //button(class="btn btn-lg btn-facebook btn-block text-uppercase" type="submit") 
+                    span
+                      i(class="fab fa-facebook-f mr-2")
+                    span Sign in with Facebook
+       
+                div(class="d-flex justify-content-center mt-4")
+                  a(href="/login/register" class="text-primary") Not registered yet? Just register!
+         
+  else if view == "register"
+    div(class="bg")
+      div(class="container")
+        div(class="row")
+          div(class="col-sm-9 col-md-7 col-lg-5 mx-auto")
+            div(class="card card-signin my-5")
+              div(class="card-body")
+                img(src="/images/eduShare-w.png" class="mx-auto d-block" width="45%")
+
+                if error
+                    div(class="alert alert-danger alert-dismissible fade show rounded" role="alert")
+                      span= error
+                      button(type="button" class="close" data-dismiss="alert" aria-label="Close")
+                        span(aria-hidden="true") &times;
+                
+                form(class="form-signin" action='/login/register' method='POST')
+                  h6(class="card-title text-center")
+                  div(class="form-label-group")
+                    input(type="text" id="inputName" name="username" class="form-control" placeholder="Username" required autofocus)
+                    label(for="inputName") Username
+
+                  div(class="form-label-group")
+                    input(type="email" id="inputEmail" name="mail" class="form-control" placeholder="Email address")
+                    label(for="inputEmail") Mail adress
+
+                  div(class="form-label-group")
+                    input(type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required)
+                    label(for="inputPassword") Password
+
+                  div(class="form-label-group")
+                    //label(for="inputState") Filiation
+                    //select(id="inputState" name="filiation" placeholder="Filiation" class="form-control")
+                      option 
+                      option Student
+                      option Professor
+                      option Other
+                    input(type="text" id="inputFiliation" name="filiation" class="form-control" placeholder="Filiation" required)
+                    label(for="inputFiliation") Filiation
+                 
+                
+                  button(class="btn btn-lg btn-primary btn-block text-uppercase" type="submit") Register
+                
+  else
+    div(class="navbar navbar-expand-sm navbar-dark")
+      a(href="/myHomePage" class="navbar-brand") 
+        img(src="/images/eduShare.png" class="d-inline-block align-top" height="96%")
+      button(class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation")
+        span(class="navbar-toggler-icon")
+    
+
+      div(class="navbar-collapse collapse" id="navbarSupportedContent")
+          ul(class="mr-auto navbar-nav")
+            li(class="nav-item")
+              a(class="nav-link" href="/myHomePage") Home
+            li(class="nav-item")
+              a(class="nav-link" href="/search/files") Resources
+            li(class="nav-item")
+              a(class="nav-link" href="/uploads") Upload     
+
+          ul(class="nav navbar-nav navbar-right")
+            li(class="nav-item")
+              a(class="nav-link" href="#filterModal" id="navbarDropdown" role="button" data-toggle="modal" aria-haspopup="true" aria-expanded="false")
+                button(class="nav-link btn btn-light" )
+                  i(class="fas fa-search" style="color: #1ab8ed")
+                  span(style="color: #1ab8ed")  Search resources
+              
+            li(class="nav-item dropdown")
+              a(class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false") 
+                img(class="rounded-circle" src="/images/users/#{user.mail}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="45" height="45")
+              span(class="caret")
+                div(class="dropdown-menu" aria-labelledby="navbarDropdown")
+                  a(class="dropdown-item" href="/profile") Profile
+                  if  user.level == "producer" 
+                    a(class="dropdown-item" href="/edit/myResources") My Resources
+                  if user.level=="admin" 
+                    a(class="dropdown-item" href="/edit/myResources") All Resources
+                  if  user.level=="admin"
+                    a(class="dropdown-item" href="/statistics") Management
+                    a(class="dropdown-item" href="/import") Import
+                  a(class="dropdown-item" href="/logout") Logout
+
+        div(class="modal fade" id="filterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel")
+                div(class="modal-dialog modal-dialog-centered" role="document")
+                  div(class="modal-content")
+                    div(class="modal-header")
+                      h4(class="modal-title" id="myModalLabel") Search Filters
+                      button(type="button" class="close" data-dismiss="modal" aria-label="Close")
+                        span(aria-hidden="true") &times;
+              
+                    div(class="modal-body")
+                      form(class="form-signin" method='post' action="/search/files")
+                        p Resource type
+                          each t in resourcesType
+                            div(class="custom-control custom-checkbox")
+                              input(type="checkbox" class="custom-control-input" id="caixa#{t}" name="type" value=t)
+                              label(class="custom-control-label" for="caixa#{t}")= t
+                            
+                          div(class="form-label-group mt-2")
+                            input(type='text' id="searchTitle" class="form-control" name='title' placeholder="Title")
+                            label(for="searchTitle") Title
+                          
+                          div(class="form-label-group")
+                            input(type='text' id="searchAuthor" class="form-control" name='author' placeholder="Author") 
+                            label(for="searchAuthor") Author
+
+                        input(class="btn btn-primary" type='submit' value='Search')
+                          
+                    div(class="modal-footer")
+      
+    if view == "profile"
+      div(id="containerProfile")
+        div(class="row gutters-sm")
+          div(class="col-md-4 mb-3")
+            div(class="card rounded")
+              div(class="card-body")
+                div(class="d-flex flex-column align-items-center text-center")
+                  img(src="/images/users/#{user.mail}.png" onerror="javascript:this.src='/images/users/default_user.png'" class="rounded-circle" width="150" height="150")
+                  div(class="mt-3")
+                    h4 #{user.mail}
+                    p(class="text-secondary mb-1") #{user.filiation}
+                    p(class="text-muted font-size-sm") #{files.length} resources
+            //div(class="d-flex flex-column align-items-center text-center m-4")
+              button(class="btn btn-blue")
+                i(class="fas fa-edit")
+                span  Edit profile
+          
+          div(class="col-my-3 mx-5")
+            p
+              b My Resources
+                div(class="table-responsive")
+                  table(class="table")
+                    thead
+                      tr
+                        th(scope="col")
+                        th(scope="col") Resource
+                        th(scope="col") Hashtags
+                        th(scope="col") Rating
+                    tbody
+                      each file, index in files
+                        tr
+                          th(scope="row")
+                            i(class="fas fa-file#{ext[index]} fa-2x")
+                          td
+                            a(href=`/file?id_file=${file.id}&id_post=${file.id_post}` class="text-big" data-abc="true") #{file.title}
+                            div(class="text-muted small mt-1") #{file.type} &nbsp;·&nbsp;
+                              a(href="javascript:void(0)" class="text-muted" data-abc="true") #{file.authors}
+                            
+                          td
+                            each h in file.hashtags
+                              a(href="/search?hashtag=#{h}")
+                                span(class="badge badge-pill badge-danger task-category") #{h}
+                          td
+                            button(class="btn" style="background-color: transparent")
+                              span #{file.ranking} &nbsp;
+                              i(class="fas fa-star" style="color:#fcba03")
+                    
+                    
+            
+    if view == "statistics"
+      div(class="container-fluid px-1 px-sm-4 pt-5 mx-auto")
+        div(class="row d-flex justify-content-start card-strip")
+          div(class="mr-4 mb-3")
+            strong Number of users: &nbsp;
+            span= usersLength
+          div(class="info")
+            div(class="row px-3 mb-2")
+              strong Number of resources: &nbsp;
+              span= resourcesLength
+        //div(class="row d-flex justify-content-start card-strip")
+          div(class="mr-4 mb-3")
+            div(class="p-2")
+              strong Add a new type of resource 
+              span (e.g.: application, open textbook...):
+            form(method="POST" action="/edit/newTypeResource")
+              div(class="form-label-group") 
+                input(type="text" id="inputTitle" name="type" class="form-control" placeholder="New Type" required)
+                label(for="inputTitle") New type
+              input(class="btn btn-primary" type="submit" value="submit")
+              
+
+    if view == "initial"
+      div(id="myContainer")
+        div(class="row")
+          
+          div(class="col-sm-3")
+            div(class="container my-3 mx-3")
+              p
+                b Most starred resources 
+                i(class="fas fa-star" style="color:#fcba03")
+            div(id="containerLeft" class="container mt-4 mx-2")
+              each f in listTop10
+                div(class="card rounded p-3 m-2")
+                  div(class="row px-3")
+                    div(class="col")
+                      a(href=`/file?id_file=${f.id}&id_post=${f.id_post}`)
+                        span 
+                          p(class="card-text m-0") #{f.title}
+                 
+                  
+                  div(class="row px-3")
+                    div(class="col")
+                      span
+                        each n in [1,2,3,4,5]
+                          if f.ranking >= n
+                            span(class="fa fa-star pr-1 mt-1 active")
+                          else
+                            span(class="fa fa-star pr-1 mt-1")
+                        span
+                          strong #{f.ranking} / 5
+                
+                    
+          div(class="col-sm-6")
+
+            div(class="container my-3")
+              p
+                b Recent Activity
+            div(id="containerFeed" class="container mt-2")
+              each post in list
+                if post.postType == "file" 
+                  div(class="container")
+                    div(class="d-flex justify-content-center row")
+                      div(class="col-md-12")
+                        div(class="feed")
+                          
+                          div(class="bg-white rounded shadow-sm mt-2")
+                            div
+                              div(class="d-flex flex-row justify-content-between align-items-center p-2 border-bottom")
+                                div(class="d-flex flex-row align-items-center feed-text px-2")
+                                  img(class="rounded-circle" src="/images/users/#{post.user_name}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="45" height="45")
+                                  div(class="d-flex flex-column flex-wrap ml-2")
+                                    span(class="font-weight-bold") #{post.user_name}
+                                    span(class="text-black-90 time") #{post.date} :  #{post.time}
+                                    
+                                //div(class="feed-icon px-2")
+                                  i(class="fas fa-ellipsis-v text-black-50")
+                          
+                            div(class="p-2 px-3")
+                                span 
+                                  strong Inserted a new file 
+                            div(class="rounded shadow-sm p-3" style="background-color:#f2f9fa; height: 80px")
+                              h4 #{post.name_file}
+                            div(class="d-flex justify-content-end socials p-2 py-3")
+                              a(href=`/file?id_file=${post.id_file}&id_post=${post.id}` data-toggle="tooltip" title="View")
+                                i(class="fas fa-eye")
+                              a(href=`/post?id=${post.id_file}&name=${post.name_file}` data-toggle="tooltip" title="Share")
+                                i(class="fas fa-share")
+                    
+                    //- Para distinguir se é ou não partilha
+                if post.postType == "share" 
+                  div(class="container")
+                    div(class="d-flex justify-content-center row")
+                      div(class="col-md-12")
+                        div(class="feed")
+                          
+                          div(class="bg-white rounded shadow-sm mt-2")
+                            div
+                              div(class="d-flex flex-row justify-content-between align-items-center p-2 border-bottom")
+                                div(class="d-flex flex-row align-items-center feed-text px-2")
+                                  img(class="rounded-circle" src="/images/users/#{post.user_name}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="45" height="45")
+                                  div(class="d-flex flex-column flex-wrap ml-2")
+                                    span(class="font-weight-bold") #{post.user_name}
+                                    span(class="text-black-50 time") #{post.date} :  #{post.time}
+                                    
+                              //  div(class="feed-icon px-2")
+                                  i(class="fas fa-ellipsis-v text-black-50")
+                          
+                            div(class="p-2 px-3")
+                                span #{post.description}.
+                            div(class="rounded shadow-sm p-3" style="background-color:#f2f9fa; height: 80px")
+                              h4 #{post.name_file}
+                            div(class="d-flex justify-content-end socials p-2 py-3")
+                              a(href=`/file?id_file=${post.id_file}&id_post=${post.id}` data-toggle="tooltip" title="View")
+                                i(class="fas fa-eye")
+
+          div(class="col-sm-3")
+            div(class="container my-3 mx-3")
+              p
+                b Notifications
+            div(id="containerLeft" class="container mt-4 mx-2")
+              each post in list
+                if post.postType == "comment"
+                  a(href=`/file?id_file=${post.id_file}&id_post=${post.id}`)
+                    div(class="notifications-item rounded")
+                      img(src="/images/users/#{post.user_name}.png" onerror="javascript:this.src='/images/users/default_user.png'" alt="img")
+                      div(class="text")
+                          h4 #{post.user_name}
+                          p commented on file 
+                            b #{post.name_file}
+                if post.postType == "ranking"
+                  a(href=``)
+                    div(class="notifications-item rounded")
+                      img(src="/images/users/#{post.user_name}.png" onerror="javascript:this.src='/images/users/default_user.png'" alt="img")
+                      div(class="text")
+                          h4 #{post.user_name}
+                          p ranked the file 
+                            b #{post.name_file}
+
+    if view =="post_File"
+      div(class="container-fluid px-1 px-sm-4 pt-5 mx-auto")
+        div(class="row d-flex justify-content-start card-strip")
+          div(class="mr-4 mb-3")
+            i(class="fas fa-file#{extension} fa-3x")
+          div(class="info")
+            div(class="row px-3 mb-2")
+              h3(class="dark-text mr-4") #{name_file}
+              // p(class="mt-1 mr-4 extended-title") Bacharelado
+
+       div(class="container-fluid px-1 px-sm-4 pt-5 mx-auto")
+          div(class="card gedf-card")
+            div(class="card-header")
+              ul(class="nav nav-tabs card-header-tabs" id="myTab" role="tablist")
+                li(class="nav-item")
+                  a(class="nav-link active" id="posts-tab" data-toggle="tab" href="#posts" role="tab" aria-controls="posts" aria-selected="true") Make a publication
+          
+            div(class="card-body")
+              form(method='post' action=`/post?id_file=`+id_file+"&name_file="+name_file)
+                div(class="form-group")
+                  label(Class="sr-only" for="message") post
+                  textarea(class="form-control" id="message" name="post" rows="3" placeholder="What do you want to say about the resource?")
+              
+                div(class="btn-toolbar justify-content-between")
+                  div(class="btn-group")
+                  button(type="submit" class="btn btn-primary") share
+
+    if view == "file"
+      div(class="container-fluid px-1 px-sm-4 pt-5 mx-auto")
+        div(class="row d-flex justify-content-start card-strip")
+          div(class="mr-4 mb-3")
+            i(class="fas fa-file-#{extension} fa-9x")
+          div(class="info")
+            div(class="row px-3 mb-2")
+              h3(class="dark-text mr-4") #{file.name}
+              // p(class="mt-1 mr-4 extended-title") Bacharelado
+
+            div(class="row px-3")
+              p #{file.mimeType} #{file.size} MB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              span
+                each n in [1,2,3,4,5]
+                  if file.ranking >= n
+                    span(class="fa fa-star pr-1 mt-1 active")
+                  else
+                    span(class="fa fa-star pr-1 mt-1")
+                span
+                  strong #{file.ranking} / 5
+            
+
+            div(class="row px-3")
+              if post.description != "null"
+                p #{post.description}
+
+            div(class="row px-3")
+              p
+                strong Date: 
+                span= post.date
+            div(class="row px-3")
+              p
+                strong Uploaded by: 
+                span= post.user_name
+           
+       
+          div(class="v-line ml-auto")
+          div(class="price")
+            h4(class="blue-text mb-3")
+            p(class="mb-0")
+            div(class="row px-3")
+              h4(class="blue-text mr-2")
+            
+            div
+              if displayFile == 1
+                button(class="btn btn-blue shadow mt-4 p-2" onclick ="window.location.assign('/search/view/file?id=" + file.id + "&type=" + file.type + "&mimeType=" +  file.mimeType + "&name=" + file.name + "')"  )
+                  i(class="fas fa-eye")
+                  span  View File
+
+            div 
+              button(class="btn btn-blue shadow mt-4 p-2" onclick ="window.location.assign('/search/download/file?id=" + file.id + "&type=" + file.type + "&name=" + file.name + "')")
+                i(class="fas fa-download")
+                span  Download 
+
+        div(class="container mt-5")
+          div(class="row d-flex justify-content-center")
+              div(class="col-md-8")
+                div(class="headings d-flex justify-content-between align-items-center mb-3")
+                  h5 Comments
+                  div(class="buttons")
+                    span(class="badge bg-white d-flex flex-row align-items-center")
+                  
+                div(class="coment-bottom bg-white p-2 px-4")
+                  div(class="d-flex flex-row add-comment-section mt-4 mb-4")
+                    img(class="img-fluid img-responsive rounded-circle mr-2" src="/images/users/#{user.mail}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="38" height="38")
+                    form(class="form-inline" method='post' action=`/file/comment?id_file=`+file.id + '&file_name=' + file.name + `&id_post=` + post.id)
+                      input(type="text" class="form-control mr-3" name="comment" placeholder="Add comment")
+                      input(class="btn btn-primary" type="submit" value="Comment")
+                        
+
+                each comment in post.comments
+                  div(class="card p-3" id="comments")
+                    div(class="d-flex justify-content-between align-items-center")
+                      div(class="user d-flex flex-row align-items-center")
+                        img(src="/images/users/#{comment.user_name}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="30" height="30" class="user-img rounded-circle mr-2")
+                        span(id=comment.id)
+                          small(class="font-weight-bold text-primary") #{comment.user_name} 
+                          small(class="font-weight-bold")= comment.text
+                      small #{comment.date}
+
+                      //- if the comment is from the user logged in or if the user is admin can delete
+                      if (comment.user_name == user.mail || user.level == "admin")
+                        a(href="/edit/delete/comment/" + comment.id+ "?post_id=" + post.id + "&id_file=" +file.id)    
+                          i(class="fas fa-trash") 
+                          span Delete 
+
+
+
+    if view == "showFiles"
+      div(class="container-fluid mt-100")
+        div(class="card mb-3")
+          div(class="card-header pl-0 pr-0")
+            div(class="row no-gutters w-100 align-items-center")
+              div(class="col-1 text-muted")
+              div(class="col ml-3") Resource
+              div(class="col-6 text-muted")
+                div(class="row no-gutters align-items-center")
+                  div(class="col-2") Hashtags
+                  div(class="col-2") Rating
+                  div(class="col-4") Last update
+                  div(class="col-1")
+                  div(class="col-1")
+          
+          each file, index in list
+            div(class="card-body py-3")
+              div(class="row no-gutters align-items-center")
+                div(class="d-none d-md-block col-1")
+                  i(class="fas fa-file#{ext[index]} fa-2x")
+                div(class="col")
+                  if file.id_produces == user.mail
+                    a(href=`/edit/${file.id}` class="text-big" data-abc="true") #{file.title}
+                    div(class="text-muted small mt-1") #{file.type} &nbsp;·&nbsp;
+                      a(href="javascript:void(0)" class="text-muted" data-abc="true") #{file.authors}
+                  else
+                    a(href=`/file?id_file=${file.id}&id_post=${file.id_post}` class="text-big" data-abc="true") #{file.title}
+                    div(class="text-muted small mt-1") #{file.type} &nbsp;·&nbsp;
+                      a(href="javascript:void(0)" class="text-muted" data-abc="true") #{file.authors}    
+                div(class="d-none d-md-block col-6")
+                  div(class="row no-gutters align-items-center")
+
+                    //hashtags
+                    div(class="col-2")
+                      each h in file.hashtags
+                        a(href="/search?hashtag=#{h}")
+                          span(class="badge badge-pill badge-danger task-category") #{h}
+
+                    //ranking
+                    div(class="col-2")
+                      button(class="btn" style="background-color: transparent" data-toggle="modal" data-target=`#ratingModal${file.id}`)
+                        span #{file.ranking} &nbsp;
+                        i(class="fas fa-star" style="color:#fcba03")
+
+
+                    //last update  
+                    div(class="media col-4 align-items-center")
+                      img(src="/images/users/#{file.id_produces}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="45" height="45" class="d-block ui-w-30 rounded-circle")
+                      div(class="media-body flex-truncate ml-1")
+                        div(class="line-height-1 text-truncate") #{file.dateLastUpdate}
+                        if file.id_produces == user.mail
+                          a(href="/profile" class="text-muted small text-truncate" data-abc="true") by #{file.id_produces}
+                        else
+                          a(href="/profile?user=#{file.id_produces}" class="text-muted small text-truncate" data-abc="true") by #{file.id_produces}
+                    div(class="col-1 ml-5")
+                        a(href="/search/download/file?id=#{file.id}&type=#{file.type}&name=#{file.name}")
+                          i(class="fas fa-download")
+                    div(class="col-1 ml-3")
+                        a(href="/post?id=#{file.id}&name=#{file.name}")
+                          i(class="fas fa-share")
+                
+            hr(class="m-0")
+        
+            div(class="modal fade" id=`ratingModal${file.id}` tabindex="-1" role="dialog" aria-labelledby="myModalLabel")
+              div(class="modal-dialog modal-dialog-centered" role="document")
+                div(class="modal-content")
+                  div(class="modal-header")
+                    h4(class="modal-title" id="myModalLabel") Rating
+                    button(type="button" class="close" data-dismiss="modal" aria-label="Close")
+                      span(aria-hidden="true") &times;
+            
+                  div(class="modal-body")
+                    p Do you want to rate this resource?
+                    form(method='post' action=`/file/ranking?id_file=`+file.id+"&name_file="+file.name+'&pageResources=Resources')
+                      each n in [1,2,3,4,5]
+                        div(class="form-check mb-3")
+                          input(type="radio" class="form-check-input" id="customCheckRating#{n}" name="ranking" value= n)
+                          label(class="form-check-label" for="customCheckRating#{n}")
+                            span #{n} &nbsp;
+                            i(class="fas fa-star" style="color:#fcba03")
+                      input(type="submit" value="submit" class="btn btn-primary")
+
+
+    if view == "showFilesEdit"
+      div(class="container-fluid mt-100")
+        div(class="card mb-3")
+          div(class="card-header pl-0 pr-0")
+            div(class="row no-gutters w-100 align-items-center")
+              div(class="col-1 text-muted")
+              div(class="col ml-3") Resource
+              div(class="col-6 text-muted")
+                div(class="row no-gutters align-items-center")
+                  div(class="col-2") Hashtags
+                  div(class="col-2") Rating
+                  div(class="col-4") Last update
+          
+          if list.length > 0
+            each file, index in list
+              div(class="card-body py-3")
+                div(class="row no-gutters align-items-center")
+                  div(class="d-none d-md-block col-1")
+                    i(class="fas fa-file#{ext[index]} fa-2x")
+                  div(class="col")
+                    a(href=`/edit/${file.id}` class="text-big" data-abc="true") #{file.title}
+                    div(class="text-muted small mt-1") #{file.type} &nbsp;·&nbsp;
+                      a(href="javascript:void(0)" class="text-muted" data-abc="true") #{file.authors}
+                          
+                  div(class="d-none d-md-block col-6")
+                    div(class="row no-gutters align-items-center")
+
+                      //hashtags
+                      div(class="col")
+                        if file
+                          each h in file.hashtags
+                             a(href="/search?hashtag=#{h}")
+                              span(class="badge badge-pill badge-danger task-category") #{h}
+                        
+                      //rating
+                      div(class="col-2")
+                        span #{file.ranking} &nbsp;
+                        i(class="fas fa-star" style="color:#fcba03")
+
+                      //last update
+                      div(class="media col-4 align-items-center")
+                        img(src="/images/users/#{user.mail}.png" onerror="javascript:this.src='/images/users/default_user.png'" width="45" height="45" class="d-block ui-w-30 rounded-circle")
+                        div(class="media-body flex-truncate ml-1")
+                          div(class="line-height-1 text-truncate") #{file.dateLastUpdate}
+                          a(href="javascript:void(0)" class="text-muted small text-truncate" data-abc="true") by #{file.id_produces}
+                      
+                      div(class="col-1 ml-4")
+                        a(href="/edit/#{file.id}")
+                          i(class="fas fa-edit")
+                      
+                      if user.level == "admin"
+                        div(class="col-1 ml-4")
+                          a(href="/export/#{file.id}?type=#{file.type}&name=#{file.name}")
+                            i(class="fas fa-file-export")
+                      else
+                        div(class="col-1 ml-5")
+                          a(href="/search/download/file?id=#{file.id}&type=#{file.type}&name=#{file.name}")
+                            i(class="fas fa-download")
+
+
+                      div(class="col-1 ml-4")
+                        a(href="/edit/delete/file/#{file.id}")
+                          i(class="fas fa-trash")
+                      
+
+              div(class="modal fade" id=`ratingModalMyResources${file.id}` tabindex="-1" role="dialog" aria-labelledby="myModalLabel")
+                div(class="modal-dialog modal-dialog-centered" role="document")
+                  div(class="modal-content")
+                    div(class="modal-header")
+                      h4(class="modal-title" id="myModalLabel") Rating
+                      button(type="button" class="close" data-dismiss="modal" aria-label="Close")
+                        span(aria-hidden="true") &times;
+              
+                    div(class="modal-body")
+                      p Do you want to rate this resource?
+                      form(method='post' action=`/file/ranking?id_file=`+file.id+"&name_file="+file.name+'&pageResources=MyResources')
+                        each n in [1,2,3,4,5]
+                          div(class="form-check mb-3")
+                            input(type="radio" class="form-check-input" id="customCheckRating#{n}" name="ranking" value= n)
+                            label(class="form-check-label" for="customCheckRating#{n}")
+                              span #{n} &nbsp;
+                              i(class="fas fa-star" style="color:#fcba03")
+                        input(type="submit" value="submit" class="btn btn-primary")
+                
+            hr(class="m-0")
+
+
+    if view == "import"
+      div(class="container contact p-5 m-5" style="background-color: white")
+        div(class="row")
+          div(class="col-md-3")
+            img(src="/images/upload.png" alt="UploadImage" width="35%")
+          div(class="col-md-9")
+            div(class="contact-form")
+              form(class="form-signin" method='POST' action="/import/file", enctype='multipart/form-data')
+          
+                div(class="py-5")
+                  p Choose resource to import: 
+                  input(type='file', name="myFile" id="inputUpload" required)
+                input(class="btn btn-primary" type='submit', value='Submit')
+
+
+    if view == "upload"
+       div(class="container contact p-5 m-5" style="background-color: white")
+        div(class="row")
+          div(class="col-md-3")
+            img(src="/images/upload.png" alt="UploadImage" width="35%")
+            
+          div(class="col-md-9")
+            p 
+              strong Upload your file
+            div(class="contact-form")
+              form(class="form-signin" method='POST' action="/uploads/files", enctype='multipart/form-data')
+                div(class="form-label-group")
+                  input(type="text" id="inputTitle" name="title" class="form-control" placeholder="Title" required)
+                  label(for="inputTitle") Title
+
+                div(class="form-label-group")
+                  input(type="text" id="inputSubtitle" name="subtitle" class="form-control" placeholder="Subtitle" required)
+                  label(for="inputSubtitle") Subtitle
+
+                div(class="form-label-group")
+                  input(type="date" id="inputDate" name="creationDate" class="form-control" placeholder="Creation Date" required)
+                  label(for="inputDate") Creation Date
+
+                div(class="form-label-group")
+                  input(type="text" id="inputSubject" name="subject" class="form-control" placeholder="Subject" required)
+                  label(for="inputSubject") Subject
+
+                div(class="form-label-group")
+                  input(type="text" id="inputAuthor" name="author" class="form-control" placeholder="Author" required)
+                  label(for="inputAuthor") Author
+              
+                div(class="form-label-group")
+                  input(type="text" id="inputDescription" name="description" class="form-control" placeholder="Description" required)
+                  label(for="inputDescription") Description
+
+                div(class="form-label-group")
+                  input(type="text" id="inputHashtags" name="hashtags" class="form-control" placeholder="Hashtags must start with # and separated by spaces." required)
+                  label(for="inputHashtags") Hashtags
+
+                p Resource Type:
+                div
+                  for t in resourcesType
+                    if t == "others"
+                      div(class="form-check mb-3")
+                        input(type="radio" class="form-check-input" id="customCheck#{t}" name="type" value= t checked)
+                        label(class="form-check-label" for="customCheck#{t}")= t
+                    else
+                      div(class="form-check mb-3")
+                        input(type="radio" class="form-check-input" id="customCheck#{t}" name="type" value= t)
+                        label(class="form-check-label" for="customCheck#{t}")= t
+
+                p Visibility:
+                div(class="form-check mb-3")
+                  input(type="radio" class="form-check-input" id="customCheckPublic" name="visibility" value="public" checked)
+                  label(class="form-check-label" for="customCheckPublic") public
+
+                div(class="form-check mb-3")
+                  input(type="radio" class="form-check-input" id="customCheckPrivate" name="visibility" value="private")
+                  label(class="form-check-label" for="customCheckPrivate") private
+                
+
+                div(class="py-5")
+                  p Choose resource to upload: 
+                  input(type='file', name="myFile" required)
+
+                input(class="btn btn-primary" type='submit', value='Submit')
+
+
+    if view == "edit"
+      div(class="container-fluid px-1 px-sm-4 py-5 mx-auto")
+        div(class="row d-flex justify-content-start card-strip")
+          div(class="mr-4 mb-3")
+            i(class="fas fa-file#{extension} fa-9x")
+          div(class="info")
+            div(class="row px-3 mb-2")
+              h3(class="dark-text mr-4") #{resource.name}
+              // p(class="mt-1 mr-4 extended-title") Bacharelado
+            
+            div(class="row px-3")
+              p
+                span #{resource.mimeType} &nbsp;
+                span #{resource.size} MB
+
+
+            div(class="row px-3")
+              p
+                strong Authors: 
+                span #{resource.authors}
+
+            div(class="row px-3")    
+              p 
+                strong Subtitle: 
+                span #{resource.subject}
+
+            div(class="row px-3")
+              p 
+                strong Description: 
+                span #{resource.description}
+
+            div(class="row px-3 mb-3")
+              each n in [1,2,3,4,5]
+                if resource.ranking >= n
+                  span(class="fa fa-star pr-1 mt-1 active")
+                else
+                  span(class="fa fa-star pr-1 mt-1")
+              span
+                strong #{resource.ranking} / 5
+       
+
+        div(class="row d-flex justify-content-start card-strip")
+          div(style="padding:5%")
+            div(class="col")
+              div(class="p-4")
+                h3 Edit the resource attributes: 
+              form(method='POST' action = `/edit/file/` + resource.id +'?_method=PUT&name=' + resource.name)
+
+                div(class="form-label-group")
+                  input(type="text" id="inputTitle" name="title" class="form-control" value = resource.title required)
+                  label(for="inputTitle") Title
+
+                div(class="form-label-group")
+                  input(type="text" id="inputSubtitle" name="subtitle" class="form-control" value = resource.subtitle required)
+                  label(for="inputSubtitle") Subtitle
+
+                div(class="form-label-group")
+                  input(type="text" id="inputSubject" name="subject" class="form-control" value = resource.subject required)
+                  label(for="inputSubject") Subject
+
+                div(class="form-label-group")
+                  input(type="text" id="inputAuthor" name="authors" class="form-control" value = resource.authors required)
+                  label(for="inputAuthor") Authors
+              
+                div(class="form-label-group")
+                  input(type="text" id="inputDescription" name="description" class="form-control" value = resource.description required)
+                  label(for="inputDescription") Description
+
+                div(class="form-label-group")
+                  input(type="text" id="inputHashtags" name="hashtags" class="form-control" value = resource.hashtags required)
+                  label(for="inputHashtags") Hashtags
+            
+                div(class="col")  
+                  p 
+                    strong Resource Type:
+                  div
+                    for t in resourcesType
+                      if t == resource.type
+                        div(class="form-check mb-3")
+                          input(type="radio" class="form-check-input" id="customCheck#{t}" name="type" value= t checked)
+                          label(class="form-check-label" for="customCheck#{t}")= t
+                      else
+                        div(class="form-check mb-3")
+                          input(type="radio" class="form-check-input" id="customCheck#{t}" name="type" value= t)
+                          label(class="form-check-label" for="customCheck#{t}")= t
+
+                  p
+                    strong Visibility:
+                  div
+                    for v in visibilityTypes
+                      if v == resource.visibility
+                        div(class="form-check mb-3")
+                          input(type="radio" class="form-check-input" id="customCheckPublic" name="visibility" value=v checked)
+                          label(class="form-check-label" for="customCheckPublic")= v
+
+                      else
+                        div(class="form-check mb-3")
+                          input(type="radio" class="form-check-input" id="customCheckPrivate" name="visibility" value=v)
+                          label(class="form-check-label" for="customCheckPrivate")= v
+                  
+                  input(class="btn btn-lg btn-primary" type='submit' value='Submit') 
+
+    if view == "editConfirmPage"
+      div(class="moda" id="session-expired-modal" tabindex="-1" role="dialog" style="display:block" aria-labelledby="myModalLabel")
+        div(class="modal-dialog" role="document")
+          div(class="modal-content")
+            div(class="modal-header")
+              h4(class="modal-title") Edit Confirmation
+            
+            div(class="modal-body")
+              span The resource data has been successfully edited!
+            
+            div(class="modal-footer")
+              span(class="m-2")
+                form(method="get" action="/edit/#{id_file}")
+                  input(type="submit" class="btn btn-primary" value="My resource" style="padding: 6px 12px; margin-bottom: 0; font-size: 14px; font-weight: normal; border: 1px solid transparent; border-radius: 4px; background-color: #428bca; color: #FFF;")
+              span(class="m-2")
+                form(method="get" action="/edit/myResources")
+                  input(type="submit" class="btn btn-primary" value="Homepage" style="padding: 6px 12px; margin-bottom: 0; font-size: 14px; font-weight: normal; border: 1px solid transparent; border-radius: 4px; background-color: #428bca; color: #FFF;")
+    

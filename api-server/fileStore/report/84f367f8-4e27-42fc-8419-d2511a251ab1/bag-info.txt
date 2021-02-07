@@ -1,0 +1,20 @@
+id: 84f367f8-4e27-42fc-8419-d2511a251ab1
+name: ficha5.pdf
+title: ficha5
+subtitle:  
+id_produces: donaldsongould@playce.com
+authors: Mercado Clayton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 130 KB

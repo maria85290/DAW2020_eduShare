@@ -1,0 +1,20 @@
+id: d8033ba9-c081-421b-9d06-f3a16ffe195e
+name: Your Right To Privacy Minimize Your Digital Footprint by Jim Bronskill, David McKie (z-lib.org).epub.pdf
+title: Your Right To Privacy Minimize Your Digital Footprint by Jim Bronskill, David McKie (z-lib
+subtitle:  
+id_produces: mcmahonhorton@playce.com
+authors: Maura Mccormick
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

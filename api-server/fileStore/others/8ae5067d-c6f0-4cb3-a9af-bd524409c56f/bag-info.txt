@@ -1,0 +1,20 @@
+id: 8ae5067d-c6f0-4cb3-a9af-bd524409c56f
+name: Penetration Testing A Hands-On Introduction to Hacking by Georgia Weidman (z-lib.org).pdf
+title: Penetration Testing A Hands-On Introduction to Hacking by Georgia Weidman (z-lib
+subtitle:  
+id_produces: dunnlevy@playce.com
+authors: Bette Baird
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 11.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,20 @@
+id: 22ed07cc-bc00-4436-a88d-c2847155182b
+name: TP3-pag4.pdf
+title: TP3-pag4
+subtitle:  
+id_produces: francesrichard@playce.com
+authors: Neva Chapman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 66 KB

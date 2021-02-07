@@ -1,0 +1,21 @@
+id: 66843675-e1d6-4573-a13e-dc2fac68f49d
+name: rtx110200250p.pdf
+title: rtx110200250p
+subtitle:  
+id_produces: velezchristian@playce.com
+authors: Tiffany Meyer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_66843675-e1d6-4573-a13e-dc2fac68f49d
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

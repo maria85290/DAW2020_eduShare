@@ -1,0 +1,20 @@
+id: 092e4924-bdc1-4a06-9a63-d0045d5ea10e
+name: Miniteste2-Perguntas.pdf
+title: Miniteste2-Perguntas
+subtitle:  
+id_produces: hortonmiller@playce.com
+authors: Banks Vaughn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 64 KB

@@ -1,0 +1,20 @@
+id: 6d344c7d-9afc-455b-be1f-5cf332e9087e
+name: umproject.zip
+title: umproject
+subtitle:  
+id_produces: stevensonbarber@playce.com
+authors: Hurst Moody
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.8
+mimeType: application/zip
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

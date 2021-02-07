@@ -1,0 +1,21 @@
+id: 18f4e832-0ef7-4ea7-8558-c5efb660fd91
+name: 07386985.pdf
+title: 07386985
+subtitle:  
+id_produces: hartmandonovan@playce.com
+authors: Beth Moreno
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_18f4e832-0ef7-4ea7-8558-c5efb660fd91
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

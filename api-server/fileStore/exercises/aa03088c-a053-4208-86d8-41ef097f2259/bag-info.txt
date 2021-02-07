@@ -1,0 +1,20 @@
+id: aa03088c-a053-4208-86d8-41ef097f2259
+name: mongo.png
+title: mongo
+subtitle:  
+id_produces: higginscontreras@playce.com
+authors: Walton Mcintosh
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: image/png
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 102 KB

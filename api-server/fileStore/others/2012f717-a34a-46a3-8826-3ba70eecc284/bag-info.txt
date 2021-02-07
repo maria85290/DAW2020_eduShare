@@ -1,0 +1,20 @@
+id: 2012f717-a34a-46a3-8826-3ba70eecc284
+name: Ficha_TP_Electromagnetismo_2.pdf
+title: Ficha_TP_Electromagnetismo_2
+subtitle:  
+id_produces: holmanlawrence@playce.com
+authors: Marietta Calderon
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 182 KB

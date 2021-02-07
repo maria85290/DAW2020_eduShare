@@ -1,0 +1,21 @@
+id: d16a082b-973b-47ab-a129-10900ddfafbe
+name: TP2-pag1-3.pdf
+title: TP2-pag1-3
+subtitle:  
+id_produces: keripratt@playce.com
+authors: Irma Savage
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d16a082b-973b-47ab-a129-10900ddfafbe
+Bagging-Date: 2021-02-07
+Bag-Size: 133 KB

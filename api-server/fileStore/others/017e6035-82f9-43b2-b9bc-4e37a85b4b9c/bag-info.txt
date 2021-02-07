@@ -1,0 +1,21 @@
+id: 017e6035-82f9-43b2-b9bc-4e37a85b4b9c
+name: tx070800982p.pdf
+title: tx070800982p
+subtitle:  
+id_produces: elisacruz@playce.com
+authors: Hester Stewart
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_017e6035-82f9-43b2-b9bc-4e37a85b4b9c
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

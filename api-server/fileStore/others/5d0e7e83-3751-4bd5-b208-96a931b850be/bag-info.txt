@@ -1,0 +1,21 @@
+id: 5d0e7e83-3751-4bd5-b208-96a931b850be
+name: pri2019-e2.html
+title: pri2019-e2
+subtitle:  
+id_produces: mariebowers@playce.com
+authors: Maxine Stanton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_5d0e7e83-3751-4bd5-b208-96a931b850be
+Bagging-Date: 2021-02-07
+Bag-Size: 14 KB

@@ -1,0 +1,19 @@
+id: b0ea46c9050a08a7eddc1a2e2dde2f64
+name: Ficha4 - Texturas.pdf
+title: ficha texturas - cg - uminho
+subtitle: ficha 4 de cg - 2019/2020
+id_produces: minnienorman@playce.com
+authors: professor filipe
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:24:42
+subject: CG
+description: Ficha que permite aplicar os principais conhecimentos sobre texturas.
+ranking: 0
+rankingList: 
+size: 0.1
+mimeType: application/pdf
+type: others
+visibility: public
+hashtags: cg
+Bagging-Date: 2021-02-07
+Bag-Size: 68 KB

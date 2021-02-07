@@ -1,0 +1,21 @@
+id: 3ff5fc11-f6b2-4da6-95d2-234d84356ec1
+name: COLECCOES_JAVA6_PARTE1.pdf
+title: COLECCOES_JAVA6_PARTE1
+subtitle:  
+id_produces: levyreese@playce.com
+authors: Henry Collier
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.8
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_3ff5fc11-f6b2-4da6-95d2-234d84356ec1
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

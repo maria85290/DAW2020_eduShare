@@ -1,0 +1,20 @@
+id: 97d4d77d-1db3-4646-93b6-156639358920
+name: TC_Trabalho4_1 (1).png
+title: TC_Trabalho4_1 (1)
+subtitle:  
+id_produces: crawfordkerr@playce.com
+authors: Admin
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: image/png
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 6.6 KB

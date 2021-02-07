@@ -1,0 +1,21 @@
+id: 69b9842b-4139-43b7-8e0d-9d14ef69ad2e
+name: JapaneseGods.ged.txt
+title: JapaneseGods
+subtitle:  
+id_produces: lilianaraymond@playce.com
+authors: Pratt Gray
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: text/plain
+visibility: public
+hashtags: 
+id_post: post_69b9842b-4139-43b7-8e0d-9d14ef69ad2e
+Bagging-Date: 2021-02-07
+Bag-Size: 16 KB

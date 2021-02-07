@@ -1,0 +1,20 @@
+id: 6250b3c5-1b52-47e4-bd1f-c3dbf2149092
+name: rnoti-p398DSb.pdf
+title: rnoti-p398DSb
+subtitle:  
+id_produces: estermcmillan@playce.com
+authors: Robbins Cox
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 1.9
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 152 KB

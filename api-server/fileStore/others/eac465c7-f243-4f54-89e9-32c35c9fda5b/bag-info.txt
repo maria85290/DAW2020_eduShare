@@ -1,0 +1,20 @@
+id: eac465c7-f243-4f54-89e9-32c35c9fda5b
+name: relatorio-base.tex
+title: relatorio-base
+subtitle:  
+id_produces: colehall@playce.com
+authors: Buckley Haney
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/x-tex
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 5.3 KB

@@ -1,0 +1,20 @@
+id: 70044bc2-b058-4df1-ab0b-99d5375afbab
+name: Manual Calculo. Programas.pdf
+title: Manual Calculo
+subtitle:  
+id_produces: fischercantrell@playce.com
+authors: Ellen Willis
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.9
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

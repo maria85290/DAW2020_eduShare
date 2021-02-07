@@ -1,0 +1,21 @@
+id: 97e0bd53-ebff-4bf9-8ab7-a7d89c617a54
+name: arq-son.txt
+title: arq-son
+subtitle:  
+id_produces: queensargent@playce.com
+authors: Campbell Quinn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: text/plain
+visibility: public
+hashtags: 
+id_post: post_97e0bd53-ebff-4bf9-8ab7-a7d89c617a54
+Bagging-Date: 2021-02-07
+Bag-Size: 54 KB

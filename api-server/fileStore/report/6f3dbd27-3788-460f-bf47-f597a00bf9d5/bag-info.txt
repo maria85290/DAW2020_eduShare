@@ -1,0 +1,21 @@
+id: 6f3dbd27-3788-460f-bf47-f597a00bf9d5
+name: Mastering Modern Web Penetration Testing by Prakhar Prasad (z-lib.org).pdf
+title: Mastering Modern Web Penetration Testing by Prakhar Prasad (z-lib
+subtitle:  
+id_produces: kathycain@playce.com
+authors: Esther Conrad
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 15.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_6f3dbd27-3788-460f-bf47-f597a00bf9d5
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

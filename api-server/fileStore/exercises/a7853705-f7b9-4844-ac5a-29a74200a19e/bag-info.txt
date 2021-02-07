@@ -1,0 +1,21 @@
+id: a7853705-f7b9-4844-ac5a-29a74200a19e
+name: ficha8_ex3.PNG
+title: ficha8_ex3
+subtitle:  
+id_produces: normaroberts@playce.com
+authors: Case Chambers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.5
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_a7853705-f7b9-4844-ac5a-29a74200a19e
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

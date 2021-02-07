@@ -1,0 +1,21 @@
+id: 04135da8-8b90-4188-8061-0774fef8ca55
+name: 2_Semantica_Natural.pdf
+title: 2_Semantica_Natural
+subtitle:  
+id_produces: briggslong@playce.com
+authors: Montgomery Kennedy
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 6.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_04135da8-8b90-4188-8061-0774fef8ca55
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

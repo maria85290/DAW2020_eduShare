@@ -1,0 +1,20 @@
+id: 20d12080-ca78-4bdc-bbee-1be55a8c6df2
+name: rnoti-p249.pdf
+title: rnoti-p249
+subtitle:  
+id_produces: shafferknight@playce.com
+authors: Christi Schultz
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

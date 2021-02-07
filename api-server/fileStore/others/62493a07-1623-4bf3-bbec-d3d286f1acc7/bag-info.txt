@@ -1,0 +1,21 @@
+id: 62493a07-1623-4bf3-bbec-d3d286f1acc7
+name: ler_str.c
+title: ler_str
+subtitle:  
+id_produces: hoganhaynes@playce.com
+authors: Foley Rodriguez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/x-c
+visibility: public
+hashtags: 
+id_post: post_62493a07-1623-4bf3-bbec-d3d286f1acc7
+Bagging-Date: 2021-02-07
+Bag-Size: 568 B

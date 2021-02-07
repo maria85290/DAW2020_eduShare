@@ -1,0 +1,21 @@
+id: fee9b6f2-de63-47ff-b352-d9e887c4f793
+name: HERANCA_REGRAS (1).pdf
+title: HERANCA_REGRAS (1)
+subtitle:  
+id_produces: nolanrowe@playce.com
+authors: Campos Wolfe
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fee9b6f2-de63-47ff-b352-d9e887c4f793
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,21 @@
+id: 74feae43-9914-4c6c-a1ac-ebe29bd95b16
+name: rtx090500614p.pdf
+title: rtx090500614p
+subtitle:  
+id_produces: guymoore@playce.com
+authors: Doris Velez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_74feae43-9914-4c6c-a1ac-ebe29bd95b16
+Bagging-Date: 2021-02-07
+Bag-Size: 97 KB

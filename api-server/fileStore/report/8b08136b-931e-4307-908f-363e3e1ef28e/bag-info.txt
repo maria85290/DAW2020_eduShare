@@ -1,0 +1,21 @@
+id: 8b08136b-931e-4307-908f-363e3e1ef28e
+name: t03-Transformacoes_Geometricas.pdf
+title: t03-Transformacoes_Geometricas
+subtitle:  
+id_produces: jannastevens@playce.com
+authors: Morrow Mullen
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_8b08136b-931e-4307-908f-363e3e1ef28e
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

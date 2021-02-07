@@ -1,0 +1,21 @@
+id: 5d363b0a-42c6-423c-8883-2fae47ab491d
+name: pi2010-lcc-teste.pdf
+title: pi2010-lcc-teste
+subtitle:  
+id_produces: griffinkeith@playce.com
+authors: Marisa Warner
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5d363b0a-42c6-423c-8883-2fae47ab491d
+Bagging-Date: 2021-02-07
+Bag-Size: 53 KB

@@ -1,0 +1,20 @@
+id: ab701ade-2fc2-462c-b355-afd2a511a4fb
+name: Slides2_Objectos_Classes.pdf
+title: Slides2_Objectos_Classes
+subtitle:  
+id_produces: betsymerrill@playce.com
+authors: Kelly Oconnor
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

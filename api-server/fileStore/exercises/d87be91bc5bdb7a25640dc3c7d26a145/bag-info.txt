@@ -1,0 +1,19 @@
+id: d87be91bc5bdb7a25640dc3c7d26a145
+name: Relatorio_IC.pdf
+title: relatório ic - 2019
+subtitle: trabalho 1
+id_produces: maria.a.b2000@hotmail.com
+authors: maria, constança
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:55:17
+subject: IC - LCC
+description: Resolução do trabalho 1 de IC
+ranking: 0
+rankingList: 
+size: 4.8
+mimeType: application/pdf
+type: exercises
+visibility: private
+hashtags: ic
+Bagging-Date: 2021-02-07
+Bag-Size: 170 KB

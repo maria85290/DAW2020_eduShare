@@ -1,0 +1,21 @@
+id: fdfe408e-e7d6-4ed6-9b94-78fd14f614ea
+name: rtx120600758p.pdf
+title: rtx120600758p
+subtitle:  
+id_produces: trinataylor@playce.com
+authors: Lynch Leonard
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fdfe408e-e7d6-4ed6-9b94-78fd14f614ea
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,20 @@
+id: 7cfae967-4779-444f-acd5-9e1c2eb16ea3
+name: pi2010-lei-exame.pdf
+title: pi2010-lei-exame
+subtitle:  
+id_produces: christyfinch@playce.com
+authors: Ronda Holcomb
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 66 KB

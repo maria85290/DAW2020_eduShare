@@ -1,0 +1,21 @@
+id: 402ae011-dc8c-4dc5-909d-9d0fd76e7724
+name: 2006_Book_DesigningSmartHomes.pdf
+title: 2006_Book_DesigningSmartHomes
+subtitle:  
+id_produces: rosemarygreer@playce.com
+authors: Campbell Quinn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_402ae011-dc8c-4dc5-909d-9d0fd76e7724
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

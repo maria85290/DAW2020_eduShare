@@ -1,0 +1,20 @@
+id: e631a842-0608-493b-8a41-804f808b36bd
+name: calc.html
+title: calc
+subtitle:  
+id_produces: hannahrush@playce.com
+authors: Moore Byers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 1.6 KB

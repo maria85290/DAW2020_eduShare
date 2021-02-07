@@ -1,0 +1,20 @@
+id: 35a56a7f-a05d-413b-acd0-5e9172e3b88e
+name: rnoti-p121.pdf
+title: rnoti-p121
+subtitle:  
+id_produces: janellsuarez@playce.com
+authors: Mccarthy Williamson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 12.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 183 KB

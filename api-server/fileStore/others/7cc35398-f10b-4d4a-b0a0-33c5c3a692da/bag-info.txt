@@ -1,0 +1,20 @@
+id: 7cc35398-f10b-4d4a-b0a0-33c5c3a692da
+name: rtx110901226p.pdf
+title: rtx110901226p
+subtitle:  
+id_produces: glennasnow@playce.com
+authors: Beck Potts
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

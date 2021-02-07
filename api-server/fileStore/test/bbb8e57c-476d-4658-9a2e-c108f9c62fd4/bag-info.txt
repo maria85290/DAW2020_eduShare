@@ -1,0 +1,20 @@
+id: bbb8e57c-476d-4658-9a2e-c108f9c62fd4
+name: Royal92.ged.txt
+title: Royal92
+subtitle:  
+id_produces: pruittjustice@playce.com
+authors: Nunez Patton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.4
+mimeType: text/plain
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

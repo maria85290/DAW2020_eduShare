@@ -1,0 +1,20 @@
+id: 5da04c95-b82b-434d-8239-9d9e400909aa
+name: rnoti-p269.pdf
+title: rnoti-p269
+subtitle:  
+id_produces: lizazimmerman@playce.com
+authors: Marsh Mercer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

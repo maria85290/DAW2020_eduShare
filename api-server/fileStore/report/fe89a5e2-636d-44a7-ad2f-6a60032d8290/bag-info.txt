@@ -1,0 +1,20 @@
+id: fe89a5e2-636d-44a7-ad2f-6a60032d8290
+name: Ficha_TP_Electromagnetismo_5.pdf
+title: Ficha_TP_Electromagnetismo_5
+subtitle:  
+id_produces: valerielynn@playce.com
+authors: Avila Hartman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

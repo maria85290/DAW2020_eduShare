@@ -1,0 +1,21 @@
+id: af2c13cd-df83-4a35-a1db-117d81f6bc72
+name: rtx120500622p.pdf
+title: rtx120500622p
+subtitle:  
+id_produces: bauerhanson@playce.com
+authors: Gwen Buckley
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_af2c13cd-df83-4a35-a1db-117d81f6bc72
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

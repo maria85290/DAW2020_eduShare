@@ -1,0 +1,20 @@
+id: fb5b6a7d-7548-42e8-a8e5-87226e34d733
+name: prc2018-ficha1.xml
+title: prc2018-ficha1
+subtitle:  
+id_produces: albahopper@playce.com
+authors: Christy Finch
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/xml
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 5.6 KB

@@ -1,0 +1,21 @@
+id: e557f574-496b-4270-a901-54e34d20c121
+name: Ts-TP3 (2).png
+title: Ts-TP3 (2)
+subtitle:  
+id_produces: ricemelton@playce.com
+authors: Glenna Snow
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_e557f574-496b-4270-a901-54e34d20c121
+Bagging-Date: 2021-02-07
+Bag-Size: 40 KB

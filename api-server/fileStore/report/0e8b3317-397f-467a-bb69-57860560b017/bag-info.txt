@@ -1,0 +1,20 @@
+id: 0e8b3317-397f-467a-bb69-57860560b017
+name: SQ-3 (1).pdf
+title: SQ-3 (1)
+subtitle:  
+id_produces: neldamarshall@playce.com
+authors: Lenore Gutierrez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

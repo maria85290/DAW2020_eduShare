@@ -1,0 +1,20 @@
+id: 1e8763c9-2ae3-4b18-85ef-628bf41889b8
+name: Ficha_TP_Electromagnetismo_4.pdf
+title: Ficha_TP_Electromagnetismo_4
+subtitle:  
+id_produces: marshmercer@playce.com
+authors: Barbara Boyle
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

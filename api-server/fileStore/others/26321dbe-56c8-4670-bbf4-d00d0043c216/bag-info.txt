@@ -1,0 +1,20 @@
+id: 26321dbe-56c8-4670-bbf4-d00d0043c216
+name: TutorialmCRL2.pdf
+title: TutorialmCRL2
+subtitle:  
+id_produces: steelebrown@playce.com
+authors: Bernadine Henry
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 161 KB

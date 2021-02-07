@@ -1,0 +1,1 @@
+c305f6c6c13713cb3fd21f96e2252479bb25bd89ff77f72361c3ca49ae278142 data/Tutorial_de_Makefile.pdf

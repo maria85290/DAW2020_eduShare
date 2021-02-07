@@ -1,0 +1,20 @@
+id: 771ca42e-751e-40e5-a6dd-6fa411d089e3
+name: Report (3).pdf
+title: Report (3)
+subtitle:  
+id_produces: cherryhernandez@playce.com
+authors: Gutierrez Flynn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,19 @@
+id: 290e60e967c16b7b4ff9ed4a9f307b25
+name: AIB_TP_G03.zip
+title: trabalho final de aib - 2020/2021
+subtitle: umino
+id_produces: constancaelias99@gmail.com
+authors: maria, renata e constança 
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:9:2
+subject: AIB
+description: Pasta zipada que contem modelo logico, relatorio e script sql de povoação.
+ranking: 0
+rankingList: 
+size: 1.4
+mimeType: application/x-zip-compressed
+type: others
+visibility: public
+hashtags: aib
+Bagging-Date: 2021-02-07
+Bag-Size: 183 KB

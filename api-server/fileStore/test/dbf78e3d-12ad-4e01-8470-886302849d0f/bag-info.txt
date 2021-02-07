@@ -1,0 +1,20 @@
+id: dbf78e3d-12ad-4e01-8470-886302849d0f
+name: Ficha_TP_Electromagnetismo_1.pdf
+title: Ficha_TP_Electromagnetismo_1
+subtitle:  
+id_produces: buckleyhaney@playce.com
+authors: Haynes Ratliff
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 31 KB

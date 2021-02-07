@@ -1,0 +1,21 @@
+id: f6d0dcf1-082b-482b-a4ab-4e65f9422ec8
+name: Relatório Bases de Dados.pdf
+title: Relatório Bases de Dados
+subtitle:  
+id_produces: lavernesosa@playce.com
+authors: Kim Barrera
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_f6d0dcf1-082b-482b-a4ab-4e65f9422ec8
+Bagging-Date: 2021-02-07
+Bag-Size: 138 KB

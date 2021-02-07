@@ -1,0 +1,21 @@
+id: 5aeefc16-395b-49b1-b277-930423c7ef1e
+name: rnoti-p890.pdf
+title: rnoti-p890
+subtitle:  
+id_produces: beckpotts@playce.com
+authors: Ronda Holcomb
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5aeefc16-395b-49b1-b277-930423c7ef1e
+Bagging-Date: 2021-02-07
+Bag-Size: 135 KB

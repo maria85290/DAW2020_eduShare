@@ -1,0 +1,20 @@
+id: 70d59732-7c9c-47dd-b784-64ca12e6769c
+name: NaiveBayes_Resolution.zip
+title: NaiveBayes_Resolution
+subtitle:  
+id_produces: moorebyers@playce.com
+authors: Opal Delacruz
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 5.8
+mimeType: application/zip
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

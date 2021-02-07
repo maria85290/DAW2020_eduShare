@@ -1,0 +1,20 @@
+id: 137c7229-56aa-4ecc-b2ba-60a1a436a1ac
+name: daw2020-e1.html
+title: daw2020-e1
+subtitle:  
+id_produces: katyboone@playce.com
+authors: Ryan Branch
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 14 KB

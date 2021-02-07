@@ -1,0 +1,21 @@
+id: 18498bfc-0e72-43a4-ad5b-c86d550f88f2
+name: Slides9_Heranca_Polimorfismo.pdf
+title: Slides9_Heranca_Polimorfismo
+subtitle:  
+id_produces: mariebowers@playce.com
+authors: Christina Mayer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 7.8
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_18498bfc-0e72-43a4-ad5b-c86d550f88f2
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

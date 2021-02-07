@@ -1,0 +1,20 @@
+id: fc6d9842-42ef-4c93-85f5-1885e1f52e06
+name: Exame_Julho_2013_CSSI_MEI.pdf
+title: Exame_Julho_2013_CSSI_MEI
+subtitle:  
+id_produces: phelpsjones@playce.com
+authors: Lorene Duke
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 77 KB

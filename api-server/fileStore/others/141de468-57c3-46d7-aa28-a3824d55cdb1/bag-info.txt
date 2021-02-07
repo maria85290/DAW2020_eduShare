@@ -1,0 +1,21 @@
+id: 141de468-57c3-46d7-aa28-a3824d55cdb1
+name: rtx091101410p.pdf
+title: rtx091101410p
+subtitle:  
+id_produces: stevensonbarber@playce.com
+authors: Sherry Lamb
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_141de468-57c3-46d7-aa28-a3824d55cdb1
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

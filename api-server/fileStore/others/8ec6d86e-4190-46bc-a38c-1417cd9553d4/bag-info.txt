@@ -1,0 +1,21 @@
+id: 8ec6d86e-4190-46bc-a38c-1417cd9553d4
+name: rtx120901256p.pdf
+title: rtx120901256p
+subtitle:  
+id_produces: shermanglass@playce.com
+authors: Stacy Buckner
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_8ec6d86e-4190-46bc-a38c-1417cd9553d4
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

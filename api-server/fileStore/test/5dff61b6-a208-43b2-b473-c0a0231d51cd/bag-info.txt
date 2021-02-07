@@ -1,0 +1,20 @@
+id: 5dff61b6-a208-43b2-b473-c0a0231d51cd
+name: modern-slavery-act-statement.pdf
+title: modern-slavery-act-statement
+subtitle:  
+id_produces: suarezconner@playce.com
+authors: Holman Lawrence
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

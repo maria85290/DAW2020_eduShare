@@ -1,0 +1,21 @@
+id: deb64348-2467-497e-b7ae-7c00080231f3
+name: tx071001331p.pdf
+title: tx071001331p
+subtitle:  
+id_produces: fultonhouston@playce.com
+authors: Roach Larsen
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 4.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_deb64348-2467-497e-b7ae-7c00080231f3
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

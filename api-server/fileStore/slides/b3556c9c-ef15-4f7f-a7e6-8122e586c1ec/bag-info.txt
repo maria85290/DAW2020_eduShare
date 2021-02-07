@@ -1,0 +1,20 @@
+id: b3556c9c-ef15-4f7f-a7e6-8122e586c1ec
+name: rtx110801078p.pdf
+title: rtx110801078p
+subtitle:  
+id_produces: mcleoddillon@playce.com
+authors: Hill Sears
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 16.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

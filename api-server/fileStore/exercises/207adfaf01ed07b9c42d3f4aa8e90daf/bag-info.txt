@@ -1,0 +1,19 @@
+id: 207adfaf01ed07b9c42d3f4aa8e90daf
+name: SO.pdf
+title: trabalho sistemas operativo 2018
+subtitle: uc - so da uminho
+id_produces: middletonmays@playce.com
+authors: maria araujo
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:31:33
+subject: SO
+description: Trabalho de so
+ranking: 0
+rankingList: 
+size: 15.7
+mimeType: application/pdf
+type: exercises
+visibility: public
+hashtags: so
+Bagging-Date: 2021-02-07
+Bag-Size: 132 KB

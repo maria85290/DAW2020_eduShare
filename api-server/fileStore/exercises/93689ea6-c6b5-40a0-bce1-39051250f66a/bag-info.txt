@@ -1,0 +1,20 @@
+id: 93689ea6-c6b5-40a0-bce1-39051250f66a
+name: fea-cottle.pdf
+title: fea-cottle
+subtitle:  
+id_produces: leejohnston@playce.com
+authors: Cervantes Hurley
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

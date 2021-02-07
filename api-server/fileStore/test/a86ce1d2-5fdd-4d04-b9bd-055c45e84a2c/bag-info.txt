@@ -1,0 +1,20 @@
+id: a86ce1d2-5fdd-4d04-b9bd-055c45e84a2c
+name: SLP1819-teste2.pdf
+title: SLP1819-teste2
+subtitle:  
+id_produces: kathiedrake@playce.com
+authors: Marlene Townsend
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 85 KB

@@ -1,0 +1,21 @@
+id: c48ef711-9eea-49ec-b5f6-ae4ff981de26
+name: geometricTransformMaster.pdf
+title: geometricTransformMaster
+subtitle:  
+id_produces: marisawarner@playce.com
+authors: Dyer Hughes
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_c48ef711-9eea-49ec-b5f6-ae4ff981de26
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,21 @@
+id: f2b38c41-5d5b-4772-ac9e-551f83dbf806
+name: FichaProb2.pdf
+title: FichaProb2
+subtitle:  
+id_produces: harrellemerson@playce.com
+authors: Mclaughlin Bender
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_f2b38c41-5d5b-4772-ac9e-551f83dbf806
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

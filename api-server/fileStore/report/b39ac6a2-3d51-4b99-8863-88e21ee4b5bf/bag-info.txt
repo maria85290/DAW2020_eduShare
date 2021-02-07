@@ -1,0 +1,21 @@
+id: b39ac6a2-3d51-4b99-8863-88e21ee4b5bf
+name: FichaProb4.pdf
+title: FichaProb4
+subtitle:  
+id_produces: meghanpickett@playce.com
+authors: Susanna Fernandez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_b39ac6a2-3d51-4b99-8863-88e21ee4b5bf
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,20 @@
+id: ac9a4b9d-db39-4521-b8dc-cb610217e244
+name: 201920-Abelha-BD_planoExercicios_PL09.pdf
+title: 201920-Abelha-BD_planoExercicios_PL09
+subtitle:  
+id_produces: justinewalters@playce.com
+authors: Ellison Edwards
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

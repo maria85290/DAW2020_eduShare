@@ -1,0 +1,21 @@
+id: f818b143-72b6-45b3-9e26-d5f6c2c43582
+name: cptp.pdf
+title: cptp
+subtitle:  
+id_produces: williewhitley@playce.com
+authors: Weeks Brewer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_f818b143-72b6-45b3-9e26-d5f6c2c43582
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

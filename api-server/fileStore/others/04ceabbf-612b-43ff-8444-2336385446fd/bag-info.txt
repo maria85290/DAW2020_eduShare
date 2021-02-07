@@ -1,0 +1,20 @@
+id: 04ceabbf-612b-43ff-8444-2336385446fd
+name: TP3-pag1-3.pdf
+title: TP3-pag1-3
+subtitle:  
+id_produces: kathycain@playce.com
+authors: Eunice Flowers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 104 KB

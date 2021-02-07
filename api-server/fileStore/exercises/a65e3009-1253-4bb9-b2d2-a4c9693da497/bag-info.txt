@@ -1,0 +1,20 @@
+id: a65e3009-1253-4bb9-b2d2-a4c9693da497
+name: Tabela routing.jpg
+title: Tabela routing
+subtitle:  
+id_produces: mclaughlinbender@playce.com
+authors: Schneider Kidd
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: image/jpeg
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 101 KB

@@ -1,0 +1,21 @@
+id: 3737fd3e-8963-46cd-a34d-4ddd84545e8d
+name: 4.jpg
+title: 4
+subtitle:  
+id_produces: tysontorres@playce.com
+authors: Sanchez Duffy
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: image/jpeg
+visibility: public
+hashtags: 
+id_post: post_3737fd3e-8963-46cd-a34d-4ddd84545e8d
+Bagging-Date: 2021-02-07
+Bag-Size: 72 KB

@@ -1,0 +1,20 @@
+id: f049ff59-0b1a-423d-b720-4560b3bdd62f
+name: rtx111001458p.pdf
+title: rtx111001458p
+subtitle:  
+id_produces: evaramirez@playce.com
+authors: Bette Baird
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

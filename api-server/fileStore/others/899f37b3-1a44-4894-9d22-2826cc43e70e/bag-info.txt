@@ -1,0 +1,20 @@
+id: 899f37b3-1a44-4894-9d22-2826cc43e70e
+name: historia.rdf
+title: historia
+subtitle:  
+id_produces: haysfitzgerald@playce.com
+authors: Walton Mcintosh
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/rdf+xml
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 4.2 KB

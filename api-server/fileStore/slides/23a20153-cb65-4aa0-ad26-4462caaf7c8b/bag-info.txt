@@ -1,0 +1,20 @@
+id: 23a20153-cb65-4aa0-ad26-4462caaf7c8b
+name: pi2011-lei-exame.pdf
+title: pi2011-lei-exame
+subtitle:  
+id_produces: mcleanrutledge@playce.com
+authors: Aurelia Leblanc
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 104 KB

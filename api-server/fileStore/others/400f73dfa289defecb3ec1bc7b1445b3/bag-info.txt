@@ -1,0 +1,19 @@
+id: 400f73dfa289defecb3ec1bc7b1445b3
+name: AIB_TP_G03.zip
+title: trabalho de aib - 2020
+subtitle: aib
+id_produces: maria.a.b2000@hotmail.com
+authors: maria, renata e constança 
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:47:3
+subject: AIB
+description: Modelo logico, script sql e relatorio
+ranking: 0
+rankingList: 
+size: 1.4
+mimeType: application/x-zip-compressed
+type: others
+visibility: public
+hashtags: aec
+Bagging-Date: 2021-02-07
+Bag-Size: 188 KB

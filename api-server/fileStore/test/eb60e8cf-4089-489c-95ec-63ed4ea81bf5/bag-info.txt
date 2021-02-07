@@ -1,0 +1,20 @@
+id: eb60e8cf-4089-489c-95ec-63ed4ea81bf5
+name: rnoti-p162.pdf
+title: rnoti-p162
+subtitle:  
+id_produces: kendrasharpe@playce.com
+authors: Joyce Alford
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.8
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 183 KB

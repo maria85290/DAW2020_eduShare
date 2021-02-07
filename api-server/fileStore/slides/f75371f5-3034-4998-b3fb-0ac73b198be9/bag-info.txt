@@ -1,0 +1,20 @@
+id: f75371f5-3034-4998-b3fb-0ac73b198be9
+name: FichaProb7_(Campo_Magnetico_II).pdf
+title: FichaProb7_(Campo_Magnetico_II)
+subtitle:  
+id_produces: guadalupedyer@playce.com
+authors: Frances Richard
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

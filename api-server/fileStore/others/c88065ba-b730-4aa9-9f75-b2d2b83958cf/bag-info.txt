@@ -1,0 +1,21 @@
+id: c88065ba-b730-4aa9-9f75-b2d2b83958cf
+name: Lighting and Materials in OpenGL.pdf
+title: Lighting and Materials in OpenGL
+subtitle:  
+id_produces: estermcmillan@playce.com
+authors: Herrera Oneil
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_c88065ba-b730-4aa9-9f75-b2d2b83958cf
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

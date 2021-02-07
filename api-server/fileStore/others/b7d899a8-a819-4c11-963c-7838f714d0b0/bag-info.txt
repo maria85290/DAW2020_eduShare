@@ -1,0 +1,20 @@
+id: b7d899a8-a819-4c11-963c-7838f714d0b0
+name: rnoti-p567.pdf
+title: rnoti-p567
+subtitle:  
+id_produces: moranhill@playce.com
+authors: Howell Jensen
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 9.9
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 147 KB

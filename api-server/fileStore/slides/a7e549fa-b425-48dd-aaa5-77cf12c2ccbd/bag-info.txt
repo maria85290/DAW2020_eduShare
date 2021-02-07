@@ -1,0 +1,20 @@
+id: a7e549fa-b425-48dd-aaa5-77cf12c2ccbd
+name: iluminacao opengl.pdf
+title: iluminacao opengl
+subtitle:  
+id_produces: ursulabyrd@playce.com
+authors: Maura Mccormick
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

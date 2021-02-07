@@ -1,0 +1,21 @@
+id: 26f51cdb-aff7-4f99-a68b-7d2165cb0847
+name: Ficha2 - Transformações Geométricas.pdf
+title: Ficha2 - Transformações Geométricas
+subtitle:  
+id_produces: casechambers@playce.com
+authors: Briana Ferrell
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_26f51cdb-aff7-4f99-a68b-7d2165cb0847
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

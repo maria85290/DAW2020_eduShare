@@ -1,0 +1,21 @@
+id: 262a7d9b-6106-4fa5-b115-251f49c0c6a8
+name: Ficha_TP_Electromagnetismo_3.pdf
+title: Ficha_TP_Electromagnetismo_3
+subtitle:  
+id_produces: leslieenglish@playce.com
+authors: Hewitt Vargas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_262a7d9b-6106-4fa5-b115-251f49c0c6a8
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

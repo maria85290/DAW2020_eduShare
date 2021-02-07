@@ -1,0 +1,314 @@
+<html>
+   <head>
+      <meta charset="utf-8"/>
+      <title>Arquivo de Fichas Práticas do JCR</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+   </head>
+   <body style="padding-top:50px;">
+      <div class="navbar navbar-default navbar-fixed-top navbar-inverse">
+         <div class="container">
+            <div class="navbar-header">
+               <a href="../index.php" class="navbar-brand">Arquivo Fichas Práticas</a>
+               <button class="navbar-toggle"
+                       type="button"
+                       data-toggle="collapse"
+                       data-target="#navbar-main">
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+               </button>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar-main">
+               <ul class="nav navbar-nav">
+                  <li>
+                     <a href="../index-fichas.html">Fichas</a>
+                  </li>
+                  <li>
+                     <a href="../index-fichas-categ.html">Fichas/Tema</a>
+                  </li>
+               </ul>
+               <ul class="nav navbar-nav navbar-right">
+                  <li>
+                     <a href="../logs.html">Registo de Alterações</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="container">
+         <div class="row">
+            <div class="col-sm-5 col-md-5">
+               <img class="img-responsive" src="../imagens/fichas.jpeg"/>
+            </div>
+            <div class="col-sm-7 col-md-7">
+               <h2>Ficha f5</h2>
+               <h3>RDF e SPARQL</h3>
+            </div>
+         </div>
+         <div class="panel panel-default">
+            <div class="panel-body">
+               <a name="ind-ex"/>
+               <p class="lead">Processamento e Representação de Conhecimento - PRC (MEI - 1ºano)</p>
+               <p>
+                  <p>Este ficha prática contem exercícios para serem resolvidos nas aulas teórico-práticas com vista a sedimentar os conhecimentos relativos a:
+                <ul>
+                        <li>Utilização do RDF para especificar conhecimento.</li>
+                        <li>Utilização do SPARQL para fazer queries a informação especificada em RDF.</li>
+                     </ul>
+                  </p>
+               </p>
+               <div class="container">
+                  <table>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <h3>Recursos:</h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <div class="para"> Recursos disponíveis para a realização da ficha:</div>
+                              <br/>
+                              <ul>
+                                 <li>
+                                    <a href="historia.rdf">Ficheiro RDF com a história analisada na última aula;</a>
+                                 </li>
+                                 <li>
+                                    <a href="mypubs.rdf">Ficheiro RDF com as publicações do JCR;</a>
+                                 </li>
+                                 <li>
+                                    <a href="http://librdf.org/query">SPARQL endpoint para testar queries sobre pequenos datasets;</a>
+                                 </li>
+                                 <li>
+                                    <a href="SPARQL-UTurim.pdf">Slides usados na aula sobre SPARQL;</a>
+                                 </li>
+                                 <li>
+                                    <a href="sparql-cambridge-sheet.pdf">Slides com o resumo do SPARQL;</a>
+                                 </li>
+                                 <li>
+                                    <a href="SPARQL-sheet.pdf">Folhas resumindo o SPARQL;</a>
+                                 </li>
+                                 <li>
+                                    <a href="http://dbtune.org/musicbrainz/snorql/">Ontologia musical disponível na LOD</a>
+                                 </li>
+                                 <li>
+                                    <a href="http://www.linkedmdb.org/sparql">Ontologia cinematográfica disponível na LOD</a>
+                                 </li>
+                              </ul>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <h3>
+                Exercícios:
+              </h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <ol>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e1">Vamos interrogar a história</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e2">Queries sobre as publicações do JCR<sup style="color:green;">Resolvido</sup>
+                                    </a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e3">Querying MusicBrainz</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e4">Serviço SPARQL para interrogação da Ontologia cinematográfica</a>
+                                 </li>
+                              </ol>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <hr/>
+               <div class="panel panel-default">
+                  <div class="panel-footer">
+                     <p>Generated by xfichas app by jcr::2015-02-24</p>
+                     <p>[<a href="..">Voltar ao índice de fichas</a>]</p>
+                  </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e1"/>
+                     <h3 class="panel-title">Exercício Nº 1:
+            Vamos interrogar a história</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Na última ficha, especificaste o conhecimento presente na história que te foi apresentada e que se transcreve a seguir (o ficheiro RDF está disponível a partir dos recursos da ficha).</p>
+                     <p>
+                        <i>O Eduardo tem 21 anos e é um estudante da Universidade do Minho oriundo do Porto. 
+                    Ele fala fluentemente português, espanhol e inglês. 
+                    Neste semestre decidiu aprender alemão. 
+                    Juntamente com os seus amigos, o Carlos e a Ana, inscreveu-se no curso de Alemão lecionado pelo professor Helmut Ratz, que será lecionado todas as sextas feiras no centro de línguas da universidade. 
+                    O Eduardo tem muita facilidade na aprendizagem de línguas estranjeiras e faz rápidos progressos.
+                    No entanto, o prof. Helmut repara que ele precisa de praticar mais a oralidade e apresenta-o a Hanna, uma estudante alemã que está na universidade a frequentar o curso de biotecnologia.
+                    Hanna é alemã e está ansiosa por falar português.
+                    O Eduardo e a Hanna conhecem-se e tornam-se parceiros nesta aventura de aprender uma nova língua.
+                    A experiência revela-se frutuosa e ambos aprendem a falar fluentemente alemão e português.
+                </i>
+                     </p>
+                     <p>Tenta agora responder às seguintes questões especificando queries em SPARQL:</p>
+                     <ol class="a">
+                        <li>Que tipos de coisas extraístes da história que te foi apresentada?</li>
+                        <li>Que propriedades consideraste na tua especificação?</li>
+                        <li>Quais os nomes das personagens referidas na tua história?</li>
+                        <li>Quais os nomes dos que são estudantes?</li>
+                        <li>Quais os nomes dos estudantes que frequentam o curso de Alemão?</li>
+                        <li>Quais as designações dos cursos referidos na história?</li>
+                        <li>Qual o nome das personagens de nacionalidade alemã?</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e2"/>
+                     <h3 class="panel-title">Exercício Nº 2:
+            Queries sobre as publicações do JCR</h3>
+                  </div>
+                  <div class="panel-body">
+                     <ol class="a">
+                        <li>Quais os títulos das publicações presentes na Ontologia?</li>
+                        <li>Quais os títulos das publicações em co-autoria com "Miguel Ferreira"?</li>
+                        <li>Quais os títulos das publicações do ano 2008?</li>
+                        <li>Quantas publicações há por ano?</li>
+                        <li>Quantas publicações tem cada autor?</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="s2"/>
+                     <h3 class="panel-title">Solução do exercício Nº 2:
+            Queries sobre as publicações do JCR</h3>
+                  </div>
+                  <div class="panel-body">
+                     <ol class="a">
+                        <li> Usou-se a propriedade <b>ex:titulo</b> para apanhar todos os triplos que contivessem títulos, no fim indicou-se que se pretendiam os resultados ordenados por ordem alfabética ascendente.
+                        <pre class="codigo">
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX ex: &lt;http://www.di.uminho.pt/jcr/XML/rdf/ex2#&gt;
+
+SELECT ?titulo
+WHERE {
+  ?s ex:titulo ?titulo.
+}
+ORDER BY ASC( ?titulo ) </pre>
+                        </li>
+                        <li> Quando criamos o RDF das publicações (última aula), colocamos os autores dentro dum contentor do tipo <b>Bag</b>, que em termos de triplos dá origem a um nodo branco, para conseguirmos a informação desse contentor tivemos de usar uma variável a fazer match com esse nodo branco, <b>_:x</b>.
+                        <pre class="codigo">
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX ex: &lt;http://www.di.uminho.pt/jcr/XML/rdf/ex2#&gt;
+PREFIX mypubs: &lt;http://www3.di.uminho.pt/~jcr/AULAS/prc2015/fichas/mypubs.rdf#&gt;
+
+SELECT ?titulo
+WHERE {
+  ?pub ex:temAutor _:x.
+  _:x ?p ?o.
+  ?o ex:nome "Miguel Ferreira".
+  ?pub ex:titulo ?titulo
+}
+</pre>
+                        </li>
+                        <li>
+                           <pre class="codigo">
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX ex: &lt;http://www.di.uminho.pt/jcr/XML/rdf/ex2#&gt;
+PREFIX mypubs: &lt;http://www3.di.uminho.pt/~jcr/AULAS/prc2015/fichas/mypubs.rdf#&gt;
+
+SELECT ?titulo
+WHERE {
+  ?pub ex:titulo ?titulo.
+  ?pub ex:data "2008"
+}</pre>
+                        </li>
+                        <li>Aqui usamos a clausula <b>GROUP BY</b> e o operador <b>COUNT</b> para cálculo de um valor agregado.<pre class="codigo">
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX ex: &lt;http://www.di.uminho.pt/jcr/XML/rdf/ex2#&gt;
+PREFIX mypubs: &lt;http://www3.di.uminho.pt/~jcr/AULAS/prc2015/fichas/mypubs.rdf#&gt;
+
+SELECT ?ano (COUNT(?pub) AS ?num)
+WHERE {
+  ?pub ex:data ?ano
+}
+GROUP BY ?ano</pre>
+                        </li>
+                        <li>Esta questão resolve-se combinando as duas últimas soluções: <pre class="codigo">
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX ex: &lt;http://www.di.uminho.pt/jcr/XML/rdf/ex2#&gt;
+PREFIX mypubs: &lt;http://www3.di.uminho.pt/~jcr/AULAS/prc2015/fichas/mypubs.rdf#&gt;
+
+SELECT ?nome, (COUNT(?pub) AS ?num)
+WHERE {
+  ?pub ex:temAutor _:x.
+  _:x ?p ?o.
+  ?o ex:nome ?nome.
+}
+GROUP BY ?nome
+ORDER BY ASC(?nome)</pre>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e3"/>
+                     <h3 class="panel-title">Exercício Nº 3:
+            Querying MusicBrainz</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Acedendo ao ponto de acesso SPARQL disponível nos recursos da ficha, tenta especificar queries SPARQL para responder às seguintes questões:</p>
+                     <ol class="a">
+                        <li>Que tipos de coisas podemos encontrar nesta ontologia?</li>
+                        <li>Quais as propriedades associadas a um compositor?</li>
+                        <li>Quais os nomes dos compositores musicais presentes na ontologia (limita a 100)?</li>
+                        <li>Quais os títulos das músicas compostas por "Bob Dylan"?</li>
+                     </ol>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e4"/>
+                     <h3 class="panel-title">Exercício Nº 4:
+            Serviço SPARQL para interrogação da Ontologia cinematográfica</h3>
+                  </div>
+                  <div class="panel-body">
+                     <p>Neste exercício deverás criar um serviço para interrogar a ontologia referida cujo ponto de acesso se encontra nos recursos da ficha.</p>
+                  </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+            </div>
+            <div class="panel-footer"> 
+            Generated by rep-fichas-site app by jcr::
+            2015-10-15+01:00 - 
+            10 fichas / 
+            28 exercícios 
+        </div>
+         </div>
+      </div>
+   </body>
+</html>

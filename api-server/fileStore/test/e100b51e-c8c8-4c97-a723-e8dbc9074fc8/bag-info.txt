@@ -1,0 +1,21 @@
+id: e100b51e-c8c8-4c97-a723-e8dbc9074fc8
+name: ficha3_MA.pdf
+title: ficha3_MA
+subtitle:  
+id_produces: levyreese@playce.com
+authors: Beth Moreno
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_e100b51e-c8c8-4c97-a723-e8dbc9074fc8
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

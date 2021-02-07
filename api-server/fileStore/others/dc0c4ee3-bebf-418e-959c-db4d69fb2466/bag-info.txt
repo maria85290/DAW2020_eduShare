@@ -1,0 +1,20 @@
+id: dc0c4ee3-bebf-418e-959c-db4d69fb2466
+name: ficha9-res.pdf
+title: ficha9-res
+subtitle:  
+id_produces: winifredserrano@playce.com
+authors: Cheryl Gonzales
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 89 KB

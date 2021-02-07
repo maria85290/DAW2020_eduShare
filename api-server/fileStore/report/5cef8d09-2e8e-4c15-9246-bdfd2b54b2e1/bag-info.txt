@@ -1,0 +1,21 @@
+id: 5cef8d09-2e8e-4c15-9246-bdfd2b54b2e1
+name: fea-batterson-web.pdf
+title: fea-batterson-web
+subtitle:  
+id_produces: browninghicks@playce.com
+authors: Hebert Norton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5cef8d09-2e8e-4c15-9246-bdfd2b54b2e1
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

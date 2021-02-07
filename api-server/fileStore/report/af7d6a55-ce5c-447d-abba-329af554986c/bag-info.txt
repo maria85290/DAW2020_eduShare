@@ -1,0 +1,21 @@
+id: af7d6a55-ce5c-447d-abba-329af554986c
+name: pi2010-miniteste1D.pdf
+title: pi2010-miniteste1D
+subtitle:  
+id_produces: aurelialeblanc@playce.com
+authors: Briana Ferrell
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_af7d6a55-ce5c-447d-abba-329af554986c
+Bagging-Date: 2021-02-07
+Bag-Size: 43 KB

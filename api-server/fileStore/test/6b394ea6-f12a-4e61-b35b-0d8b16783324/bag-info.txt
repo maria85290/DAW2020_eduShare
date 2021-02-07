@@ -1,0 +1,21 @@
+id: 6b394ea6-f12a-4e61-b35b-0d8b16783324
+name: aulaGuiao4.pdf
+title: aulaGuiao4
+subtitle:  
+id_produces: chavezjefferson@playce.com
+authors: Shawna Morrow
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_6b394ea6-f12a-4e61-b35b-0d8b16783324
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

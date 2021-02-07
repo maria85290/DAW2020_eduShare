@@ -1,0 +1,21 @@
+id: 8b72d862-e889-4f82-8d81-48edbcb5af78
+name: TS_TP3 (1).pdf
+title: TS_TP3 (1)
+subtitle:  
+id_produces: leonorkirk@playce.com
+authors: Corinne Santos
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_8b72d862-e889-4f82-8d81-48edbcb5af78
+Bagging-Date: 2021-02-07
+Bag-Size: 89 KB

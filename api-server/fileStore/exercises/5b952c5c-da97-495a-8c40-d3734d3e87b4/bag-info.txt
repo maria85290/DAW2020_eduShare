@@ -1,0 +1,20 @@
+id: 5b952c5c-da97-495a-8c40-d3734d3e87b4
+name: teste1 (2).jpg
+title: teste1 (2)
+subtitle:  
+id_produces: lancastervazquez@playce.com
+authors: Mullen Michael
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: image/jpeg
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 34 KB

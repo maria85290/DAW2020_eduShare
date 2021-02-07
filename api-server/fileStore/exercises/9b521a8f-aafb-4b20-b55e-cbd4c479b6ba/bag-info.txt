@@ -1,0 +1,21 @@
+id: 9b521a8f-aafb-4b20-b55e-cbd4c479b6ba
+name: ClassLCC1S.pdf
+title: ClassLCC1S
+subtitle:  
+id_produces: jennieduran@playce.com
+authors: Barber Bailey
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9b521a8f-aafb-4b20-b55e-cbd4c479b6ba
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

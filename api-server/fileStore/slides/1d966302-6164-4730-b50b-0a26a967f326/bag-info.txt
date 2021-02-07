@@ -1,0 +1,21 @@
+id: 1d966302-6164-4730-b50b-0a26a967f326
+name: tx071101500p.pdf
+title: tx071101500p
+subtitle:  
+id_produces: ellenwillis@playce.com
+authors: Hurst Moody
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 1.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_1d966302-6164-4730-b50b-0a26a967f326
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

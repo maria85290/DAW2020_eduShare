@@ -1,0 +1,20 @@
+id: 43e14225-09d8-48a3-a765-0b5efe677188
+name: rtx120700912p.pdf
+title: rtx120700912p
+subtitle:  
+id_produces: lynchleonard@playce.com
+authors: Alford Mccall
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,20 @@
+id: 880a74ab-4d9c-4cd2-ac82-5f9e8a19e564
+name: Exerc7.pdf
+title: Exerc7
+subtitle:  
+id_produces: vincentpollard@playce.com
+authors: Obrien Whitfield
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 119 KB

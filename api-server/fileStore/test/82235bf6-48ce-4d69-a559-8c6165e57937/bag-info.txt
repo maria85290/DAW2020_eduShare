@@ -1,0 +1,20 @@
+id: 82235bf6-48ce-4d69-a559-8c6165e57937
+name: rtx120801064p.pdf
+title: rtx120801064p
+subtitle:  
+id_produces: jerrierickson@playce.com
+authors: Irwin Hodge
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 4.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

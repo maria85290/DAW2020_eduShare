@@ -1,0 +1,21 @@
+id: 01375547-39bb-481b-b44e-0dc04bb4272d
+name: TC-Semana01.pdf
+title: TC-Semana01
+subtitle:  
+id_produces: brigittewilkinson@playce.com
+authors: Lola Russo
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_01375547-39bb-481b-b44e-0dc04bb4272d
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

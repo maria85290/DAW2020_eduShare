@@ -1,0 +1,20 @@
+id: b38630f0-2c9c-445f-854a-b7c6b71f7491
+name: TP1-pag22-25.pdf
+title: TP1-pag22-25
+subtitle:  
+id_produces: fryeware@playce.com
+authors: Jerri Erickson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 174 KB

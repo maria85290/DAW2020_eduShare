@@ -1,0 +1,21 @@
+id: a9576cac-9cc0-47cc-8344-1ba0e8325e87
+name: 201920-Abelha-BD_planoExercicios_PL08.pdf
+title: 201920-Abelha-BD_planoExercicios_PL08
+subtitle:  
+id_produces: gibbsclark@playce.com
+authors: Beth Moreno
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_a9576cac-9cc0-47cc-8344-1ba0e8325e87
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

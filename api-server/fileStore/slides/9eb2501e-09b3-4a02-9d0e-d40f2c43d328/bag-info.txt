@@ -1,0 +1,21 @@
+id: 9eb2501e-09b3-4a02-9d0e-d40f2c43d328
+name: 9_LamCalculus_Tipos.pdf
+title: 9_LamCalculus_Tipos
+subtitle:  
+id_produces: sotohawkins@playce.com
+authors: Lynch Leonard
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9eb2501e-09b3-4a02-9d0e-d40f2c43d328
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

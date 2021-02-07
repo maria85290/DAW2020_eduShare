@@ -1,0 +1,20 @@
+id: 68b9c273-3e09-4d38-aee9-6a9b141b5974
+name: Dissertacao_MERC_iDASH_BrunoGoncalves_55930.pdf
+title: Dissertacao_MERC_iDASH_BrunoGoncalves_55930
+subtitle:  
+id_produces: corinnesantos@playce.com
+authors: Schneider Kidd
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

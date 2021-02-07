@@ -1,0 +1,20 @@
+id: 19be9d8e-9bd8-46b6-868f-19c615c4d0e8
+name: 8_LamCalculus.pdf
+title: 8_LamCalculus
+subtitle:  
+id_produces: kirklandhatfield@playce.com
+authors: Lois Middleton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

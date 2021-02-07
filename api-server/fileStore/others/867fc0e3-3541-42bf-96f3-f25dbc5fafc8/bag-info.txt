@@ -1,0 +1,21 @@
+id: 867fc0e3-3541-42bf-96f3-f25dbc5fafc8
+name: rtx120300378p.pdf
+title: rtx120300378p
+subtitle:  
+id_produces: blankenshipgomez@playce.com
+authors: Lenore Gutierrez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_867fc0e3-3541-42bf-96f3-f25dbc5fafc8
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

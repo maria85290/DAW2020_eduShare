@@ -1,0 +1,21 @@
+id: 85fcf587-96f7-4aca-bb38-1d85a13225e0
+name: arvBin.zip
+title: arvBin
+subtitle:  
+id_produces: hartmandonovan@playce.com
+authors: Manuela Burke
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/zip
+visibility: public
+hashtags: 
+id_post: post_85fcf587-96f7-4aca-bb38-1d85a13225e0
+Bagging-Date: 2021-02-07
+Bag-Size: 923 B

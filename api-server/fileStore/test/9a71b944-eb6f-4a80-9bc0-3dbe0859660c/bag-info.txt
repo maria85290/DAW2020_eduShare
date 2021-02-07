@@ -1,0 +1,21 @@
+id: 9a71b944-eb6f-4a80-9bc0-3dbe0859660c
+name: tx070800972p.pdf
+title: tx070800972p
+subtitle:  
+id_produces: hebertnorton@playce.com
+authors: Rosales Galloway
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9a71b944-eb6f-4a80-9bc0-3dbe0859660c
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

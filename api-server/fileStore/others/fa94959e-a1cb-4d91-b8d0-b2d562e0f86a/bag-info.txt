@@ -1,0 +1,21 @@
+id: fa94959e-a1cb-4d91-b8d0-b2d562e0f86a
+name: PRC2020-recurso.html
+title: PRC2020-recurso
+subtitle:  
+id_produces: rosariowallace@playce.com
+authors: Chan Silva
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_fa94959e-a1cb-4d91-b8d0-b2d562e0f86a
+Bagging-Date: 2021-02-07
+Bag-Size: 13 KB

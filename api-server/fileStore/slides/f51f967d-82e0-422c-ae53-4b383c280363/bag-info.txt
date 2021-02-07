@@ -1,0 +1,21 @@
+id: f51f967d-82e0-422c-ae53-4b383c280363
+name: tx080100044p.pdf
+title: tx080100044p
+subtitle:  
+id_produces: kemphuber@playce.com
+authors: Browning Hicks
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 5.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_f51f967d-82e0-422c-ae53-4b383c280363
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

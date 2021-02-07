@@ -1,0 +1,20 @@
+id: f4706330-c406-41d8-8b69-9557d82f84a3
+name: tx080800930p.pdf
+title: tx080800930p
+subtitle:  
+id_produces: jerrierickson@playce.com
+authors: Kathy Cain
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 11
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

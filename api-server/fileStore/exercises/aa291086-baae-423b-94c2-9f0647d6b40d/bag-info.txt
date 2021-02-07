@@ -1,0 +1,20 @@
+id: aa291086-baae-423b-94c2-9f0647d6b40d
+name: Documento sem nome (1).pdf
+title: Documento sem nome (1)
+subtitle:  
+id_produces: simssalinas@playce.com
+authors: Osborn Tate
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 27 KB

@@ -1,0 +1,20 @@
+id: b9f7da81-da71-40ad-a982-ff293eb01afd
+name: slidesPOO_2011_2012_ParteI.pdf
+title: slidesPOO_2011_2012_ParteI
+subtitle:  
+id_produces: tysontorres@playce.com
+authors: Justine Walters
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 3.6
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

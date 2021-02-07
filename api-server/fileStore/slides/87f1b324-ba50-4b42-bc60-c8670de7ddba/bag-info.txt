@@ -1,0 +1,20 @@
+id: 87f1b324-ba50-4b42-bc60-c8670de7ddba
+name: rtx091001236p.pdf
+title: rtx091001236p
+subtitle:  
+id_produces: schneiderkidd@playce.com
+authors: Mcleod Dillon
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

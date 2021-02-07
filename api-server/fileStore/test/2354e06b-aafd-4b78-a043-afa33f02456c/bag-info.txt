@@ -1,0 +1,20 @@
+id: 2354e06b-aafd-4b78-a043-afa33f02456c
+name: Ficha_TP_Electromagnetismo_9.pdf
+title: Ficha_TP_Electromagnetismo_9
+subtitle:  
+id_produces: bethmoreno@playce.com
+authors: Lynnette Mcgee
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 39 KB

@@ -1,0 +1,21 @@
+id: a8ab2646-9c86-439b-8343-3078e9bdb45d
+name: Ficha05_resoluçao.pdf
+title: Ficha05_resoluçao
+subtitle:  
+id_produces: chansilva@playce.com
+authors: Faye Fleming
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_a8ab2646-9c86-439b-8343-3078e9bdb45d
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

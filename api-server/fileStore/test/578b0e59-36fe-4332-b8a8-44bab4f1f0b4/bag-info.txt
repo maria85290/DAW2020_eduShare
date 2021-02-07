@@ -1,0 +1,20 @@
+id: 578b0e59-36fe-4332-b8a8-44bab4f1f0b4
+name: rnoti-p603.pdf
+title: rnoti-p603
+subtitle:  
+id_produces: hoodgraham@playce.com
+authors: Karin Nash
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 3.8
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 148 KB

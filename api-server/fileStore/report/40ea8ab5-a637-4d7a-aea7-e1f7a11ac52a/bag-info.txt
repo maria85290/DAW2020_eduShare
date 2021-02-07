@@ -1,0 +1,21 @@
+id: 40ea8ab5-a637-4d7a-aea7-e1f7a11ac52a
+name: tx070700824p.pdf
+title: tx070700824p
+subtitle:  
+id_produces: briggslong@playce.com
+authors: Hewitt Vargas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_40ea8ab5-a637-4d7a-aea7-e1f7a11ac52a
+Bagging-Date: 2021-02-07
+Bag-Size: 157 KB

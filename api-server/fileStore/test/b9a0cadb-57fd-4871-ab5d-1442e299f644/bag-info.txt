@@ -1,0 +1,20 @@
+id: b9a0cadb-57fd-4871-ab5d-1442e299f644
+name: rtx110100041p.pdf
+title: rtx110100041p
+subtitle:  
+id_produces: luciarice@playce.com
+authors: Oneil Holmes
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 3.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

@@ -1,0 +1,21 @@
+id: db2f4fec-8abb-46b2-95a0-9eb0c8db4f7c
+name: rnoti-p15.pdf
+title: rnoti-p15
+subtitle:  
+id_produces: elisepowers@playce.com
+authors: Vargas Graves
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.8
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_db2f4fec-8abb-46b2-95a0-9eb0c8db4f7c
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

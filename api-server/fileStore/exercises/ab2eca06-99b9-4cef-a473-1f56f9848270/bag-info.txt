@@ -1,0 +1,21 @@
+id: ab2eca06-99b9-4cef-a473-1f56f9848270
+name: Divisão do dataSet (1).png
+title: Divisão do dataSet (1)
+subtitle:  
+id_produces: ingridmcconnell@playce.com
+authors: Marietta Calderon
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_ab2eca06-99b9-4cef-a473-1f56f9848270
+Bagging-Date: 2021-02-07
+Bag-Size: 48 KB

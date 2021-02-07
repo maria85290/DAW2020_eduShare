@@ -1,0 +1,20 @@
+id: 28fd2545-294c-4d5a-b4d2-3204b8db49d7
+name: comm-schapira.pdf
+title: comm-schapira
+subtitle:  
+id_produces: socorropalmer@playce.com
+authors: Shawna Morrow
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

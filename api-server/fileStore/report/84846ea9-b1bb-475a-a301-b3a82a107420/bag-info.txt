@@ -1,0 +1,21 @@
+id: 84846ea9-b1bb-475a-a301-b3a82a107420
+name: slide3.pdf
+title: slide3
+subtitle:  
+id_produces: juanitaguzman@playce.com
+authors: Eddie Morgan
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_84846ea9-b1bb-475a-a301-b3a82a107420
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

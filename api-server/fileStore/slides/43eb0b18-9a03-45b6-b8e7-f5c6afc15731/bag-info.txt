@@ -1,0 +1,21 @@
+id: 43eb0b18-9a03-45b6-b8e7-f5c6afc15731
+name: ficha9_LingFunc.pdf
+title: ficha9_LingFunc
+subtitle:  
+id_produces: jacklynshort@playce.com
+authors: Valerie Lynn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_43eb0b18-9a03-45b6-b8e7-f5c6afc15731
+Bagging-Date: 2021-02-07
+Bag-Size: 99 KB

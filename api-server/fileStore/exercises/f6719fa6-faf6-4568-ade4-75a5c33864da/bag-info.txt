@@ -1,0 +1,20 @@
+id: f6719fa6-faf6-4568-ade4-75a5c33864da
+name: rnoti-p62.pdf
+title: rnoti-p62
+subtitle:  
+id_produces: ramosthompson@playce.com
+authors: Forbes Montgomery
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 137 KB

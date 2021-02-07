@@ -1,0 +1,21 @@
+id: e09819dc-5856-42cd-a702-e297066be999
+name: isave.csv
+title: isave
+subtitle:  
+id_produces: mendozalindsey@playce.com
+authors: Frye Ware
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: text/csv
+visibility: public
+hashtags: 
+id_post: post_e09819dc-5856-42cd-a702-e297066be999
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

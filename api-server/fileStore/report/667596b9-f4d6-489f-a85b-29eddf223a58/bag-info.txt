@@ -1,0 +1,20 @@
+id: 667596b9-f4d6-489f-a85b-29eddf223a58
+name: Tese.Diogo.Rodrigues.MEEC.L50702.pdf
+title: Tese
+subtitle:  
+id_produces: bradfordpope@playce.com
+authors: Brittany Perez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 191 KB

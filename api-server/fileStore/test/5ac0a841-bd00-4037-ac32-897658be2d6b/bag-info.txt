@@ -1,0 +1,21 @@
+id: 5ac0a841-bd00-4037-ac32-897658be2d6b
+name: pi2005-e3.pdf
+title: pi2005-e3
+subtitle:  
+id_produces: faulknerday@playce.com
+authors: Chris Bush
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5ac0a841-bd00-4037-ac32-897658be2d6b
+Bagging-Date: 2021-02-07
+Bag-Size: 61 KB

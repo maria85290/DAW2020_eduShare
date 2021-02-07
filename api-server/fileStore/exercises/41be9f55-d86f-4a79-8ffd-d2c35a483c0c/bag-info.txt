@@ -1,0 +1,21 @@
+id: 41be9f55-d86f-4a79-8ffd-d2c35a483c0c
+name: Diagrama em branco (1).png
+title: Diagrama em branco (1)
+subtitle:  
+id_produces: velezchristian@playce.com
+authors: Washington Gregory
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_41be9f55-d86f-4a79-8ffd-d2c35a483c0c
+Bagging-Date: 2021-02-07
+Bag-Size: 36 KB

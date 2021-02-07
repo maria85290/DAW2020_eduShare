@@ -1,0 +1,21 @@
+id: cfeb9d68-aab7-48d1-873b-d692cd32998c
+name: SLP1516-teste2.pdf
+title: SLP1516-teste2
+subtitle:  
+id_produces: casechambers@playce.com
+authors: Virgie Hunt
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_cfeb9d68-aab7-48d1-873b-d692cd32998c
+Bagging-Date: 2021-02-07
+Bag-Size: 76 KB

@@ -1,0 +1,21 @@
+id: 9ed49c2d-2c6b-4541-8ee5-0d53d8c6eeb0
+name: prc2018-exame.html
+title: prc2018-exame
+subtitle:  
+id_produces: donnadaniel@playce.com
+authors: Strickland Lambert
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_9ed49c2d-2c6b-4541-8ee5-0d53d8c6eeb0
+Bagging-Date: 2021-02-07
+Bag-Size: 16 KB

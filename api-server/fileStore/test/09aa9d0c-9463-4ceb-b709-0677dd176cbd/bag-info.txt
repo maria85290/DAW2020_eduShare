@@ -1,0 +1,21 @@
+id: 09aa9d0c-9463-4ceb-b709-0677dd176cbd
+name: TP2.pdf
+title: TP2
+subtitle:  
+id_produces: nolanrowe@playce.com
+authors: Vincent Pollard
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_09aa9d0c-9463-4ceb-b709-0677dd176cbd
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

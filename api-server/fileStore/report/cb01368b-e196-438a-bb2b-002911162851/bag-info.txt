@@ -1,0 +1,21 @@
+id: cb01368b-e196-438a-bb2b-002911162851
+name: tx070600696p.pdf
+title: tx070600696p
+subtitle:  
+id_produces: joycealford@playce.com
+authors: Yates Mcpherson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_cb01368b-e196-438a-bb2b-002911162851
+Bagging-Date: 2021-02-07
+Bag-Size: 170 KB

@@ -1,0 +1,20 @@
+id: 1f3e8c3f-2988-43dd-83df-9d6f20f5113e
+name: pi2006-e2.pdf
+title: pi2006-e2
+subtitle:  
+id_produces: katyboone@playce.com
+authors: Sandra Avery
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 50 KB

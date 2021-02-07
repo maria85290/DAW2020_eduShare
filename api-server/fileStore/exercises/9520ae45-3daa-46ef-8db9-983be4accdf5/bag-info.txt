@@ -1,0 +1,21 @@
+id: 9520ae45-3daa-46ef-8db9-983be4accdf5
+name: Documento sem nome (2).pdf
+title: Documento sem nome (2)
+subtitle:  
+id_produces: vargasgraves@playce.com
+authors: Vargas Graves
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9520ae45-3daa-46ef-8db9-983be4accdf5
+Bagging-Date: 2021-02-07
+Bag-Size: 27 KB

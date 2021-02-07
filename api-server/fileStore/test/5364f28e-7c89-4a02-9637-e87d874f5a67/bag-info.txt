@@ -1,0 +1,21 @@
+id: 5364f28e-7c89-4a02-9637-e87d874f5a67
+name: Ficha_TP_Electromagnetismo_8.pdf
+title: Ficha_TP_Electromagnetismo_8
+subtitle:  
+id_produces: pearliepayne@playce.com
+authors: Reba Vang
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5364f28e-7c89-4a02-9637-e87d874f5a67
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

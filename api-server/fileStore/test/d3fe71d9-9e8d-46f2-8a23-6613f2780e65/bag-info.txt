@@ -1,0 +1,20 @@
+id: d3fe71d9-9e8d-46f2-8a23-6613f2780e65
+name: 201920-Abelha-BD_planoExercicios_PL12.pdf
+title: 201920-Abelha-BD_planoExercicios_PL12
+subtitle:  
+id_produces: lenorawelch@playce.com
+authors: Alma Roberson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

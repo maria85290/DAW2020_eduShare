@@ -1,0 +1,21 @@
+id: 488beef0-586a-43ed-ba09-a674d2e8623a
+name: rnoti-p761.pdf
+title: rnoti-p761
+subtitle:  
+id_produces: laneray@playce.com
+authors: Leon Robles
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_488beef0-586a-43ed-ba09-a674d2e8623a
+Bagging-Date: 2021-02-07
+Bag-Size: 136 KB

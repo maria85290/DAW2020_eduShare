@@ -1,0 +1,19 @@
+id: f878b80d9bf465fe6ecffea65bd0618d
+name: TC-TrabalhosPraticos.pdf
+title: trabalhos práticos de tc
+subtitle: tc
+id_produces: middletonmays@playce.com
+authors: professor filipe
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:9:52
+subject: TC
+description: Lista final com os trabalhos de TC
+ranking: 0
+rankingList: 
+size: 0.1
+mimeType: application/pdf
+type: exercises
+visibility: public
+hashtags: tc
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

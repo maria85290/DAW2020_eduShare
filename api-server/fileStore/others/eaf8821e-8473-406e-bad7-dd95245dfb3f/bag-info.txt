@@ -1,0 +1,21 @@
+id: eaf8821e-8473-406e-bad7-dd95245dfb3f
+name: slide2.pdf
+title: slide2
+subtitle:  
+id_produces: kellielee@playce.com
+authors: Kramer Rodriquez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_eaf8821e-8473-406e-bad7-dd95245dfb3f
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

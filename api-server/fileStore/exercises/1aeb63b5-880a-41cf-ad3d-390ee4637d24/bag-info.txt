@@ -1,0 +1,20 @@
+id: 1aeb63b5-880a-41cf-ad3d-390ee4637d24
+name: RomanGods.ged.txt
+title: RomanGods
+subtitle:  
+id_produces: socorropalmer@playce.com
+authors: Lilly Whitaker
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: text/plain
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 42 KB

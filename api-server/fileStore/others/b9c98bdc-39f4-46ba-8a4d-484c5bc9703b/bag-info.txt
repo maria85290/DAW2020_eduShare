@@ -1,0 +1,20 @@
+id: b9c98bdc-39f4-46ba-8a4d-484c5bc9703b
+name: ACM-SKOSTaxonomy.xml
+title: ACM-SKOSTaxonomy
+subtitle:  
+id_produces: barronknox@playce.com
+authors: Johnston Fulton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.3
+mimeType: application/xml
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

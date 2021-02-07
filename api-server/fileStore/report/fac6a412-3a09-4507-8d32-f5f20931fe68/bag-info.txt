@@ -1,0 +1,21 @@
+id: fac6a412-3a09-4507-8d32-f5f20931fe68
+name: Ficha3 - Iluminação.pdf
+title: Ficha3 - Iluminação
+subtitle:  
+id_produces: herreraoneil@playce.com
+authors: Browning Hicks
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fac6a412-3a09-4507-8d32-f5f20931fe68
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

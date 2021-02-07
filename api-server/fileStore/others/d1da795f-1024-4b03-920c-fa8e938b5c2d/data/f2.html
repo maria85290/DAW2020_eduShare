@@ -1,0 +1,197 @@
+<html>
+   <head>
+      <meta charset="utf-8"/>
+      <title>Arquivo de Fichas Práticas do JCR</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <link rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+   </head>
+   <body style="padding-top:50px;">
+      <div class="navbar navbar-default navbar-fixed-top navbar-inverse">
+         <div class="container">
+            <div class="navbar-header">
+               <a href="../index.php" class="navbar-brand">Arquivo Fichas Práticas</a>
+               <button class="navbar-toggle"
+                       type="button"
+                       data-toggle="collapse"
+                       data-target="#navbar-main">
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+                  <span class="icon-bar"/>
+               </button>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar-main">
+               <ul class="nav navbar-nav">
+                  <li>
+                     <a href="../index-fichas.html">Fichas</a>
+                  </li>
+                  <li>
+                     <a href="../index-fichas-categ.html">Fichas/Tema</a>
+                  </li>
+               </ul>
+               <ul class="nav navbar-nav navbar-right">
+                  <li>
+                     <a href="../logs.html">Registo de Alterações</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="container">
+         <div class="row">
+            <div class="col-sm-5 col-md-5">
+               <img class="img-responsive" src="../imagens/fichas.jpeg"/>
+            </div>
+            <div class="col-sm-7 col-md-7">
+               <h2>Ficha f2</h2>
+               <h3>Geração de Websites com XSLT</h3>
+            </div>
+         </div>
+         <div class="panel panel-default">
+            <div class="panel-body">
+               <a name="ind-ex"/>
+               <p class="lead">Processamento e Representação da Informação</p>
+               <p>
+			               <p>O objectivo principal desta ficha é familiarizar o aluno com o desenvolvimento de aplicações XML com alguma complexidade quer na navegação quer naquilo que é gerado. Nesse sentido propõe-se o desenvolvimento de várias aplicações web que gerarão websites estáticos.</p>
+		             </p>
+               <div class="container">
+                  <table>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <h3>Recursos:</h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <div class="para"> Recursos disponíveis para a realização da ficha:</div>
+                              <br/>
+                              <ul>
+			                              <li>
+                                    <a href="http://www.di.uminho.pt/~jcr/XML/applications/mapa-virtual/cidades-micei2005.xml">Instância documental descrevendo um mapa</a>
+                                 </li>
+			                              <li>
+                                    <a href="http://www.di.uminho.pt/~jcr/XML/applications/mapa-virtual/mapa-micei2005.xsd">Schema para mapas virtuais</a>
+                                 </li>
+			                              <li>
+                                    <a href="http://www.di.uminho.pt/~jcr/XML/applications/mapa-virtual/cidades-micei2005.xsl">Stylesheet geradora do mapa virtual (ponto de partida)</a>
+                                 </li>
+			                              <li>
+                                    <a href="http://www.di.uminho.pt/~jcr/XML/didac/xmldocs/arq.xml">Arqueossítios do Nordeste Português</a>
+                                 </li>
+		                            </ul>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <h3>
+                Exercícios:
+              </h3>
+                           </td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td/>
+                           <td>
+                              <ol>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e1">Mapa Virtual</a>
+                                 </li>
+                                 <a name="ind-ex"/>
+                                 <li>
+                                    <a href="#e2">Arqueossítios do Noroeste Português</a>
+                                 </li>
+                              </ol>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <hr/>
+               <div class="panel panel-default">
+                  <div class="panel-footer">
+                     <p>Generated by xfichas app by jcr::2015-02-24</p>
+                     <p>[<a href="..">Voltar ao índice de fichas</a>]</p>
+                  </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e1"/>
+                     <h3 class="panel-title">Exercício Nº 1:
+            Mapa Virtual</h3>
+                  </div>
+                  <div class="panel-body">
+				                 <p>Considere o Schema disponível nos recursos da ficha para a especificação de grafos e a respectiva instância do mapa virtual.</p>
+				                 <div class="img">
+                        <center>
+                           <img src="../imagens/mapa.jpeg"/>
+                           <p>
+                              <b>Fig.1: Mapa de Portugal</b>
+                           </p>
+                        </center>
+                     </div>
+				                 <p>Especifique stylesheets para realizar as tarefas descritas nas alíneas seguintes.</p>
+				                 <ol class="a">
+					                   <li>Desenvolva uma stylesheet para gerar um website que se comporte como um mapa virtual: <ul>
+						                        <li>A página principal contem um índice de cidades em que cada cidade é um link para a sua página individual;</li>
+						                        <li>Cada página individual tem toda a informação da cidade a que diz respeito, um link para a página inicial e, um link para cada cidade com a qual tem ligações directas.</li>
+					                      </ul>
+					                   </li>
+					                   <li>Desenvolva uma stylesheet que calcula um dos caminhos entre um nodo origem e um nodo destino passados como parâmetros. Se já tiver conhecimentos para isso especifique um formulário HTML para ler os parâmetros e uma rotina de processamento que aplica a stylesheet XSL usando esses parâmetros.</li>
+					                   <li>Desenvolva uma stylesheet que calcula todos os caminhos entre um nodo origem e um nodo destino passados como parâmetros. Como na alínea anterior, tente encapsular a aplicação da stylesheet aos documento numa script de processamento do formulário que lê os parâmetros.</li>
+					                   <li>Desenvolva uma stylesheet que gera um documento SVG com a imagem do grafo. </li>
+				                 </ol>
+			               </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+               <div class="panel panel-default">
+                  <div class="panel-heading">
+                     <a name="e2"/>
+                     <h3 class="panel-title">Exercício Nº 2:
+            Arqueossítios do Noroeste Português</h3>
+                  </div>
+                  <div class="panel-body">
+				                 <p>Considere o documento XML disponível na área de recursos desta ficha respeitante a uma base de dados dos arqueossítios do noroeste português e analise bem a sua estrutura.</p>
+				                 <div class="img">
+                        <center>
+                           <img src="../imagens/arqueossitios.jpeg"/>
+                           <p>
+                              <b>Fig.2: Arqueossítio</b>
+                           </p>
+                        </center>
+                     </div>
+				                 <p>Neste exercício, pretende-se que desenvolva uma stylesheet XSLT geradora de um website com os seguintes requisitos:</p>
+				                 <ol class="a">
+					                   <li>A página principal, de nome index.html deverá conter um título e um índice de arqueossítios. Este índice deverá funcionar como uma lista de links de acesso direto às páginas individuais dos arqueossítios. Construa o índice por etapas:<ol>
+						                        <li>Faça uma lista com os IDENTI dos arqueossítios;</li>
+						                        <li>Ordena esta lista por ordem alfabética;</li>
+						                        <li>Transforme o índice obtido num outro, multinível, em que os arqueossítios aparecem agrupados por concelho, ou seja, o índice agora é composto por uma lista ordenada alfabeticamente de concelhos em que cada concelho além da sua indetificação contem uma sublista dos arqueossítios que lhe pertencem também ordenada alfabeticamente;</li>
+					                      </ol>
+                        </li>
+					                   <li>Crie as páginas individuais dos arqueossítios com a seguinte informação: <ul>
+						                        <li>Um título composto pelo IDENTI;</li>
+						                        <li>Uma descrição da localização onde são utilizados os campos FREGUE e CONCEL;</li>
+						                        <li>Um link para voltar à página principal;</li>
+						                        <li>Um link para a página do arqueossítio <i>Anterior</i>;</li>
+						                        <li>Um link para a página do arqueossítio <i>Seguinte</i>;</li>
+                           </ul>
+					                   </li>
+					                   <li>Teste o resultado e caso os links Anterior e Seguinte não funcionem como o pretendido pense que alterações deverá fazer na fonte de dados de modo a obter o pretendido. Implemente essas alterações criando um stylesheet que as realize.</li>
+				                 </ol>
+			               </div>
+                  <div class="panel-footer"> [<a href="#ind-ex">Voltar ao Índice de exercícios</a>] </div>
+               </div>
+            </div>
+            <div class="panel-footer"> 
+            Generated by rep-fichas-site app by jcr::
+            2015-10-15+01:00 - 
+            10 fichas / 
+            28 exercícios 
+        </div>
+         </div>
+      </div>
+   </body>
+</html>

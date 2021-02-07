@@ -1,0 +1,21 @@
+id: 5714dd45-b297-401c-80b2-b66d11207a49
+name: pi2010-miniteste6A.pdf
+title: pi2010-miniteste6A
+subtitle:  
+id_produces: burnetthammond@playce.com
+authors: Fanny Mills
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5714dd45-b297-401c-80b2-b66d11207a49
+Bagging-Date: 2021-02-07
+Bag-Size: 53 KB

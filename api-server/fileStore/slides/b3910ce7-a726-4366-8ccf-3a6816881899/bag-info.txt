@@ -1,0 +1,21 @@
+id: b3910ce7-a726-4366-8ccf-3a6816881899
+name: rnoti-p373.pdf
+title: rnoti-p373
+subtitle:  
+id_produces: rivershunter@playce.com
+authors: Georgette Foreman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_b3910ce7-a726-4366-8ccf-3a6816881899
+Bagging-Date: 2021-02-07
+Bag-Size: 106 KB

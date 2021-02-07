@@ -1,0 +1,21 @@
+id: d56bb482-07e8-4a7a-9b40-e7215f67be4f
+name: Cicirelli2016_Article_OnTheDesignOfSmartHomesAFramew.pdf
+title: Cicirelli2016_Article_OnTheDesignOfSmartHomesAFramew
+subtitle:  
+id_produces: andreashepherd@playce.com
+authors: Mercedes Everett
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d56bb482-07e8-4a7a-9b40-e7215f67be4f
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

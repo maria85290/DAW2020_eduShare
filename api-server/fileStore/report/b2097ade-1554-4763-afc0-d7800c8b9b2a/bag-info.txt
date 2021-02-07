@@ -1,0 +1,21 @@
+id: b2097ade-1554-4763-afc0-d7800c8b9b2a
+name: ficha8_LingFuncional.pdf
+title: ficha8_LingFuncional
+subtitle:  
+id_produces: marvarichmond@playce.com
+authors: Sandra Avery
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_b2097ade-1554-4763-afc0-d7800c8b9b2a
+Bagging-Date: 2021-02-07
+Bag-Size: 88 KB

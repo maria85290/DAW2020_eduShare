@@ -1,0 +1,20 @@
+id: b3e6ab11-8675-4ea4-8467-08525be28cf3
+name: jcrpubs.ttl
+title: jcrpubs
+subtitle:  
+id_produces: mcintoshwiley@playce.com
+authors: Janell Suarez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: text/turtle
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 58 KB

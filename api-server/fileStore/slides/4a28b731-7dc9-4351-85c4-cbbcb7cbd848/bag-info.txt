@@ -1,0 +1,21 @@
+id: 4a28b731-7dc9-4351-85c4-cbbcb7cbd848
+name: slide6.pdf
+title: slide6
+subtitle:  
+id_produces: laneray@playce.com
+authors: Rochelle Weeks
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_4a28b731-7dc9-4351-85c4-cbbcb7cbd848
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

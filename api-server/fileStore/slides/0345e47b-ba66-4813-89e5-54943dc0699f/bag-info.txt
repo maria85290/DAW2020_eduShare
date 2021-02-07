@@ -1,0 +1,21 @@
+id: 0345e47b-ba66-4813-89e5-54943dc0699f
+name: rnoti-p388.pdf
+title: rnoti-p388
+subtitle:  
+id_produces: onealbooker@playce.com
+authors: Pace Juarez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 4.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_0345e47b-ba66-4813-89e5-54943dc0699f
+Bagging-Date: 2021-02-07
+Bag-Size: 151 KB

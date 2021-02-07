@@ -1,0 +1,20 @@
+id: a06d7080-7325-4ae6-9fc1-d1041826ee60
+name: ficha.2.daniel.jpg
+title: ficha
+subtitle:  
+id_produces: callahanhahn@playce.com
+authors: Fitzgerald England
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: image/jpeg
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

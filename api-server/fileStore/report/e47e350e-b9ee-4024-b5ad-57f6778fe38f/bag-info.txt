@@ -1,0 +1,21 @@
+id: e47e350e-b9ee-4024-b5ad-57f6778fe38f
+name: pi2010-miniteste1B.pdf
+title: pi2010-miniteste1B
+subtitle:  
+id_produces: kathycain@playce.com
+authors: Petty Patterson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_e47e350e-b9ee-4024-b5ad-57f6778fe38f
+Bagging-Date: 2021-02-07
+Bag-Size: 43 KB

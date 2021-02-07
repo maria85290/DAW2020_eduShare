@@ -1,0 +1,20 @@
+id: 1187f3e0-62be-4cdd-9548-771411c3c58c
+name: Slides3_Equals_toString_clone.pdf
+title: Slides3_Equals_toString_clone
+subtitle:  
+id_produces: erinreid@playce.com
+authors: Corinne Santos
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.9
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

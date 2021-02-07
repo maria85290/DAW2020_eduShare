@@ -1,0 +1,21 @@
+id: 9b77bd65-f7ea-4718-a1ba-be82b8533b09
+name: Ficha3_ex1.jpg
+title: Ficha3_ex1
+subtitle:  
+id_produces: jessicakemp@playce.com
+authors: Brown Mcclain
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: image/jpeg
+visibility: public
+hashtags: 
+id_post: post_9b77bd65-f7ea-4718-a1ba-be82b8533b09
+Bagging-Date: 2021-02-07
+Bag-Size: 102 KB

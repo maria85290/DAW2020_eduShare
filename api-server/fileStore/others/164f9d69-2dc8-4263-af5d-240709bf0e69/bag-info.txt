@@ -1,0 +1,21 @@
+id: 164f9d69-2dc8-4263-af5d-240709bf0e69
+name: manual-latex.pdf
+title: manual-latex
+subtitle:  
+id_produces: leejohnston@playce.com
+authors: Carroll Hardy
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_164f9d69-2dc8-4263-af5d-240709bf0e69
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,21 @@
+id: 70f655f5-0e9a-4d34-a33a-731092e22248
+name: T-aplicações.pdf
+title: T-aplicações
+subtitle:  
+id_produces: burchnorris@playce.com
+authors: Duffy Slater
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_70f655f5-0e9a-4d34-a33a-731092e22248
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

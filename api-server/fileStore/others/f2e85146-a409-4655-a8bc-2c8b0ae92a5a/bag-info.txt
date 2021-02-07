@@ -1,0 +1,21 @@
+id: f2e85146-a409-4655-a8bc-2c8b0ae92a5a
+name: daw-2020-especial.html
+title: daw-2020-especial
+subtitle:  
+id_produces: simssalinas@playce.com
+authors: Liliana Raymond
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_f2e85146-a409-4655-a8bc-2c8b0ae92a5a
+Bagging-Date: 2021-02-07
+Bag-Size: 15 KB

@@ -1,0 +1,20 @@
+id: a385e77a-cc57-4d8d-abfc-2fbc783809d0
+name: 1.jpg
+title: 1
+subtitle:  
+id_produces: henrycollier@playce.com
+authors: Barker Delgado
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: image/jpeg
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 84 KB

@@ -1,0 +1,21 @@
+id: 52129e8a-c81e-4023-8d83-51bc23f01bfe
+name: fea-birman.pdf
+title: fea-birman
+subtitle:  
+id_produces: newtonprice@playce.com
+authors: Bette Baird
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 1.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_52129e8a-c81e-4023-8d83-51bc23f01bfe
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

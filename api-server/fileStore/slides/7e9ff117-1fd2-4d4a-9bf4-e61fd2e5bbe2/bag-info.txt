@@ -1,0 +1,21 @@
+id: 7e9ff117-1fd2-4d4a-9bf4-e61fd2e5bbe2
+name: slide5.pdf
+title: slide5
+subtitle:  
+id_produces: wildagordon@playce.com
+authors: Meadows Goff
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_7e9ff117-1fd2-4d4a-9bf4-e61fd2e5bbe2
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

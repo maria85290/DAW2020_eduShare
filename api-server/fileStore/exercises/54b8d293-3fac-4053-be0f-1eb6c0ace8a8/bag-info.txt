@@ -1,0 +1,20 @@
+id: 54b8d293-3fac-4053-be0f-1eb6c0ace8a8
+name: apostila marcinho.pdf
+title: apostila marcinho
+subtitle:  
+id_produces: shelbyclements@playce.com
+authors: Watson Bird
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 1.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

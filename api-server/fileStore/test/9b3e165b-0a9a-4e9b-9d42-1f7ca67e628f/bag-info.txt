@@ -1,0 +1,21 @@
+id: 9b3e165b-0a9a-4e9b-9d42-1f7ca67e628f
+name: Cicirelli2016_Article_OnTheDesignOfSmartHomesAFramew (1).pdf
+title: Cicirelli2016_Article_OnTheDesignOfSmartHomesAFramew (1)
+subtitle:  
+id_produces: briggslong@playce.com
+authors: Newton Price
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9b3e165b-0a9a-4e9b-9d42-1f7ca67e628f
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

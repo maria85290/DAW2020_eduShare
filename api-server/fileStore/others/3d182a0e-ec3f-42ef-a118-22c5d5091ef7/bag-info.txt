@@ -1,0 +1,21 @@
+id: 3d182a0e-ec3f-42ef-a118-22c5d5091ef7
+name: mini-familia.ttl
+title: mini-familia
+subtitle:  
+id_produces: karinnash@playce.com
+authors: Whitfield Wiggins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/turtle
+visibility: public
+hashtags: 
+id_post: post_3d182a0e-ec3f-42ef-a118-22c5d5091ef7
+Bagging-Date: 2021-02-07
+Bag-Size: 16 KB

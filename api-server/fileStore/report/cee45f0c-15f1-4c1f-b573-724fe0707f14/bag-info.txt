@@ -1,0 +1,20 @@
+id: cee45f0c-15f1-4c1f-b573-724fe0707f14
+name: aula5.pdf
+title: aula5
+subtitle:  
+id_produces: forbesmontgomery@playce.com
+authors: Jennie Duran
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 116 KB

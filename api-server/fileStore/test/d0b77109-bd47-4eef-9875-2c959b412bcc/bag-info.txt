@@ -1,0 +1,20 @@
+id: d0b77109-bd47-4eef-9875-2c959b412bcc
+name: tx071101477p.pdf
+title: tx071101477p
+subtitle:  
+id_produces: newtonprice@playce.com
+authors: Pearlie Payne
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 6.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

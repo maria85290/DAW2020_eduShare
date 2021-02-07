@@ -1,0 +1,21 @@
+id: 445a632e-c82c-407b-bcae-b60002398699
+name: ficha2_estrutural.pdf
+title: ficha2_estrutural
+subtitle:  
+id_produces: leonorkirk@playce.com
+authors: Elise Powers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_445a632e-c82c-407b-bcae-b60002398699
+Bagging-Date: 2021-02-07
+Bag-Size: 106 KB

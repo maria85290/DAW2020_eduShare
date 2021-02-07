@@ -1,0 +1,20 @@
+id: 65af2054-8052-47b8-9398-cbd28fdb0806
+name: relprojLayout.pdf
+title: relprojLayout
+subtitle:  
+id_produces: carterbradley@playce.com
+authors: Ester Mcmillan
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 49 KB

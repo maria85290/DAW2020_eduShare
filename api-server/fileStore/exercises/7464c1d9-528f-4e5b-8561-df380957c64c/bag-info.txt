@@ -1,0 +1,21 @@
+id: 7464c1d9-528f-4e5b-8561-df380957c64c
+name: rnoti-p526.pdf
+title: rnoti-p526
+subtitle:  
+id_produces: jeaninevinson@playce.com
+authors: Lesa Ellison
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 1.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_7464c1d9-528f-4e5b-8561-df380957c64c
+Bagging-Date: 2021-02-07
+Bag-Size: 151 KB

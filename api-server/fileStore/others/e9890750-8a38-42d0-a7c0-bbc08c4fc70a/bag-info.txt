@@ -1,0 +1,20 @@
+id: e9890750-8a38-42d0-a7c0-bbc08c4fc70a
+name: jcrpubs.rdf
+title: jcrpubs
+subtitle:  
+id_produces: onealbooker@playce.com
+authors: Velma Arnold
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: application/rdf+xml
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 44 KB

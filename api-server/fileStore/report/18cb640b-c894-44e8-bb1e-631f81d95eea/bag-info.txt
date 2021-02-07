@@ -1,0 +1,21 @@
+id: 18cb640b-c894-44e8-bb1e-631f81d95eea
+name: guiao-04.pdf
+title: guiao-04
+subtitle:  
+id_produces: michaelharris@playce.com
+authors: Minnie Norman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_18cb640b-c894-44e8-bb1e-631f81d95eea
+Bagging-Date: 2021-02-07
+Bag-Size: 67 KB

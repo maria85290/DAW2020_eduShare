@@ -1,0 +1,21 @@
+id: 282aaba4-60cc-43f4-9c73-e9ed05e547e7
+name: ficha3.pdf
+title: ficha3
+subtitle:  
+id_produces: lynchleonard@playce.com
+authors: Faulkner Day
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_282aaba4-60cc-43f4-9c73-e9ed05e547e7
+Bagging-Date: 2021-02-07
+Bag-Size: 101 KB

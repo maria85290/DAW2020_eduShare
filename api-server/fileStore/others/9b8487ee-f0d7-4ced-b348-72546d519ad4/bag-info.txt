@@ -1,0 +1,21 @@
+id: 9b8487ee-f0d7-4ced-b348-72546d519ad4
+name: rtx120901208p.pdf
+title: rtx120901208p
+subtitle:  
+id_produces: bradfordpope@playce.com
+authors: Pruitt Justice
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 4.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9b8487ee-f0d7-4ced-b348-72546d519ad4
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

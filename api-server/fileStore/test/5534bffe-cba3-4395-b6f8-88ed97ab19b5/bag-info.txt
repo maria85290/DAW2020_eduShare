@@ -1,0 +1,21 @@
+id: 5534bffe-cba3-4395-b6f8-88ed97ab19b5
+name: rtx100901116p.pdf
+title: rtx100901116p
+subtitle:  
+id_produces: meghanpickett@playce.com
+authors: Ellison Edwards
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5534bffe-cba3-4395-b6f8-88ed97ab19b5
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

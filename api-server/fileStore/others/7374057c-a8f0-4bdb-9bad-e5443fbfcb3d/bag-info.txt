@@ -1,0 +1,21 @@
+id: 7374057c-a8f0-4bdb-9bad-e5443fbfcb3d
+name: Exercícios 2010-2011 (1).zip
+title: Exercícios 2010-2011 (1)
+subtitle:  
+id_produces: roslynmcleod@playce.com
+authors: Rivers Hunter
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.7
+mimeType: application/zip
+visibility: public
+hashtags: 
+id_post: post_7374057c-a8f0-4bdb-9bad-e5443fbfcb3d
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

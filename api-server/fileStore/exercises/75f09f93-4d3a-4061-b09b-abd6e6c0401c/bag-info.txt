@@ -1,0 +1,21 @@
+id: 75f09f93-4d3a-4061-b09b-abd6e6c0401c
+name: LecturesCE.pdf
+title: LecturesCE
+subtitle:  
+id_produces: aguirremckay@playce.com
+authors: Lara Joseph
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_75f09f93-4d3a-4061-b09b-abd6e6c0401c
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

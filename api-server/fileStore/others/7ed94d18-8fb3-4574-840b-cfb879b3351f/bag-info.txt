@@ -1,0 +1,21 @@
+id: 7ed94d18-8fb3-4574-840b-cfb879b3351f
+name: PtolemaicDynasty.ged.txt
+title: PtolemaicDynasty
+subtitle:  
+id_produces: avilahartman@playce.com
+authors: Chavez Jefferson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/plain
+visibility: public
+hashtags: 
+id_post: post_7ed94d18-8fb3-4574-840b-cfb879b3351f
+Bagging-Date: 2021-02-07
+Bag-Size: 9.7 KB

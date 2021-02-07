@@ -1,0 +1,21 @@
+id: de5f5e4b-b226-4255-90cd-7d395bc7135b
+name: SCR - teste.pdf
+title: SCR - teste
+subtitle:  
+id_produces: browninghicks@playce.com
+authors: Susana Glenn
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_de5f5e4b-b226-4255-90cd-7d395bc7135b
+Bagging-Date: 2021-02-07
+Bag-Size: 119 KB

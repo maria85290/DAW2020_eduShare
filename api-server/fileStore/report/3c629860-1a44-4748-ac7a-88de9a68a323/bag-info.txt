@@ -1,0 +1,20 @@
+id: 3c629860-1a44-4748-ac7a-88de9a68a323
+name: comm-fields-interviews.pdf
+title: comm-fields-interviews
+subtitle:  
+id_produces: mccarthywilliamson@playce.com
+authors: Contreras Dotson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 98 KB

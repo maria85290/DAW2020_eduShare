@@ -1,0 +1,19 @@
+id: 7eff5c2631e238333a914fb2327e87ad
+name: TS_Trabalho_2.pdf
+title: trabalho 2 de ts
+subtitle: uminho
+id_produces: constancaelias99@gmail.com
+authors: professor vitor
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:11:8
+subject: TS
+description: Enunciado do trabalho 2 de TS 
+ranking: 0
+rankingList: 
+size: 0.4
+mimeType: application/pdf
+type: others
+visibility: public
+hashtags: ts
+Bagging-Date: 2021-02-07
+Bag-Size: 192 KB

@@ -1,0 +1,21 @@
+id: 91063973-eac2-4823-ba89-b6a628f7e500
+name: rtx101001260p.pdf
+title: rtx101001260p
+subtitle:  
+id_produces: pittmanyates@playce.com
+authors: Obrien Whitfield
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_91063973-eac2-4823-ba89-b6a628f7e500
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

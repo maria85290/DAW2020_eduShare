@@ -1,0 +1,21 @@
+id: 4e9d3f5f-1f9d-4c2c-b62a-2c7d903e183a
+name: rtx110801100p.pdf
+title: rtx110801100p
+subtitle:  
+id_produces: maysharvey@playce.com
+authors: Mooney Little
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_4e9d3f5f-1f9d-4c2c-b62a-2c7d903e183a
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

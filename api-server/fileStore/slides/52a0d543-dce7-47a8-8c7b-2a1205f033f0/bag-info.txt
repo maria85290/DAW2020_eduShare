@@ -1,0 +1,20 @@
+id: 52a0d543-dce7-47a8-8c7b-2a1205f033f0
+name: tx080200216p.pdf
+title: tx080200216p
+subtitle:  
+id_produces: craftmartin@playce.com
+authors: Celina Best
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.6
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

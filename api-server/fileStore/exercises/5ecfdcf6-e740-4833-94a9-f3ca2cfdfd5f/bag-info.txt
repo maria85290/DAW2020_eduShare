@@ -1,0 +1,21 @@
+id: 5ecfdcf6-e740-4833-94a9-f3ca2cfdfd5f
+name: rtx110500674p.pdf
+title: rtx110500674p
+subtitle:  
+id_produces: haysfitzgerald@playce.com
+authors: Brittany Perez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5ecfdcf6-e740-4833-94a9-f3ca2cfdfd5f
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

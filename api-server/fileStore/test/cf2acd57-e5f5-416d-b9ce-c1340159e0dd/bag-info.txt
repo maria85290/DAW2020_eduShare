@@ -1,0 +1,20 @@
+id: cf2acd57-e5f5-416d-b9ce-c1340159e0dd
+name: _AD____Trabalho_Pr_tico1 (2).pdf
+title: _AD____Trabalho_Pr_tico1 (2)
+subtitle:  
+id_produces: larajoseph@playce.com
+authors: Lancaster Vazquez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

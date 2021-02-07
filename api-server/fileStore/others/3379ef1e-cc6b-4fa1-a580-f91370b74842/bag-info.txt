@@ -1,0 +1,21 @@
+id: 3379ef1e-cc6b-4fa1-a580-f91370b74842
+name: rnoti-p617.pdf
+title: rnoti-p617
+subtitle:  
+id_produces: banksvaughn@playce.com
+authors: Barker Delgado
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 5.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_3379ef1e-cc6b-4fa1-a580-f91370b74842
+Bagging-Date: 2021-02-07
+Bag-Size: 151 KB

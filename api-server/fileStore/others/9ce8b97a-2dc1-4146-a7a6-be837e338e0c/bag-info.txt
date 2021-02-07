@@ -1,0 +1,21 @@
+id: 9ce8b97a-2dc1-4146-a7a6-be837e338e0c
+name: rnoti-p177.pdf
+title: rnoti-p177
+subtitle:  
+id_produces: barronknox@playce.com
+authors: Tanya Morse
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9ce8b97a-2dc1-4146-a7a6-be837e338e0c
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

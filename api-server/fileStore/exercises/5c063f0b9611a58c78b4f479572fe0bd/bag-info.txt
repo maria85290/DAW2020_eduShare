@@ -1,0 +1,19 @@
+id: 5c063f0b9611a58c78b4f479572fe0bd
+name: Projeto_final_2020.pdf
+title: daw - enunciado do trabalho - 2020
+subtitle: uminho
+id_produces: maria.a.b2000@hotmail.com
+authors: jcr
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 20:48:33
+subject: UM
+description: Criar um aplicação web 
+ranking: 0
+rankingList: 
+size: 0.1
+mimeType: application/pdf
+type: exercises
+visibility: public
+hashtags: daw
+Bagging-Date: 2021-02-07
+Bag-Size: 79 KB

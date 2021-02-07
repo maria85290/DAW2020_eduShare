@@ -1,0 +1,20 @@
+id: 5c974eed-2b2d-4152-8093-dcfa6f8223aa
+name: rnoti-p21.pdf
+title: rnoti-p21
+subtitle:  
+id_produces: brownmcclain@playce.com
+authors: Carissa Munoz
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 2.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 179 KB

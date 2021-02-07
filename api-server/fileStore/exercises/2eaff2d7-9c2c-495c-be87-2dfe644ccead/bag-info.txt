@@ -1,0 +1,21 @@
+id: 2eaff2d7-9c2c-495c-be87-2dfe644ccead
+name: guiao-02.pdf
+title: guiao-02
+subtitle:  
+id_produces: francesrichard@playce.com
+authors: Mendoza Lindsey
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_2eaff2d7-9c2c-495c-be87-2dfe644ccead
+Bagging-Date: 2021-02-07
+Bag-Size: 53 KB

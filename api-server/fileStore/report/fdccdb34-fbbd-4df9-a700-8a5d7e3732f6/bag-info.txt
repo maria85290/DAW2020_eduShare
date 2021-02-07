@@ -1,0 +1,21 @@
+id: fdccdb34-fbbd-4df9-a700-8a5d7e3732f6
+name: COLECCOES_JAVA6_PARTE2.pdf
+title: COLECCOES_JAVA6_PARTE2
+subtitle:  
+id_produces: comptonnewton@playce.com
+authors: Carroll Hardy
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fdccdb34-fbbd-4df9-a700-8a5d7e3732f6
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

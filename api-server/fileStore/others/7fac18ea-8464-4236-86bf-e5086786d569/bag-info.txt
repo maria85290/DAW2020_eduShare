@@ -1,0 +1,20 @@
+id: 7fac18ea-8464-4236-86bf-e5086786d569
+name: tx080700776p.pdf
+title: tx080700776p
+subtitle:  
+id_produces: claricegilliam@playce.com
+authors: Gordon Park
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 7.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

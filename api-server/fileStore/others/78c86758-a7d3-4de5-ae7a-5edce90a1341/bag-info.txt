@@ -1,0 +1,21 @@
+id: 78c86758-a7d3-4de5-ae7a-5edce90a1341
+name: Miniteste1-Resolucao.pdf
+title: Miniteste1-Resolucao
+subtitle:  
+id_produces: annmariewalls@playce.com
+authors: George Golden
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_78c86758-a7d3-4de5-ae7a-5edce90a1341
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

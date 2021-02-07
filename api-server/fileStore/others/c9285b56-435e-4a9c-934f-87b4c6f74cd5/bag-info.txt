@@ -1,0 +1,20 @@
+id: c9285b56-435e-4a9c-934f-87b4c6f74cd5
+name: pi2004-e3.pdf
+title: pi2004-e3
+subtitle:  
+id_produces: normaroberts@playce.com
+authors: Buckley Haney
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 91 KB

@@ -1,0 +1,21 @@
+id: 3fdea6b6-7cd6-4af0-83d9-dea5d5fa423c
+name: pi2010-miniteste1C.pdf
+title: pi2010-miniteste1C
+subtitle:  
+id_produces: barbaraboyle@playce.com
+authors: Riley Rojas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_3fdea6b6-7cd6-4af0-83d9-dea5d5fa423c
+Bagging-Date: 2021-02-07
+Bag-Size: 43 KB

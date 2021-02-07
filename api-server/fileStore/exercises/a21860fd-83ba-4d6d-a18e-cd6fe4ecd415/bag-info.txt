@@ -1,0 +1,21 @@
+id: a21860fd-83ba-4d6d-a18e-cd6fe4ecd415
+name: Oráculo.pdf
+title: Oráculo
+subtitle:  
+id_produces: hebertnorton@playce.com
+authors: Mcintosh Wiley
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_a21860fd-83ba-4d6d-a18e-cd6fe4ecd415
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

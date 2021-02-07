@@ -1,0 +1,21 @@
+id: 7a80a39f-452a-40e5-a406-bc8a76c24803
+name: tx080800964p.pdf
+title: tx080800964p
+subtitle:  
+id_produces: warefischer@playce.com
+authors: Shelby Clements
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_7a80a39f-452a-40e5-a406-bc8a76c24803
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,1 @@
+43a593eb5d28dbe44ebc8a0a45b4bc60c8ed6df7fdf1ee579bb71f3e1073d4a8 data/Lighting and Materials in OpenGL.pdf

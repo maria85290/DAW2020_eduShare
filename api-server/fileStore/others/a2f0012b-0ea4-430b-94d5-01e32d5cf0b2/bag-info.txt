@@ -1,0 +1,21 @@
+id: a2f0012b-0ea4-430b-94d5-01e32d5cf0b2
+name: ipni2019-afericao.html
+title: ipni2019-afericao
+subtitle:  
+id_produces: piercerosales@playce.com
+authors: Rivera Roth
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_a2f0012b-0ea4-430b-94d5-01e32d5cf0b2
+Bagging-Date: 2021-02-07
+Bag-Size: 9.7 KB

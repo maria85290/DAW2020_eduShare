@@ -1,0 +1,21 @@
+id: 652ff4ee-f795-476a-9caa-8ea7ff685e53
+name: rtx100901106p.pdf
+title: rtx100901106p
+subtitle:  
+id_produces: pattersonshepard@playce.com
+authors: Love Daniels
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_652ff4ee-f795-476a-9caa-8ea7ff685e53
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

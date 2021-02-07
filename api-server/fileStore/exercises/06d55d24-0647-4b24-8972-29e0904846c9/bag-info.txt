@@ -1,0 +1,21 @@
+id: 06d55d24-0647-4b24-8972-29e0904846c9
+name: project_LCC.pdf
+title: project_LCC
+subtitle:  
+id_produces: webernewman@playce.com
+authors: Bridgette Tran
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_06d55d24-0647-4b24-8972-29e0904846c9
+Bagging-Date: 2021-02-07
+Bag-Size: 59 KB

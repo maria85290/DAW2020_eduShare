@@ -1,0 +1,21 @@
+id: 2e135c43-ec01-4cee-803a-6dc564f367be
+name: aulaGuiao3.pdf
+title: aulaGuiao3
+subtitle:  
+id_produces: browninghicks@playce.com
+authors: Briana Ferrell
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_2e135c43-ec01-4cee-803a-6dc564f367be
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

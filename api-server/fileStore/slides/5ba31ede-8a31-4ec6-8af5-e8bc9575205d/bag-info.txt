@@ -1,0 +1,21 @@
+id: 5ba31ede-8a31-4ec6-8af5-e8bc9575205d
+name: rnoti-p1200.pdf
+title: rnoti-p1200
+subtitle:  
+id_produces: georgegolden@playce.com
+authors: Soto Hawkins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_5ba31ede-8a31-4ec6-8af5-e8bc9575205d
+Bagging-Date: 2021-02-07
+Bag-Size: 184 KB

@@ -1,0 +1,21 @@
+id: 7f1a8d89-3148-45c6-a9d1-1559b5e326c3
+name: tx080400458p.pdf
+title: tx080400458p
+subtitle:  
+id_produces: soniasharp@playce.com
+authors: Mcgee Pate
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_7f1a8d89-3148-45c6-a9d1-1559b5e326c3
+Bagging-Date: 2021-02-07
+Bag-Size: 129 KB

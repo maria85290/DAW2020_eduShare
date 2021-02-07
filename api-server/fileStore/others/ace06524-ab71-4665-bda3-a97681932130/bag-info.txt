@@ -1,0 +1,20 @@
+id: ace06524-ab71-4665-bda3-a97681932130
+name: Report (2).pdf
+title: Report (2)
+subtitle:  
+id_produces: marcyfranco@playce.com
+authors: Michael Harris
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

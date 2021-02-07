@@ -1,0 +1,20 @@
+id: bb7f1755-d83e-4adf-b56c-dd592db2cd92
+name: pi2010-miniteste4A.pdf
+title: pi2010-miniteste4A
+subtitle:  
+id_produces: barberbailey@playce.com
+authors: Jerry Douglas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 53 KB

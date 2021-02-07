@@ -1,0 +1,20 @@
+id: 75963aab-324f-40d1-8a97-1dda5b637144
+name: Ficha5-Culling.pdf
+title: Ficha5-Culling
+subtitle:  
+id_produces: robertaberg@playce.com
+authors: Aurelia Leblanc
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 96 KB

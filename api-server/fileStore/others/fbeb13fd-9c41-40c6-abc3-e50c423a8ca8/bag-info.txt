@@ -1,0 +1,21 @@
+id: fbeb13fd-9c41-40c6-abc3-e50c423a8ca8
+name: rtx120400504p.pdf
+title: rtx120400504p
+subtitle:  
+id_produces: kellielee@playce.com
+authors: Marie Bowers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fbeb13fd-9c41-40c6-abc3-e50c423a8ca8
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

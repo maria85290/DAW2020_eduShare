@@ -1,0 +1,20 @@
+id: b0529d94-c2dd-45a3-93e3-7b531c2237e5
+name: rnoti-p346.pdf
+title: rnoti-p346
+subtitle:  
+id_produces: keripratt@playce.com
+authors: Queen Sargent
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 4.6
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 143 KB

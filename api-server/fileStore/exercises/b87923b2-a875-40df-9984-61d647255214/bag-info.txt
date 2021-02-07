@@ -1,0 +1,21 @@
+id: b87923b2-a875-40df-9984-61d647255214
+name: TC_Trabalho4_1 (2).png
+title: TC_Trabalho4_1 (2)
+subtitle:  
+id_produces: janellsuarez@playce.com
+authors: Queen Sargent
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_b87923b2-a875-40df-9984-61d647255214
+Bagging-Date: 2021-02-07
+Bag-Size: 6.4 KB

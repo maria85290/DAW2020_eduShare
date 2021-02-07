@@ -1,0 +1,21 @@
+id: 89a2bdf8-c97f-4f3d-8d1d-3df90bccaaba
+name: royalFamilies.xml
+title: royalFamilies
+subtitle:  
+id_produces: cookewashington@playce.com
+authors: Eva Ramirez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.6
+mimeType: application/xml
+visibility: public
+hashtags: 
+id_post: post_89a2bdf8-c97f-4f3d-8d1d-3df90bccaaba
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

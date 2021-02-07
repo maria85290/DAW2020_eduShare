@@ -1,0 +1,21 @@
+id: 082347e4-51fb-435a-951b-8dae654b3765
+name: rnoti-p226.pdf
+title: rnoti-p226
+subtitle:  
+id_produces: rileyrojas@playce.com
+authors: Juanita Guzman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_082347e4-51fb-435a-951b-8dae654b3765
+Bagging-Date: 2021-02-07
+Bag-Size: 190 KB

@@ -1,0 +1,21 @@
+id: d3fa6d0b-00b5-46b8-8228-3e2c158e0ef6
+name: aula2.pdf
+title: aula2
+subtitle:  
+id_produces: crawfordkerr@playce.com
+authors: Minnie Norman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d3fa6d0b-00b5-46b8-8228-3e2c158e0ef6
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

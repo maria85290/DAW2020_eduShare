@@ -1,0 +1,21 @@
+id: a97abca1-9916-485f-96ff-d93f595729fb
+name: pi2004-e1.pdf
+title: pi2004-e1
+subtitle:  
+id_produces: contrerasdotson@playce.com
+authors: Bolton Wilkins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_a97abca1-9916-485f-96ff-d93f595729fb
+Bagging-Date: 2021-02-07
+Bag-Size: 90 KB

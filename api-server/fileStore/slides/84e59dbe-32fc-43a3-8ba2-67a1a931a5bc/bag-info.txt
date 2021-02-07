@@ -1,0 +1,21 @@
+id: 84e59dbe-32fc-43a3-8ba2-67a1a931a5bc
+name: rtx110700912p.pdf
+title: rtx110700912p
+subtitle:  
+id_produces: riddlecortez@playce.com
+authors: Frye Ware
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_84e59dbe-32fc-43a3-8ba2-67a1a931a5bc
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

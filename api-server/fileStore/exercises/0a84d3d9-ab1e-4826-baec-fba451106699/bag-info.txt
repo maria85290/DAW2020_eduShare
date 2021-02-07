@@ -1,0 +1,21 @@
+id: 0a84d3d9-ab1e-4826-baec-fba451106699
+name: pi2005-e1.pdf
+title: pi2005-e1
+subtitle:  
+id_produces: lancastervazquez@playce.com
+authors: Celina Best
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_0a84d3d9-ab1e-4826-baec-fba451106699
+Bagging-Date: 2021-02-07
+Bag-Size: 62 KB

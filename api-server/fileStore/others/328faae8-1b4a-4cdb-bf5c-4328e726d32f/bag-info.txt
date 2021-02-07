@@ -1,0 +1,20 @@
+id: 328faae8-1b4a-4cdb-bf5c-4328e726d32f
+name: pri2018-f1.html
+title: pri2018-f1
+subtitle:  
+id_produces: mcleanrutledge@playce.com
+authors: Baird Tucker
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 13 KB

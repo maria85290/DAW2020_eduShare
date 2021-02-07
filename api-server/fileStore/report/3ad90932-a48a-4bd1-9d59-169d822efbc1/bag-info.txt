@@ -1,0 +1,21 @@
+id: 3ad90932-a48a-4bd1-9d59-169d822efbc1
+name: tx071101502p.pdf
+title: tx071101502p
+subtitle:  
+id_produces: meadowsgoff@playce.com
+authors: Juanita Guzman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 2.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_3ad90932-a48a-4bd1-9d59-169d822efbc1
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

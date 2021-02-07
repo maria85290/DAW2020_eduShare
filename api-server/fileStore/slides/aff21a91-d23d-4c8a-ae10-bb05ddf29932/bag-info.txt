@@ -1,0 +1,21 @@
+id: aff21a91-d23d-4c8a-ae10-bb05ddf29932
+name: TP3-pag16-18.pdf
+title: TP3-pag16-18
+subtitle:  
+id_produces: brigittewilkinson@playce.com
+authors: Taylor Campbell
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_aff21a91-d23d-4c8a-ae10-bb05ddf29932
+Bagging-Date: 2021-02-07
+Bag-Size: 111 KB

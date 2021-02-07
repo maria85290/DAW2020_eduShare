@@ -1,0 +1,21 @@
+id: 60853674-4744-4b29-9822-154a97cccf22
+name: rtx110500682p.pdf
+title: rtx110500682p
+subtitle:  
+id_produces: francescabarlow@playce.com
+authors: Marks Parks
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_60853674-4744-4b29-9822-154a97cccf22
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,21 @@
+id: 48dfb245-cc01-4de0-b824-72e75668a81e
+name: TC-TesteModelo.pdf
+title: TC-TesteModelo
+subtitle:  
+id_produces: knowleschristensen@playce.com
+authors: Hays Fitzgerald
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_48dfb245-cc01-4de0-b824-72e75668a81e
+Bagging-Date: 2021-02-07
+Bag-Size: 59 KB

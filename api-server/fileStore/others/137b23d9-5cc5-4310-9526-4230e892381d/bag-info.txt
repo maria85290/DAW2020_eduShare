@@ -1,0 +1,21 @@
+id: 137b23d9-5cc5-4310-9526-4230e892381d
+name: TS_TP3.pdf
+title: TS_TP3
+subtitle:  
+id_produces: williamsongoodman@playce.com
+authors: Faye Fleming
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_137b23d9-5cc5-4310-9526-4230e892381d
+Bagging-Date: 2021-02-07
+Bag-Size: 88 KB

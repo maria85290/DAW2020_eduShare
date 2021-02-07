@@ -1,0 +1,20 @@
+id: 088f5d3d-58f5-411d-8814-aab254687248
+name: rtx110600794p.pdf
+title: rtx110600794p
+subtitle:  
+id_produces: aprilsmith@playce.com
+authors: Suarez Conner
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 1.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

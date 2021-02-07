@@ -1,0 +1,21 @@
+id: b1cc2cad-d609-4b9a-8796-8dcec87b7bf2
+name: Divisão do dataSet.png
+title: Divisão do dataSet
+subtitle:  
+id_produces: neldamarshall@playce.com
+authors: Opal Delacruz
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: image/png
+visibility: public
+hashtags: 
+id_post: post_b1cc2cad-d609-4b9a-8796-8dcec87b7bf2
+Bagging-Date: 2021-02-07
+Bag-Size: 48 KB

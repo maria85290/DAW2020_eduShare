@@ -1,0 +1,21 @@
+id: df62b78c-d2bd-4277-90a8-f3bd40babfa8
+name: 2006_Book_DesigningSmartHomes (1).pdf
+title: 2006_Book_DesigningSmartHomes (1)
+subtitle:  
+id_produces: melindagibbs@playce.com
+authors: Hebert Norton
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2.9
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_df62b78c-d2bd-4277-90a8-f3bd40babfa8
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

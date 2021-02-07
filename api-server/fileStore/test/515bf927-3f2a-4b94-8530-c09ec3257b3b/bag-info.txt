@@ -1,0 +1,20 @@
+id: 515bf927-3f2a-4b94-8530-c09ec3257b3b
+name: ManualApoio2.pdf
+title: ManualApoio2
+subtitle:  
+id_produces: rosalyncleveland@playce.com
+authors: Tamera Lang
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

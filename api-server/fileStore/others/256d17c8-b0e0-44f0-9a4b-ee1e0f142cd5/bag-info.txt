@@ -1,0 +1,21 @@
+id: 256d17c8-b0e0-44f0-9a4b-ee1e0f142cd5
+name: Exerc2.pdf
+title: Exerc2
+subtitle:  
+id_produces: daphnecoleman@playce.com
+authors: Andrea Shepherd
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_256d17c8-b0e0-44f0-9a4b-ee1e0f142cd5
+Bagging-Date: 2021-02-07
+Bag-Size: 106 KB

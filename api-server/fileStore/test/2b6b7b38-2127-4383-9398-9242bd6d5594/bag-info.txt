@@ -1,0 +1,21 @@
+id: 2b6b7b38-2127-4383-9398-9242bd6d5594
+name: pi2004-e2.pdf
+title: pi2004-e2
+subtitle:  
+id_produces: andreashepherd@playce.com
+authors: Holman Lawrence
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_2b6b7b38-2127-4383-9398-9242bd6d5594
+Bagging-Date: 2021-02-07
+Bag-Size: 89 KB

@@ -1,0 +1,21 @@
+id: b399b1dc-bb92-45ea-a7e3-cfe6bd9ef3be
+name: aulaGuiao5.pdf
+title: aulaGuiao5
+subtitle:  
+id_produces: carolmack@playce.com
+authors: Leblanc Hale
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 1.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_b399b1dc-bb92-45ea-a7e3-cfe6bd9ef3be
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

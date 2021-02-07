@@ -1,0 +1,21 @@
+id: f03476c8-a941-48b3-823d-f03b6b065cc5
+name: 3_Semantica_Estrutural.pdf
+title: 3_Semantica_Estrutural
+subtitle:  
+id_produces: daphnecoleman@playce.com
+authors: Sonia Sharp
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 10.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_f03476c8-a941-48b3-823d-f03b6b065cc5
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

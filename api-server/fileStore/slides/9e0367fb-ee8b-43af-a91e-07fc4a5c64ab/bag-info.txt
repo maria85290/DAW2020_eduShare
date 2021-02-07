@@ -1,0 +1,21 @@
+id: 9e0367fb-ee8b-43af-a91e-07fc4a5c64ab
+name: pi2010-miniteste5B.pdf
+title: pi2010-miniteste5B
+subtitle:  
+id_produces: bridgettetran@playce.com
+authors: Martha Avila
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9e0367fb-ee8b-43af-a91e-07fc4a5c64ab
+Bagging-Date: 2021-02-07
+Bag-Size: 44 KB

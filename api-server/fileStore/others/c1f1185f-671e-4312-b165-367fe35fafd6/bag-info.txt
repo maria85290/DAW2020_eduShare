@@ -1,0 +1,20 @@
+id: c1f1185f-671e-4312-b165-367fe35fafd6
+name: hello.c
+title: hello
+subtitle:  
+id_produces: holmanlawrence@playce.com
+authors: Spencer Ramos
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/x-c
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 286 B

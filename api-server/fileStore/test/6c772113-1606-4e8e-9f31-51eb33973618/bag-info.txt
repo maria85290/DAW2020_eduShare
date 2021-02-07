@@ -1,0 +1,20 @@
+id: 6c772113-1606-4e8e-9f31-51eb33973618
+name: tx080400467p.pdf
+title: tx080400467p
+subtitle:  
+id_produces: webernewman@playce.com
+authors: Liliana Raymond
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 144 KB

@@ -1,0 +1,20 @@
+id: feccf323-456d-4ea8-85df-548d9e58a626
+name: rnoti-p378.pdf
+title: rnoti-p378
+subtitle:  
+id_produces: bradfordpope@playce.com
+authors: Herrera Oneil
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.6
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 143 KB

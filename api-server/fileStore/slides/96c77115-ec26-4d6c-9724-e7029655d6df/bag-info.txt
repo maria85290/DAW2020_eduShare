@@ -1,0 +1,21 @@
+id: 96c77115-ec26-4d6c-9724-e7029655d6df
+name: aulaGuiao2.pdf
+title: aulaGuiao2
+subtitle:  
+id_produces: dayosborne@playce.com
+authors: Sandoval Pace
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_96c77115-ec26-4d6c-9724-e7029655d6df
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

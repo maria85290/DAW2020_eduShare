@@ -1,0 +1,21 @@
+id: bf496bdc-06ca-4b8f-8bd4-3e79d7cbe70a
+name: rtx090800916p.pdf
+title: rtx090800916p
+subtitle:  
+id_produces: annmariewalls@playce.com
+authors: Marlene Townsend
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.7
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_bf496bdc-06ca-4b8f-8bd4-3e79d7cbe70a
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

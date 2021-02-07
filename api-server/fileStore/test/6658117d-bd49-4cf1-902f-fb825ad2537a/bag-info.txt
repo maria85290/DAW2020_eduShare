@@ -1,0 +1,20 @@
+id: 6658117d-bd49-4cf1-902f-fb825ad2537a
+name: Lighting.pdf
+title: Lighting
+subtitle:  
+id_produces: fannymills@playce.com
+authors: Rebecca Davis
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.7
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

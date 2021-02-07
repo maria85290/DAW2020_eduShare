@@ -1,0 +1,21 @@
+id: f1afe079-9a95-4b99-a373-b6997454f885
+name: rtx121001392p.pdf
+title: rtx121001392p
+subtitle:  
+id_produces: nevachapman@playce.com
+authors: Obrien Whitfield
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_f1afe079-9a95-4b99-a373-b6997454f885
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

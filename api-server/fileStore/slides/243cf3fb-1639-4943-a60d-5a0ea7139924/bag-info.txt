@@ -1,0 +1,20 @@
+id: 243cf3fb-1639-4943-a60d-5a0ea7139924
+name: jsan-02-00557.pdf
+title: jsan-02-00557
+subtitle:  
+id_produces: aracelimadden@playce.com
+authors: Cummings Schmidt
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

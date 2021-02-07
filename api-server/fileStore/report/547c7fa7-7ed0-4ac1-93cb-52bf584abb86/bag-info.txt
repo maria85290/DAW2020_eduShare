@@ -1,0 +1,20 @@
+id: 547c7fa7-7ed0-4ac1-93cb-52bf584abb86
+name: ficha5_Denotacional.pdf
+title: ficha5_Denotacional
+subtitle:  
+id_produces: queensargent@playce.com
+authors: Mercedes Everett
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 97 KB

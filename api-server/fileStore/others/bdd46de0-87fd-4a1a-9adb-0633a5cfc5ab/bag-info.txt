@@ -1,0 +1,20 @@
+id: bdd46de0-87fd-4a1a-9adb-0633a5cfc5ab
+name: 6_Logica_Hore.pdf
+title: 6_Logica_Hore
+subtitle:  
+id_produces: estherconrad@playce.com
+authors: Watson Bird
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,20 @@
+id: ca055474-1547-4ac8-862f-f14107b6a479
+name: AProbabilisticMulti-AgentSystemArchitectureforReasoninginSmartHomes.pdf
+title: AProbabilisticMulti-AgentSystemArchitectureforReasoninginSmartHomes
+subtitle:  
+id_produces: ellenwillis@playce.com
+authors: Kathie Drake
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2.5
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

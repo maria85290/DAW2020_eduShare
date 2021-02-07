@@ -1,0 +1,21 @@
+id: 158a6b8f-1b30-4b43-9cd7-a014e88d6a9b
+name: SLP1617-teste1.pdf
+title: SLP1617-teste1
+subtitle:  
+id_produces: fayefleming@playce.com
+authors: Herrera Oneil
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_158a6b8f-1b30-4b43-9cd7-a014e88d6a9b
+Bagging-Date: 2021-02-07
+Bag-Size: 87 KB

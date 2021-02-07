@@ -1,0 +1,20 @@
+id: c5dbd3b9-b8fe-46fb-9959-157b8d4cb5a6
+name: rnoti-p1186.pdf
+title: rnoti-p1186
+subtitle:  
+id_produces: vernashaffer@playce.com
+authors: Hood Graham
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 7.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 179 KB

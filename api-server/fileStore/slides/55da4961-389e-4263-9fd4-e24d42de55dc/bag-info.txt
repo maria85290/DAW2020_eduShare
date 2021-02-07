@@ -1,0 +1,21 @@
+id: 55da4961-389e-4263-9fd4-e24d42de55dc
+name: pi2010-lcc-exame.pdf
+title: pi2010-lcc-exame
+subtitle:  
+id_produces: francescabarlow@playce.com
+authors: Jerry Douglas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_55da4961-389e-4263-9fd4-e24d42de55dc
+Bagging-Date: 2021-02-07
+Bag-Size: 49 KB

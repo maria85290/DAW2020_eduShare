@@ -1,0 +1,21 @@
+id: 9d57e997-199b-448b-a23b-182cd45beadf
+name: Marisa Araújo Esteves.pdf
+title: Marisa Araújo Esteves
+subtitle:  
+id_produces: gutierrezflynn@playce.com
+authors: Alana Carson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 17.4
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_9d57e997-199b-448b-a23b-182cd45beadf
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

@@ -1,0 +1,21 @@
+id: fb56503c-c316-4b1f-9313-bf9a728c2408
+name: rnoti-p1030.pdf
+title: rnoti-p1030
+subtitle:  
+id_produces: hineskaufman@playce.com
+authors: Michelle Coffey
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.6
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fb56503c-c316-4b1f-9313-bf9a728c2408
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

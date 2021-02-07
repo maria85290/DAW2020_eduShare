@@ -1,0 +1,20 @@
+id: cd44b322-83e8-4d4b-9cc9-81627045e66a
+name: Slides6_JCF_Maps.pdf
+title: Slides6_JCF_Maps
+subtitle:  
+id_produces: cummingsschmidt@playce.com
+authors: Ashley Kinney
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

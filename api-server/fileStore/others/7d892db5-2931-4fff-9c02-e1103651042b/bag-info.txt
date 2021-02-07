@@ -1,0 +1,21 @@
+id: 7d892db5-2931-4fff-9c02-e1103651042b
+name: pri2019-e1.html
+title: pri2019-e1
+subtitle:  
+id_produces: sanchezduffy@playce.com
+authors: Welch Larson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_7d892db5-2931-4fff-9c02-e1103651042b
+Bagging-Date: 2021-02-07
+Bag-Size: 13 KB

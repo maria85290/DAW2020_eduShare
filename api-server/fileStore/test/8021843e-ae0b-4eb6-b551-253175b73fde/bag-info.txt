@@ -1,0 +1,21 @@
+id: 8021843e-ae0b-4eb6-b551-253175b73fde
+name: texturas.pdf
+title: texturas
+subtitle:  
+id_produces: williamsongoodman@playce.com
+authors: Althea Hutchinson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_8021843e-ae0b-4eb6-b551-253175b73fde
+Bagging-Date: 2021-02-07
+Bag-Size: 145 KB

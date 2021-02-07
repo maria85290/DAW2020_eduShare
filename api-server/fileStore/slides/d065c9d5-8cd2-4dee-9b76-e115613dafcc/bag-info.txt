@@ -1,0 +1,21 @@
+id: d065c9d5-8cd2-4dee-9b76-e115613dafcc
+name: sistemas_distribuidos.pdf
+title: sistemas_distribuidos
+subtitle:  
+id_produces: bauerhanson@playce.com
+authors: Glenna Snow
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.8
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d065c9d5-8cd2-4dee-9b76-e115613dafcc
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

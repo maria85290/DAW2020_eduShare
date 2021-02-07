@@ -1,0 +1,21 @@
+id: c90936ae-ba5f-44e6-b65d-9168cf125f2b
+name: rnoti-p295 (1).pdf
+title: rnoti-p295 (1)
+subtitle:  
+id_produces: estermcmillan@playce.com
+authors: Maribel Hancock
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_c90936ae-ba5f-44e6-b65d-9168cf125f2b
+Bagging-Date: 2021-02-07
+Bag-Size: 153 KB

@@ -1,0 +1,21 @@
+id: d039151f-0c9a-471d-988a-47cb4f613403
+name: guiao-06.pdf
+title: guiao-06
+subtitle:  
+id_produces: euniceflowers@playce.com
+authors: Maura Mccormick
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d039151f-0c9a-471d-988a-47cb4f613403
+Bagging-Date: 2021-02-07
+Bag-Size: 51 KB

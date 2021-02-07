@@ -1,0 +1,21 @@
+id: 112fea9c-323b-49d2-a1c9-1983db7f14da
+name: prc2018-aferição.html
+title: prc2018-aferição
+subtitle:  
+id_produces: curryhopkins@playce.com
+authors: Jennie Duran
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/html
+visibility: public
+hashtags: 
+id_post: post_112fea9c-323b-49d2-a1c9-1983db7f14da
+Bagging-Date: 2021-02-07
+Bag-Size: 14 KB

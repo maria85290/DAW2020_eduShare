@@ -1,0 +1,20 @@
+id: 15699f3e-a3de-4f18-83e3-4d2082ba8bdb
+name: AI___trabalho_Individual.pdf
+title: AI___trabalho_Individual
+subtitle:  
+id_produces: louellahendricks@playce.com
+authors: Pratt Gray
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

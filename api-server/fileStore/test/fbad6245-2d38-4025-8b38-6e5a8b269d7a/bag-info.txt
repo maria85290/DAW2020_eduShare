@@ -1,0 +1,21 @@
+id: fbad6245-2d38-4025-8b38-6e5a8b269d7a
+name: TP1-pag4-6.pdf
+title: TP1-pag4-6
+subtitle:  
+id_produces: lindsaymaynard@playce.com
+authors: Carol Mack
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:51
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_fbad6245-2d38-4025-8b38-6e5a8b269d7a
+Bagging-Date: 2021-02-07
+Bag-Size: 128 KB

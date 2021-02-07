@@ -1,0 +1,20 @@
+id: 98401a77-ab94-441f-a531-5a875c600936
+name: pi2005-e2.pdf
+title: pi2005-e2
+subtitle:  
+id_produces: burtongarrett@playce.com
+authors: Marcy Franco
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 70 KB

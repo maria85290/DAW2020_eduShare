@@ -1,0 +1,20 @@
+id: e3f10f33-3f33-4906-a2f5-f37a6b659e3c
+name: rnoti-p1036.pdf
+title: rnoti-p1036
+subtitle:  
+id_produces: fletchermontoya@playce.com
+authors: Trina Taylor
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

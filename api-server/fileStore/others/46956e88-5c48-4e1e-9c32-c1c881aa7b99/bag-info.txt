@@ -1,0 +1,21 @@
+id: 46956e88-5c48-4e1e-9c32-c1c881aa7b99
+name: rnoti-p491.pdf
+title: rnoti-p491
+subtitle:  
+id_produces: cummingsschmidt@playce.com
+authors: Colon Shields
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_46956e88-5c48-4e1e-9c32-c1c881aa7b99
+Bagging-Date: 2021-02-07
+Bag-Size: 154 KB

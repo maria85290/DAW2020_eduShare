@@ -1,0 +1,20 @@
+id: f2dc9415-61ac-46fa-beb9-f4ca878aa318
+name: guiao-07.pdf
+title: guiao-07
+subtitle:  
+id_produces: celinabest@playce.com
+authors: Henry Collier
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 25 KB

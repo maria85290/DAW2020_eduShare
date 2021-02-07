@@ -1,0 +1,20 @@
+id: 15db24f6-6a09-4fa7-9b8d-9dba33772080
+name: Exercícios 2016-2017.zip
+title: Exercícios 2016-2017
+subtitle:  
+id_produces: queensargent@playce.com
+authors: Minnie Norman
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 2.4
+mimeType: application/zip
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

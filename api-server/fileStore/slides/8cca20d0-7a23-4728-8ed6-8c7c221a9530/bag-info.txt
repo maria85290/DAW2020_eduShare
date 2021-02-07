@@ -1,0 +1,20 @@
+id: 8cca20d0-7a23-4728-8ed6-8c7c221a9530
+name: tx080300366p.pdf
+title: tx080300366p
+subtitle:  
+id_produces: larajoseph@playce.com
+authors: Roseann Olson
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 5.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

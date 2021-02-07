@@ -1,0 +1,20 @@
+id: d22ba023-fb6d-4b17-a2bc-04002a45d812
+name: propostas-mestrado-2020.pdf
+title: propostas-mestrado-2020
+subtitle:  
+id_produces: carterbradley@playce.com
+authors: Schneider Kidd
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 101 KB

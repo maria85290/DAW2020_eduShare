@@ -1,0 +1,20 @@
+id: b776ca94-8f5c-4bb3-a59a-2835ab1757ab
+name: tx080200238p.pdf
+title: tx080200238p
+subtitle:  
+id_produces: lucyhuff@playce.com
+authors: Velez Christian
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 5.2
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

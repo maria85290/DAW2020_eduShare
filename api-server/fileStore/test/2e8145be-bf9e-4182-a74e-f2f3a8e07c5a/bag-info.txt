@@ -1,0 +1,21 @@
+id: 2e8145be-bf9e-4182-a74e-f2f3a8e07c5a
+name: rtx101101444p.pdf
+title: rtx101101444p
+subtitle:  
+id_produces: vargasgraves@playce.com
+authors: Dianna Atkins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_2e8145be-bf9e-4182-a74e-f2f3a8e07c5a
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

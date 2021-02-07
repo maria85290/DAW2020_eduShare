@@ -1,0 +1,21 @@
+id: 468770c6-0721-4c10-b877-99d9b3e7e090
+name: rtx100300391p.pdf
+title: rtx100300391p
+subtitle:  
+id_produces: trevinotalley@playce.com
+authors: Riddle Cortez
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.2
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_468770c6-0721-4c10-b877-99d9b3e7e090
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

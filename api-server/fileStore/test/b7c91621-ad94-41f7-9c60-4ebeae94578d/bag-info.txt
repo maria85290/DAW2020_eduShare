@@ -1,0 +1,20 @@
+id: b7c91621-ad94-41f7-9c60-4ebeae94578d
+name: rtx090700800p.pdf
+title: rtx090700800p
+subtitle:  
+id_produces: spencerramos@playce.com
+authors: Higgins Contreras
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

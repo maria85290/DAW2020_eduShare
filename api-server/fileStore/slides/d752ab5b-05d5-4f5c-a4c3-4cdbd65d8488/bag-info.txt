@@ -1,0 +1,21 @@
+id: d752ab5b-05d5-4f5c-a4c3-4cdbd65d8488
+name: Exerc4.pdf
+title: Exerc4
+subtitle:  
+id_produces: fredabuchanan@playce.com
+authors: Christina Mayer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:44
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_d752ab5b-05d5-4f5c-a4c3-4cdbd65d8488
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

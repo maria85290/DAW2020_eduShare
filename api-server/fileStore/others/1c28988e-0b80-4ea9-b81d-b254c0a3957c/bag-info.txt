@@ -1,0 +1,21 @@
+id: 1c28988e-0b80-4ea9-b81d-b254c0a3957c
+name: fea-sato-2.pdf
+title: fea-sato-2
+subtitle:  
+id_produces: queensargent@playce.com
+authors: Carrillo Ayers
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_1c28988e-0b80-4ea9-b81d-b254c0a3957c
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

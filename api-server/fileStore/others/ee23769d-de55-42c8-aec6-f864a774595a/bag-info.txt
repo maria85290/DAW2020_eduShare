@@ -1,0 +1,20 @@
+id: ee23769d-de55-42c8-aec6-f864a774595a
+name: FichaProb6_(Campo_Magnetico_I).pdf
+title: FichaProb6_(Campo_Magnetico_I)
+subtitle:  
+id_produces: jacklynshort@playce.com
+authors: Sandra Avery
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:45
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.4
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

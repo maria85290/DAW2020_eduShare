@@ -1,0 +1,148 @@
+\documentclass[a4paper]{article}
+\usepackage[portuges]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{url}
+
+\usepackage{aeguill}  % usefull for pdflatex
+\usepackage[compat2,a4paper,twosideshift=0mm,left=20mm,right=20mm,bottom=20mm,top=15mm]{geometry}
+
+\parindent=2em
+
+
+\title{Projecto (Integrado) de xxx\\ Relatório da Fase xx\\ Grupo yyyy}
+\author{Autor1 (número) \and Autor2 (número) \and Autor3 (número)}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Este documento apresenta uma possível estrutura e conteúdo que
+deverá ter um relatório de um projecto do 1º ano de uma das
+licenciaturas de Informática leccionadas pelo Dep. Informática da
+UM. Serve simultaneamente de exemplo de relatório e de manual
+resumido de instruções para a sua elaboração. Os relatórios deste
+tipo têm uma dimensão entre 4 e 8 páginas, para além de eventuais
+anexos.
+\end{abstract}
+
+\parskip=0mm
+\tableofcontents
+\parskip=2mm
+
+\section{Introdução}
+Uma introdução começa normalmente com a apresentação do problema
+que se pretende resolver e sua contextualização (o
+"enquadramento").
+
+No caso deste relatório, é um documento de treino das capacidades
+de comunicação escrita dos estudantes do 1º ano de informática da
+UM, que tem também como objectivo relatar as diversas fases por
+que o grupo de trabalho teve de passar para chegar ao resultado
+final na resolução de um dado problema, apresentado como o
+"Projecto". Este relatório faz parte integrante do projecto da
+disciplina de PP2 (LESI) e do projecto do par de disciplinas PI+AC
+(LMCC, com a designação de "Projecto Integrado").
+
+Uma vez elaborado, em LaTeX, o relatório e respectivos anexos (se
+existirem) deverão ser compilados para PDF. O conjunto de
+ficheiros resultantes, LaTeX, PDF e os ficheiros de código e
+respectivos dados (de entrada e/ou de teste) deverão ser colocados
+numa pasta e esta compactada (formato ZIP). O ficheiro resultante
+deverá então ser submetido electronicamente em
+\url{http://nirvana.di.uminho.pt/labdotnet/Submit_PP2_PI_AC_0506}. Se
+alguém tiver que submeter o seu trabalho enquanto membro de mais
+que um grupo (um para PI, outro para AC), deverá contactar
+directamente o docente de AC.
+
+A introdução termina normalmente com uma apresentação da estrutura
+do relatório, e o que aqui se apresenta é apenas um exemplo para a
+fase 1 do projecto. A Secção 2 caracteriza o ambiente de trabalho,
+quer em termos de equipamento, quer ainda de sistema operativo e
+aplicações usadas. A Secção 3 descreve e analisa o problem a
+resolver, especificando ainda os seus requisitos. A Secção 4
+propõe uma solução para o problema, em termos de algoritmos e
+estruturas de dados a usar, enquanto a Secção seguinte descreve
+sumariamente as alternativas e decisões tomadas na codificação da
+resolução e consequentes testes e resultados obtidos. O relatório
+termina com uma Secção de Conclusões, onde se discutem de uma
+forma crítica os resultados gerais elaboração do trabalho.
+
+Comentários adicionais: o Resumo deverá apenas conter uma
+descrição resumida do conteúdo do relatório, e não mais que 1/3
+deverá ser usado para contextualizar o problema; se forem
+consultadas obras bibliográficas que merecem ser referidas ou
+sítios na Web que merecem algum destaque, deverá ser criada uma
+nova Secção "Referências", não numerada, após as "Conclusões",
+contendo uma lista numerada dessas referências, ordenada pela
+ordem com que surgem no texto.
+
+\section{Ambiente de Trabalho}
+Nesta secção descreve-se o ambiente de trabalho que se utilizou na
+resolução do problema. Esta descrição deverá incluir todos os
+detalhes pertinentes para garantir a reprodutibilidade das
+condições de teste utilizadas no esforço de obtenção de uma
+solução do problema.
+
+A fase final do projecto conterá uma componente relevante
+relacionada com avaliação de desempenho, pelo que se deverá
+incluir todas as características do sistema computacional que
+possam ter algum impacto no desempenho.
+
+Dever-se-á ainda incluir a caracterização de todo o software que
+for utilizado, desde o sistema operativo aos utilitários de
+desenvolvimento (não esquecer as versões).
+
+\section{Análise e Especificação}
+Nesta secção vai-se reportar a análise e a especificação da
+solução do problema. Seguem-se algumas sugestões de sub-secções.
+
+\subsection{Descrição informal do problema}
+
+\subsection{Especificação dos Requisitos}
+
+\subsubsection{Dados}
+
+\subsubsection{Pedidos}
+
+\subsubsection{Relações}
+
+\section{Concepção/desenho da Resolução}
+\subsection{Estruturas de Dados}
+\subsection{Algoritmos}
+
+\section{Codificação e Testes}
+\subsection{Alternativas, Decisões e Problemas de Implementação}
+\subsection{Testes realizados e Resultados}
+
+Mostram-se a seguir alguns testes feitos (valores introduzidos) e os
+respectivos resultados obtidos:
+
+\begin{Verbatim}
+  Input:
+
+  7
+
+  Output:
+
+  1 1 2 3 5 8 13
+\end{Verbatim}
+
+
+\section{Conclusões}
+Síntese do Documento.\\
+Estado final do projecto. Análise crítica dos resultados.\\
+Sugestões para trabalho futuro.
+
+\appendix
+\section{Código do Programa}
+
+Lista-se a seguir o código \textsf{C} do programa que foi
+desenvolvido.
+
+\VerbatimInput{hello.c}
+
+\end{document}

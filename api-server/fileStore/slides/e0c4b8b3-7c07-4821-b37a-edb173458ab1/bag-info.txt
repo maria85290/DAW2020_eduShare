@@ -1,0 +1,21 @@
+id: e0c4b8b3-7c07-4821-b37a-edb173458ab1
+name: O_Processo_ETL_em_Sistemas_Data_Warehouse.pdf
+title: O_Processo_ETL_em_Sistemas_Data_Warehouse
+subtitle:  
+id_produces: jimenezknapp@playce.com
+authors: Frye Ware
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:47
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 0.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_e0c4b8b3-7c07-4821-b37a-edb173458ab1
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

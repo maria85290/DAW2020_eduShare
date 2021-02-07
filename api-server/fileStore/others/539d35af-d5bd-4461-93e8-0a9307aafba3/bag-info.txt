@@ -1,0 +1,21 @@
+id: 539d35af-d5bd-4461-93e8-0a9307aafba3
+name: SLP1516-teste1.pdf
+title: SLP1516-teste1
+subtitle:  
+id_produces: mcleanrutledge@playce.com
+authors: Jennie Duran
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_539d35af-d5bd-4461-93e8-0a9307aafba3
+Bagging-Date: 2021-02-07
+Bag-Size: 111 KB

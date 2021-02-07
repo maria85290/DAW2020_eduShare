@@ -1,0 +1,21 @@
+id: 052dc64e-6557-4582-bec7-6cd7d96d2d32
+name: processos.txt
+title: processos
+subtitle:  
+id_produces: jerrydouglas@playce.com
+authors: Paula Keller
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 4.2
+mimeType: text/plain
+visibility: public
+hashtags: 
+id_post: post_052dc64e-6557-4582-bec7-6cd7d96d2d32
+Bagging-Date: 2021-02-07
+Bag-Size: 182 KB

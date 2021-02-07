@@ -1,0 +1,21 @@
+id: 053f72b5-3897-45ac-9576-32ced549371f
+name: rtx120801056p.pdf
+title: rtx120801056p
+subtitle:  
+id_produces: maciashayden@playce.com
+authors: Haley Rasmussen
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: slides
+size: 3.5
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_053f72b5-3897-45ac-9576-32ced549371f
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

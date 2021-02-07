@@ -1,0 +1,20 @@
+id: e76f3b95-0ed8-44a3-870c-412f98a1a4f8
+name: 2.jpg
+title: 2
+subtitle:  
+id_produces: brittanyperez@playce.com
+authors: Marsh Mercer
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: image/jpeg
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 59 KB

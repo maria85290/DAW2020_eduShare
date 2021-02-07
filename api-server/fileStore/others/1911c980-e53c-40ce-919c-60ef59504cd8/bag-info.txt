@@ -1,0 +1,21 @@
+id: 1911c980-e53c-40ce-919c-60ef59504cd8
+name: historia.ttl
+title: historia
+subtitle:  
+id_produces: georgegolden@playce.com
+authors: Robbins Cox
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: others
+size: 0
+mimeType: text/turtle
+visibility: public
+hashtags: 
+id_post: post_1911c980-e53c-40ce-919c-60ef59504cd8
+Bagging-Date: 2021-02-07
+Bag-Size: 1.6 KB

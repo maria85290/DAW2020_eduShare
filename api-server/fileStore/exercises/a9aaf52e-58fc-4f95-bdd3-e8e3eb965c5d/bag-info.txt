@@ -1,0 +1,20 @@
+id: a9aaf52e-58fc-4f95-bdd3-e8e3eb965c5d
+name: slidesPOO_2011_2012_ParteII.pdf
+title: slidesPOO_2011_2012_ParteII
+subtitle:  
+id_produces: theresagilmore@playce.com
+authors: Dianna Atkins
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:50
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 2.1
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 197 KB

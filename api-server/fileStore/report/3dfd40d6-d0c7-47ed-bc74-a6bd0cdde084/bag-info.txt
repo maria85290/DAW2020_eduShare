@@ -1,0 +1,20 @@
+id: 3dfd40d6-d0c7-47ed-bc74-a6bd0cdde084
+name: ManualApoio1.pdf
+title: ManualApoio1
+subtitle:  
+id_produces: sheenadoyle@playce.com
+authors: Paul Dennis
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:46
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: report
+size: 0.3
+mimeType: application/pdf
+visibility: private
+hashtags: 
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

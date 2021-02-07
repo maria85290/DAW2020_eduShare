@@ -1,0 +1,21 @@
+id: c72d2ed3-9460-4bc2-8f05-aa753c10d258
+name: 42844_2021_ME52ME5200_PT_393063_2Ciclo_signed (3).pdf
+title: 42844_2021_ME52ME5200_PT_393063_2Ciclo_signed (3)
+subtitle:  
+id_produces: delacruzhyde@playce.com
+authors: Betsy Merrill
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:43
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_c72d2ed3-9460-4bc2-8f05-aa753c10d258
+Bagging-Date: 2021-02-07
+Bag-Size: 55 KB

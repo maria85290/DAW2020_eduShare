@@ -1,0 +1,21 @@
+id: c56a5cf1-e418-44f1-a799-3e6b6879e2cd
+name: _AD____Trabalho_Pr_tico1.pdf
+title: _AD____Trabalho_Pr_tico1
+subtitle:  
+id_produces: velmaarnold@playce.com
+authors: Shelby Clements
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:52
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_c56a5cf1-e418-44f1-a799-3e6b6879e2cd
+Bagging-Date: 2021-02-07
+Bag-Size: 131 KB

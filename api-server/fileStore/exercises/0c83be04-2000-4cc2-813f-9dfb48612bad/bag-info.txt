@@ -1,0 +1,21 @@
+id: 0c83be04-2000-4cc2-813f-9dfb48612bad
+name: rtx090200244p.pdf
+title: rtx090200244p
+subtitle:  
+id_produces: obrienwhitfield@playce.com
+authors: Hewitt Vargas
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:49
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: exercises
+size: 0.1
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_0c83be04-2000-4cc2-813f-9dfb48612bad
+Bagging-Date: 2021-02-07
+Bag-Size: 103 KB

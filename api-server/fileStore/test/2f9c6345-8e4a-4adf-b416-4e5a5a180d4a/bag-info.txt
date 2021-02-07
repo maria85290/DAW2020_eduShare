@@ -1,0 +1,21 @@
+id: 2f9c6345-8e4a-4adf-b416-4e5a5a180d4a
+name: rnoti-p152.pdf
+title: rnoti-p152
+subtitle:  
+id_produces: clevelandaustin@playce.com
+authors: Dyer Hughes
+dateLastUpdate: 2021-02-7
+timeLastUpdate: 19:3:48
+subject: undefined
+description: undefined
+posts: 
+ranking: 0
+rankingList: 
+type: test
+size: 3
+mimeType: application/pdf
+visibility: public
+hashtags: 
+id_post: post_2f9c6345-8e4a-4adf-b416-4e5a5a180d4a
+Bagging-Date: 2021-02-07
+Bag-Size: 184 KB
